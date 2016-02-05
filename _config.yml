@@ -1,0 +1,6 @@
+gems:		 [jekyll-sitemap]
+# styling
+markdown:	 kramdown
+# highlighter:   pygments # This is NOT what we want!!
+kramdown:
+   syntax_highlighter: rouge # Here rouge is :D
