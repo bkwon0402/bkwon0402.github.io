@@ -1,3 +1,22 @@
 body {
 	background-color: white;
 }
+
+
+.nav {
+	height: 		73px;
+	margin: 		0;
+	margin-left: 	40px;
+}
+
+.nav ul {
+	font-family:	"FiraSans";
+	list-style: 	none;
+	height: 		100%;
+	margin: 		0;
+	padding: 		0px;
+}
+
+.nav li {
+	float: left;
+}
