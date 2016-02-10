@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<head>
+	{% include {{page.headtouse}} %}
+	<style type="text/css">
+		#homeLogo {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+{% include header.html %}
+
+<div id="portfolio_hero">
+	{{page.title}}
+	<span>{{page.sub}}</span>
+</div>
+{{ content }}
