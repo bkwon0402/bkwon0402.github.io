@@ -52,10 +52,13 @@ h1 {
 }
 
 .portfolio li .sample {
-	display: 	block;
-	width: 		250px;
-	height: 	200px;
-	box-shadow: 0px 0px 8px #fafafa;
+	background-size: 		100%;
+	background-repeat: 		no-repeat;
+	background-position: 	center;
+	display: 				block;
+	width: 					250px;
+	height: 				200px;
+	box-shadow: 			0px 0px 8px #fafafa;
 }
 
 .portfolio li:hover .sample {
