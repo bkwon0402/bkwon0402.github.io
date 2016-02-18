@@ -1,5 +1,5 @@
 body {
-	font-family: adobe caslon pro;
+	font-family: calluna;
 	background-color: white;
 }
 
@@ -33,13 +33,14 @@ h1 {
 	height: 	24px;
 	width: 		24px;
 	padding: 	21px;
-	font-size: 	24px;
+	font-size: 	30px;
 }
 
 .portfolio {
 	position: 	relative;
 	max-width: 	1000px;
 	margin: 	120px auto;
+	margin-left: 110px;
 	list-style: none;
 }
 
@@ -47,15 +48,26 @@ h1 {
 	position: 	relative;
 	float: 		left;
 	margin: 	20px 24px;
-	margin-left: 0px;
+	margin-left: 10px;
+	margin-bottom: 40px;
 	height: 	220px;
 }
 
 .portfolio li .sample {
+
 	display: 	block;
-	width: 		293px;
-	height: 	219.4px;
+
+
 	box-shadow: 0px 0px 8px #fafafa;
+
+	background-size: 		100%;
+	background-repeat: 		no-repeat;
+	background-position: 	center;
+	
+	width: 					270px;
+	height: 				180.36px;
+	box-shadow: 			0px 0px 8px #fafafa;
+
 }
 
 .portfolio li:hover .sample {
@@ -65,9 +77,9 @@ h1 {
 .details {
 	display: 	block;
 	margin: 	10px;
-	font-size: 	20px;
+	font-size: 	19px;
 	text-align: center;
-	color: 		black;
+	color: 		#454545;
 }
 
 .portfolio li:hover .details {
@@ -75,7 +87,7 @@ h1 {
 }
 
 .details span {
-	font-size: 16px;
+	font-size: 17px;
 }
 
 /* portfolio item page */
@@ -89,14 +101,14 @@ hr.style-six {
 }
 
 #portfolio_hero {
-	font-size: 		40px;
+	font-size: 		39px;
 	margin-left: 	80px;
-	margin-top: 	50px;
+	margin-top: 	65px;
 	margin-bottom: 	110px;
 }
 
 #portfolio_hero span {
-	font-size: 	18px;
+	font-size: 	26px;
 	display: 	block;
 }
 
@@ -109,11 +121,14 @@ hr.style-six {
 	font-size: 			23px;
 	text-align: 		center;
 	padding-bottom: 	20px;
+
 }
 
 #portfolio_content p {
 	font-size: 	23px;
 	text-align: left;
+	line-height: 150%;
+
 }
 
 /* global */
@@ -125,11 +140,11 @@ hr.style-six {
 }
 
 .nav ul {
-	position: 		absolute;
+	position: 		fixed;
 	right: 			0px;
 	height: 		0px;
 	display: 		block;
-	font-family:	"FiraSans";
+	font-family:	"calluna";
 	list-style: 	none;
 	margin: 		0;
 	padding: 		21px 40px;
@@ -137,7 +152,6 @@ hr.style-six {
 
 .nav li {
 	font-size: 	18px;
-	font-style: italic;
 	float: 		left;
 	margin-left:30px;
 }
