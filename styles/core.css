@@ -131,6 +131,14 @@ hr.style-six {
 
 }
 
+div.image {
+	content:url('/images/streami.png');
+	width: 800px;
+	margin-left: -70px;
+
+}
+
+
 /* global */
 .nav {
 	height: 		43px;
