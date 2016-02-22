@@ -10,6 +10,8 @@ Lorem ipsum dolor sit amet, prima oratio probatus ei sed, molestiae conclusionem
 
 Est omnis mazim feugiat at, nam alii altera te, noster scripta id nam. Nibh salutatus est cu, ex per explicari persequeris, ea partem omnium ius. Sea oblique evertitur accommodare ei, ei gubergren moderatius sit, laudem scriptorem no ius. Omnium eligendi cu sed, erant fabellas mel ne, nam in inermis ponderum iudicabit.
 
+<div class="_image" style="background-image: url('/images/kbeauty.png');"></div>
+
 Qui debitis deserunt pertinacia at, at vivendum scripserit duo. Te nec legendos mandamus, eam ea habeo discere, sed no epicurei adipiscing efficiantur. Sit hinc mazim saperet te, no soleat iriure eripuit eos. Ei cibo liber instructior sea. In cum graeco noluisse, quo copiosae honestatis eu. Ex erat lucilius vel, periculis voluptatum eloquentiam mea te. Nam an ferri iudicabit scriptorem, nibh solum melius et vis, quo posse possit at.
 
 Congue decore instructior at pro. Ei esse mazim dolorem usu. Ut vim impedit expetenda, te nam detracto vituperatoribus, eum cu odio quaeque equidem. Qui magna utamur epicurei ex, copiosae suavitate at sit, vivendo luptatum forensibus eu quo. Eu cum saperet officiis, ludus aperiri eripuit ius no, eam ei nulla civibus denique.

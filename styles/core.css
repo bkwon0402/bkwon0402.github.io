@@ -24,7 +24,7 @@ h1 {
 }
 
 #homeLogo {
-	position: absolute;
+	position:   absolute;
 	display: 	none;
 	color: 		#000;
 	text-align: center;
@@ -38,36 +38,34 @@ h1 {
 
 .portfolio {
 	position: 	relative;
-	max-width: 	1000px;
+	min-width: 	300px;
+	width: 		95%;
 	margin: 	120px auto;
-	margin-left: 110px;
 	list-style: none;
 }
 
 .portfolio li {
-	position: 	relative;
-	float: 		left;
-	margin: 	20px 24px;
-	margin-left: 10px;
-	margin-bottom: 40px;
-	height: 	220px;
+	position: 		relative;
+	float: 			left;
+	margin: 		20px 24px;
+	margin-left: 	10px;
+	margin-bottom: 	40px;
+	width: 			30%;
+	padding-bottom:	10%;
+	min-height: 	270px;
+	min-width: 		270px;
 }
 
 .portfolio li .sample {
-
-	display: 	block;
-
-
-	box-shadow: 0px 0px 8px #fafafa;
-
+	position: 				absolute;
+	display: 				block;
+	box-shadow: 			0px 0px 8px #fafafa;
 	background-size: 		100%;
 	background-repeat: 		no-repeat;
 	background-position: 	center;
-	
-	width: 					270px;
-	height: 				180.36px;
-	box-shadow: 			0px 0px 8px #fafafa;
-
+	width: 					100%;
+	height: 				80%;
+	min-height: 			180.36px;
 }
 
 .portfolio li:hover .sample {
@@ -75,6 +73,9 @@ h1 {
 }
 
 .details {
+	position: 	absolute;
+	bottom: 	0px;
+	width:		100%;
 	display: 	block;
 	margin: 	10px;
 	font-size: 	19px;
@@ -102,9 +103,9 @@ hr.style-six {
 
 #portfolio_hero {
 	font-size: 		39px;
-	margin-left: 	80px;
+	margin-left: 	15%;
 	margin-top: 	65px;
-	margin-bottom: 	110px;
+	margin-bottom: 	90px;
 }
 
 #portfolio_hero span {
@@ -113,6 +114,7 @@ hr.style-six {
 }
 
 #portfolio_content {
+	padding: 	20px;
 	width: 		700px;
 	margin:		0 auto;
 }
@@ -131,15 +133,25 @@ hr.style-six {
 
 }
 
-div.image {
-	content:url('/images/streami.png');
-	width: 800px;
-	margin-left: -70px;
+#portfolio_content ._image {
+	display: 				block;
+	margin: 				50px auto;
+	box-shadow: 			0px 0px 8px #fafafa;
+	background-size: 		100%;
+	background-repeat: 		no-repeat;
+	background-position: 	center;
 
+	width: 70%;
+	height: 400px;
 }
 
-
 /* global */
+.header {
+	position:	absolute;
+	width: 		100%;
+	top: 		0px;
+	background: rgba(255, 255, 255, .88);
+}
 .nav {
 	height: 		43px;
 	margin: 		0;
@@ -148,7 +160,7 @@ div.image {
 }
 
 .nav ul {
-	position: 		fixed;
+	position: 		absolute;
 	right: 			0px;
 	height: 		0px;
 	display: 		block;
