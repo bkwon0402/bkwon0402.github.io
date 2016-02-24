@@ -1,19 +1,49 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: social news reader
-sub: ui/ux
+title: ClearEar
+sub: website
 ---
 # The Challenge
 
-Lorem ipsum dolor sit amet, prima oratio probatus ei sed, molestiae conclusionemque id mea. Definiebas sadipscing sed id, dicam feugait deterruisset in mei. Sed corpora ocurreret ex, debitis intellegebat mei at. Cum at semper invenire tincidunt, utamur disputando eu est, pro ex odio disputando. Blandit detraxit laboramus qui ne, mei facer sonet commodo no. His ad nibh dignissim assentior, nec te liber saperet forensibus.
+As a personal project, I designed a website mockup for my friend’s startup ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
 
-Est omnis mazim feugiat at, nam alii altera te, noster scripta id nam. Nibh salutatus est cu, ex per explicari persequeris, ea partem omnium ius. Sea oblique evertitur accommodare ei, ei gubergren moderatius sit, laudem scriptorem no ius. Omnium eligendi cu sed, erant fabellas mel ne, nam in inermis ponderum iudicabit.
 
-<div class="_image" style="background-image: url('/images/kbeauty.png');"></div>
 
-Qui debitis deserunt pertinacia at, at vivendum scripserit duo. Te nec legendos mandamus, eam ea habeo discere, sed no epicurei adipiscing efficiantur. Sit hinc mazim saperet te, no soleat iriure eripuit eos. Ei cibo liber instructior sea. In cum graeco noluisse, quo copiosae honestatis eu. Ex erat lucilius vel, periculis voluptatum eloquentiam mea te. Nam an ferri iudicabit scriptorem, nibh solum melius et vis, quo posse possit at.
+# My process 
 
-Congue decore instructior at pro. Ei esse mazim dolorem usu. Ut vim impedit expetenda, te nam detracto vituperatoribus, eum cu odio quaeque equidem. Qui magna utamur epicurei ex, copiosae suavitate at sit, vivendo luptatum forensibus eu quo. Eu cum saperet officiis, ludus aperiri eripuit ius no, eam ei nulla civibus denique.
+I like to start projects by spending time understanding the product and company. ClearEar had just run a very successful Indiegogo campaign (link), so I closely reviewed the campaign as well as a TechCrunch article that covered the campaign.  
 
-Usu cu nonumes accusamus, an summo choro eloquentiam nam. Ius id pertinacia complectitur, te persius explicari nam. His maiestatis incorrupte argumentum at, ut sed iusto graeco. Duo dissentias accommodare te. In qui aperiam accusamus. Omnis graeci intellegam eam id, falli similique pri in. Cu accumsan fabellas inimicus sea, eam ex tritani omittam repudiandae, harum graece no sit.
+I then invested a lot of time into researching examples. In this case, I went onto Angelist and searched for medical device startups. I then visited their websites and studied what distinguishes well-designed websites from mediocre ones. 
+
+One insight I gained was that well-designed websites employ effective calls to action. The goal of medical device startups’ websites is to sell their products, and one way to achieve the goal is to employ effective calls to action. I observed that effective websites do this by: 
+
+1) featuring a call to action (i.e. “Order now” or “Pre-order now” button) prominently on the landing page 2) having a call to action button stay on the page as users scroll down i.e. a fixed top navigation bar that has the button stay on the page. 
+
+Another insight I gained was that effective websites feature a succinct product copy on the landing page. This makes sense because people are not interested in reading verbose product description; a short, interesting product copy will pique their interests and make them want to learn more.    
+ 
+In addition, well-designed websites do a superb job at “storytelling” their product. They present a well-crafted story around the product that helps people understand and appreciate the product’s value.   
+
+Lastly, well-designed websites improve credibility by featuring logos of press that covered their products.   
+
+After I researched examples and gain insights, I then worked on content. I designed pages so they featured prominent calls to action. After brainstorming, I came up with a succinct product copy “A better way to clean your ears.” In terms of product storytelling, I decided to work with content they used in their Indiegogo campaign. The campaign earned the support of 1,276 backers, so I trusted that the content resonated with audience. I also assembled press logos. While I saw that some websites feature press logos on the bottom of landing pages, I decided to feature them on top since ClearEar is a young company that has much to benefit from credibility cues. Credibility cues such as press coverage will instill confidence in their audience that the product is legitimate and make potential customers feel comfortable about making a purchase.  
+
+ 
+Finally, I worked on visual design and bringing content into life. The company already had branding assets such as logo and icons, so I designed pages in a style that suits their current branding. 
+
+Here is the landing page. 
+<br>
+<br>
+<div class="clearearlanding"></div>
+<br>
+Here is the about page. 
+<br>
+<br>
+<div class="clearearabout"></div>
+<br>
+Here is the landing page with the top navigation bar shown. 
+<br>
+<br> 
+<div class="cleareartopnav"></div>
+<br>
+
