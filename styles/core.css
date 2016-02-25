@@ -668,6 +668,11 @@ div.wefinanceemail {
 	content: url('/images/wefinanceemail.png');
 	margin-left: 50px;
 }
+.say {
+	font-size: 25px;
+	text-align: center;
+}
+
 
 
 .hi {
