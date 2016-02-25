@@ -69,7 +69,7 @@ However, once I designed the high-fidelity mockup of 3), I realized that it’s 
 <br>
  I decided creating a distraction-free experience is more important than giving users a bit more control over managing articles, so I went with 2) instead.   
 <div class="bottombar"></div>
-<p class="cap">In the final design, the share/manage menu appears when users scroll up.</p> 
+<p class="cap">In the final design, the share/manage menu appears when users scroll up.</p>
 <br>
 
 
@@ -116,6 +116,8 @@ S/he can also view the list of articles posted by a specific friend.
 <br>
 
 # What I would've done differently 
+
+I would’ve liked to do more rigorous user testing to validate design decisions. For example, the favorite button appears at the end of the article now. Should it appear on top as well? What would A/B testing results indicate?  
 
 
 
