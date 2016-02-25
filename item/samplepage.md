@@ -6,7 +6,7 @@ sub: website
 ---
 # The Challenge
 
-As a personal project, I designed a website mockup for my friend’s startup ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
+I designed a website mockup for ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
 
 <br>
 

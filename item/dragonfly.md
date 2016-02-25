@@ -18,9 +18,9 @@ The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Mak
 
 The four wings consist of:  
 
-Wing 1: Focus - identify a single, concrete, measurable goal  
-Wing 2: Grab - make someone look 
-Wing 3: Engage - foster personal connection 
+Wing 1: Focus - identify a single, concrete, measurable goal <br>
+Wing 2: Grab - make someone look <br>
+Wing 3: Engage - foster personal connection <br>
 Wing 4: Take Action - enable and empower others 
 
 My job was to infuse psychological research into the four wings. This consisted of three steps. 
