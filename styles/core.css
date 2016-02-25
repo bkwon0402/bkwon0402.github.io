@@ -531,7 +531,33 @@ div.sharedbydianna {
 	margin-left: -100px;
 	box-shadow: 			0px 8px 15px #eaeaea;
 }
-
+div.option3 {
+	content: url('/images/option3.jpg');
+	width: 100%;
+    transform: rotate(90deg);
+}
+div.bottombutton {
+	content: url('/images/bottombutton.png');
+	width: 130%;
+	margin-left: -100px;
+	box-shadow: 			0px 8px 15px #eaeaea;
+}
+div.bottombutton2 {
+	content: url('/images/bottombutton2.png');
+	width: 130%;
+	margin-left: -100px;
+	box-shadow: 			0px 8px 15px #eaeaea;
+}
+div.bottombar {
+	content: url('/images/bottombar.png');
+	width: 130%;
+	margin-left: -100px;
+	box-shadow: 			0px 8px 15px #eaeaea;
+}
+.cap {
+	margin-left: 70px;
+	margin-right: 70px;
+}
 
 /* global */
 .header {

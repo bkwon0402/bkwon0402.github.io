@@ -38,9 +38,7 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 
 <div class="feedlycaption">Feedly offers only a preview of an article</div>
 <br>
-On Flipboard, another popular newsreader, users are instead directed straight to the original site when they click the news item. However, the web is often less ideal for reading (think large ads, bad layouts, etc. on news sites that distract you from reading). 
-
-I think the popularity of products such as Readability, Pocket, Instapaper, and Medium really speaks to the idea that users value distraction-free reading experience. Given this insight, I think a news reader that also parses articles and presents them in a clean format will offer extra value to users. This way, users can enjoy a great reading experience without having to leave the site. 
+On Flipboard, another popular newsreader, users are instead directed straight to the original site when they click the news item. However, the web is often less ideal for reading (think large ads, bad layouts, etc. on news sites that distract you from reading). I think the popularity of products such as Readability, Pocket, Instapaper, and Medium really speaks to the idea that users value distraction-free reading experience. Given this insight, I think a news reader that also parses articles and presents them in a clean format will offer extra value to users. This way, users can enjoy a great reading experience without having to leave the site. 
 
 <br>
 
@@ -58,11 +56,22 @@ So I decided not to pull up photos for each news item and present only the essen
 
 In addition, I wanted to have elements that help users share or manage articles appear only when needed. I considered three ways in which I can achieve this 1) the share/manage menu appears in default either on top or left side and users click to collapse or expand it. 2) the menu appears when users scroll up as they read an article; the menu disappears when users scroll down 3) same as 2) but in addition to that, there is a button and the menu appears when a user hover over the button.   
 
-[sketch image] 
+<div class="option3"></div>
 
-I decided against 1) because I wanted the full screen dedicated to the article without the menu.  Between 2) and 3), I chose 3) because it will not always be intuitive to users that the share/manage menu will appear when they scroll up. For users who want to use the share/manage menu but have not yet figured out that the menu appears when they scroll up, the button will give them more control. In designing option 3) I decided to place the button and menu on the bottom of the screen because eyes stay on the upper part of the screen and it will be less distracting to have the menu appear on the bottom. 
+I decided against 1) because I wanted the full screen dedicated to the article without the menu.  Between 2) and 3), I initially chose 3) because it will not always be intuitive to users that the share/manage menu will appear when they scroll up. For users who want to use the share/manage menu but have not yet figured out that the menu appears when they scroll up, the button will give them more control. In designing option 3) I decided to place the button and menu on the bottom of the screen because eyes stay on the upper part of the screen and it will be less distracting to have the menu appear on the bottom. 
 
-[high fidelity mockup image] 
+However, once I designed the high-fidelity mockup of 3), I realized that it’s a bit distracting to have a button on the bottom. 
+
+<div class="bottombutton"></div>
+<p>In option 3), when users hover over the button, the share/manage menu appears.</p>
+<br>
+<div class="bottombutton2"></div>
+<br>
+ I decided creating a distraction-free experience is more important than giving users a bit more control over managing articles, so I went with 2) instead.   
+<div class="bottombar"></div>
+<p class="cap">In the final design, the share/manage menu appears when users scroll up.</p> 
+<br>
+
 
 # Iterations 
 
@@ -85,7 +94,7 @@ I thought c) made sense and made it as the default option. In this option, artic
 <div class="maindropdown"></div>
 <br>
 
-There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided to not to add more bells and whistles.
+There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
 
 <br>
 
@@ -98,8 +107,15 @@ A user logs in.
 S/he sees the list of articles that his/her Facebook friends posted. 
 <div class="maindropdown2"></div>
 <br>
-S/he reads an article distraction-free. 
+S/he reads an article distraction-free. The site also pulls comments from Facebook, which s/he can choose to hide.  
 <div class="articlepage"></div>
 <br>
 S/he can also view the list of articles posted by a specific friend.
 <div class="sharedbydianna"></div>
+
+<br>
+
+# What I would've done differently 
+
+
+
