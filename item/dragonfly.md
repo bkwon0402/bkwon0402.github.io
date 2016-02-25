@@ -8,6 +8,7 @@ sub: design research
 
 While at Stanford, I had the privilege of working closely with General Atlantic Professor of Marketing Jennifer Aaker at the Stanford Graduate School of Business. I provided research assistance to the writing of her book The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference. As her research assistant, I was tasked with researching how you can tap psychological insights to design innovative products and helped to develop the theoretical framework of the book.  
 
+<br>
 
 # The Book
  
@@ -29,9 +30,11 @@ For example, in Wing 4: Take Action, I introduced the idea that making the first
 
 
 <div class="aaker"></div>
-Professor Aaker’s signature on the copy I received
+<div class="dfly">Professor Aaker’s signature on the copy I received</div>
 
-Takeaway  
+<br>
+
+# Takeaway  
 
 A designer’s job is not just to make things pretty, but to make things work better. The insight that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
 

@@ -8,6 +8,8 @@ sub: storytelling & graphic design
 
 YTF hired me as their Chief Storytelling Officer to craft visual narratives around the organization and programs. In that capacity, I was given complete autonomy and worked with minimal supervision. 
 
+<br>
+
 # The Process
 
 I would not have been able to distill YTF's story unless I fully understood the complexities of it. Accordingly, I invested time into truly understanding the organization and its work.  
@@ -20,21 +22,20 @@ After I completed my research, I designed visuals that explained the problems an
 
 Part of designer’s job is to become a storyteller and an editor. In that sense, my experience as a storyteller at YTF has been immensely helpful in helping me grow as a designer.   
 
+<br>
 
 # Infographics
 
 Prominent non-profit organizations such as Girl Effect, Food and Agriculture Organization of the United Nations, Ashoka, Schwab Foundation, and Cherie Blaire Foundation picked up and re-tweeted content I created.      
 
-
+Here are the infographics that Girl Effect retweeted. 
 
 
 <div class="storytelling1"></div>
 <br>
 <div class="storytelling2"></div>
 
-
-Girl Effect retweeted infographics I designed, which helped them reach a wider audience. 
-
+<br>
 
 Here are more mini-infographics I designed. 
 
@@ -46,7 +47,7 @@ Here are more mini-infographics I designed.
 <br>
 <div class="info4"></div>
 <br>
-<div class="info4"></div>
+<div class="info5"></div>
 <br>
 <div class="info6"></div>
 Here is an infographic I designed on why the organization invests in women. I owned the whole design process from content development to visual design.  

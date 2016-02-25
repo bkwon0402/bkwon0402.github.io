@@ -6,7 +6,8 @@ sub: branding
 ---
 # The Challenge
 
-3D Data hired me to design branding. 3D Data XX company description.   
+3D Data hired me to design branding. 3D Data makes sense of spatial data and apply 3D interpretation technology to everyday problems.
+
 
 <br>
 <hr class="style-six">

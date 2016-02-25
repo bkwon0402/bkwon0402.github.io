@@ -80,7 +80,7 @@ I was new to logo design, but am happy with how things went. I designed the logo
 
 # Icon Design  
 
-I also designed icons the company used on the website.  
+I also designed icons using the gradients I designed for the logo.  
 <div class="logo18"></div>
 
 <br>
