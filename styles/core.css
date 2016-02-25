@@ -648,6 +648,14 @@ div.bottombar {
 	width: 130%;
 	margin-left: -110px;
 }	
+.indiegogo {
+	text-decoration: underline;
+}
+.hi {
+	font-size: 25px;
+	text-align: center;
+	margin-top: 250px;
+}
 
 /* global */
 .header {

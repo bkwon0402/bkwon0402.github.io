@@ -9,10 +9,10 @@ sub: website
 As a personal project, I designed a website mockup for my friend’s startup ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
 
 
-
+<br>
 # My process 
 
-I like to start projects by spending time understanding the product and company. ClearEar had just run a very successful Indiegogo campaign (link), so I closely reviewed the campaign as well as a TechCrunch article that covered the campaign.  
+I like to start projects by spending time understanding the product and company. ClearEar had just run a very successful <a class="indiegogo" href="https://www.indiegogo.com/projects/the-oto-tip-4-reasons-to-quit-q-tips-today">Indiegogo campaign</a>, so I closely reviewed the campaign as well as a TechCrunch article that covered the campaign.  
 
 I then invested a lot of time into researching examples. In this case, I went onto Angelist and searched for medical device startups. I then visited their websites and studied what distinguishes well-designed websites from mediocre ones. 
 
@@ -26,10 +26,9 @@ In addition, well-designed websites do a superb job at “storytelling” their 
 
 Lastly, well-designed websites improve credibility by featuring logos of press that covered their products.   
 
-After I researched examples and gain insights, I then worked on content. I designed pages so they featured prominent calls to action. After brainstorming, I came up with a succinct product copy “A better way to clean your ears.” In terms of product storytelling, I decided to work with content they used in their Indiegogo campaign. The campaign earned the support of 1,276 backers, so I trusted that the content resonated with audience. I also assembled press logos. While I saw that some websites feature press logos on the bottom of landing pages, I decided to feature them on top since ClearEar is a young company that has much to benefit from credibility cues. Credibility cues such as press coverage will instill confidence in their audience that the product is legitimate and make potential customers feel comfortable about making a purchase.  
+After I researched examples, I then work on content. I designed pages so they featured prominent calls to action. After brainstorming, I came up with a succinct product copy “A better way to clean your ears.” In terms of product storytelling, I decided to work with content they used in their Indiegogo campaign. The campaign earned the support of 1,276 backers, so I trusted that the content resonated with audience. I also assembled press logos. While I saw that some websites feature press logos on the bottom of landing pages, I decided to feature them on top since ClearEar is a young company that has much to benefit from credibility cues. Credibility cues such as press coverage will instill confidence in their audience that the product is legitimate and make them feel comfortable about making a purchase.
 
- 
-Finally, I worked on visual design and bringing content into life. The company already had branding assets such as logo and icons, so I designed pages in a style that suits their current branding. 
+Finally, I work on visual design and bring content into life. The company already had branding assets such as logo and icons, so I designed pages in a style that suits their current branding. 
 
 Here is the landing page. 
 <br>

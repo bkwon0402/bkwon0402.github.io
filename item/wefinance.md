@@ -12,7 +12,7 @@ I worked with WeFinance founders to design branding. WeFinance is a crowdlending
 
 # Logo Design 
 
-I started the project by researching logos. I went on sites such as Dribbble and Pinterest and looked for inspiration. I quite liked logos that had a combination of an interesting shape and the company name. The founders were happy with the direction, and I came up with two options:  
+I started the project by researching logos. I went on sites like Dribbble and Pinterest and looked for inspiration. I quite liked logos that had a combination of an interesting shape and the company name. The founders were happy with the direction, and I came up with two options:  
 
 1) a heart shape - WeFinance is about happiness and helping each other, and a heart embodies the spirit of the company.
 
