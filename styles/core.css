@@ -640,6 +640,15 @@ div.bottombar {
 	content: url('/images/logo18.png');
 	width: 100%;
 }	
+.newdesigncaption {
+	margin-left: 50px;
+}
+.branding {
+	content: url('/images/branding (1).png');
+	width: 130%;
+	margin-left: -110px;
+}	
+
 /* global */
 .header {
 	position:	absolute;

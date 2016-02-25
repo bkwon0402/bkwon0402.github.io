@@ -28,8 +28,9 @@ In the original design, users were not able to see how much the fee exactly is g
 
 However, presenting both pieces of information before users choose the options allows users to more easily compare the options. So I designed the screens so that users can view the information without choosing the options. 
 
-[related screen] 
-New design allows users to more easily compare the options. 
+<div class="step2"></div>
+<p class="newdesigncaption">New design allows users to more easily compare the options. </p>
+<br>
 
 Lastly, I worked on visual design to make things look cleaner and more aesthetically appealing.  
 
