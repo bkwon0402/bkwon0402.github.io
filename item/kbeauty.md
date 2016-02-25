@@ -17,7 +17,7 @@ K-beauty is hot in America. However, as a skincare fanatic from Korea, I am unde
 <p class="italic">"I definitely struggled to understand and take advantage of the k-beauty products while I was there"  – a friend on her experience shopping for k-beauty in Korea  
 </P>
 
-In talking to my American friends, I found that they want help finding legit k-beauty products and brands. Do Korean women actually use these products and brands? What are reputable k-beauty products and brands?
+In talking to my American friends, I found that they want help finding legitimate k-beauty products and brands. Do Korean women actually use these products and brands? What are reputable k-beauty products and brands?
 
 <br>
 
@@ -162,9 +162,7 @@ Here's the invision prototype that showcases the final design.
 
 The final product concept allows users to search for a specific product or brand and find out 1) whether it’s reputable or not 2) whether it’s recommended for them. Ratings are based on reviews aggregated from Korea's major cosmetics review sites. 
 
-In addition, the product lets users discover Korea’s best products and makes customized recommendations. 
-
-The product also lets users discover Korea’s best brands. 
+In addition, the product lets users discover Korea’s best products and makes customized recommendations Finally, the product also lets users discover Korea’s best brands. 
 
 <div class="bestselling1"></div>
 <br>

@@ -33,6 +33,6 @@ Professor Aaker’s signature on the copy I received
 
 Takeaway  
 
-Designers’ job is not just to make things pretty, but to make things work better. The insight that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
+A designer’s job is not just to make things pretty, but to make things work better. The insight that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
 
 
