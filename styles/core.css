@@ -559,7 +559,87 @@ div.bottombar {
 
 }
 
+.logo1 {
+	content: url('/images/logo1.jpg');
+	margin-left: 285px;
+}
 
+.logo2 {
+	content: url('/images/logo2.jpg');
+	margin-left: 60px;
+}
+.logo3 {
+	content: url('/images/logo3.png');
+	margin-left: 200px;
+}
+.logo4 {
+	content: url('/images/logo4.png');
+	margin-left: 200px;
+}
+.captionn {
+	margin-left: 200px;
+}
+.logo5 {
+	content: url('/images/logo5.png');
+	margin-left: 200px;
+}
+.logo6 {
+	content: url('/images/logo6.png');
+	margin-left: 200px;
+}
+.logo7 {
+	content: url('/images/logo7.png');
+	margin-left: 200px;
+}
+.logo8 {
+	content: url('/images/logo8.png');
+	margin-left: 200px;
+}
+.logo9 {
+	content: url('/images/logo9.png');
+	margin-left: 200px;
+}
+.logo10 {
+	content: url('/images/logo10.png');
+	margin-left: 200px;
+}
+.captionnn {
+	margin-left: 275px;
+}
+.logo11 {
+	content: url('/images/logo11.png');
+	margin-left: -10px;
+}
+.logo12 {
+	content: url('/images/logo12.png');
+	margin-left: -10px;
+}
+.logo13 {
+	content: url('/images/logo13.png');
+	margin-left: 180px;
+}
+.logo14 {
+	content: url('/images/logo14.png');
+	margin-left: 180px;
+	width: 50%;
+}
+.logo15 {
+	content: url('/images/logo15.png');
+	margin-left: 180px;
+	width: 60%;
+}
+.logo16 {
+	content: url('/images/logo16.png');
+	width: 100%;
+}	
+.logo17 {
+	content: url('/images/logo17.png');
+		margin-left: 270px;
+}
+.logo18 {
+	content: url('/images/logo18.png');
+	width: 100%;
+}	
 /* global */
 .header {
 	position:	absolute;
