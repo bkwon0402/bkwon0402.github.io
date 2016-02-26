@@ -119,5 +119,6 @@ S/he can also view the list of articles posted by a specific friend.
 
 I would’ve liked to do more rigorous user testing to validate design decisions. For example, the favorite button appears at the end of the article now. Should it appear on top as well? What would A/B testing results indicate?  
 
+In addition, I recognize ​that it may be a challenge technically and legally to implement the product concept. I would've liked to looked into relevant areas further to validate the product concept.   ​
 
 
