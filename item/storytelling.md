@@ -20,7 +20,7 @@ In addition, I carried out extensive research to understand the problems that th
 
 After I completed my research, I designed visuals that explained the problems and programs. Designing visuals consisted of three steps: 1) deciding what we wanted to say 2) deciding how we wanted to say it 3) working on visual design.   
 
-Part of designer’s job is to become a storyteller and an editor. In that sense, my experience as a storyteller at YTF has been immensely helpful in helping me grow as a designer.   
+Part of a designer’s job is to become a storyteller and an editor. In that sense, my experience as a storyteller at YTF has been immensely helpful in helping me grow as a designer.   
 
 <br>
 

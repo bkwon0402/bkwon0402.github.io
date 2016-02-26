@@ -83,7 +83,7 @@ h1 {
 	font-size: 	19px;
 	text-align: center;
 	color: 		#454545;
-	margin-left: -18px;
+	margin-left: -20px;
 }
 
 .portfolio li:hover .details {
@@ -700,31 +700,35 @@ div.newsletterredesign {
 
 .aboutme {
 	font-family: calluna;
-	font-size: 21px;
-	margin-left: 405px;
-	margin-right: 320px;
-	margin-top: 180px;
-	line-height: 140%;
+	font-size: 23px;
+	float: left;
+	max-width: 70%;
 }
-.selfie3 {
+.selfie {
 	content: url('/images/selfie.png');
 	width:15%;
 	margin-left: 500px;
 	margin-top: -300px;
+	margin-left: auto;
+    margin-right: auto;
 }	
 .selfie2 {
 	content: url('/images/selfie2.png');
-	width:12%;
-	margin-left: 230px;
-	margin-top: -150px;
+     max-width: 15%; 
+       display:block; 
+      height: auto;
+      float: left;
+      margin-left: auto;
+      margin-right: auto;
 }	
 .disclaimer {
 	font-family: calluna;
 	font-size: 17px;
-	margin-left: 701px;
-	margin-top: 50px;
+	float: left;
 }
-
+.clear {
+	clear: both;
+}
 
 /* global */
 .header {
