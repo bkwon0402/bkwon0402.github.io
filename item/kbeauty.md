@@ -48,10 +48,10 @@ Here are the onboarding screens that explain the app's main value propositions.
 
 I started the design process by sketching wireframes on paper. In designing UX and UI, I referred to many examples by looking at existing apps and sites like pttrns and dribbble. While sketching wireframes, I also brainstormed about copy to write on each screen. 
 
-<img src="/images/sketch1.jpg" width="100%">
+<img src="/images/sketch1.JPG" width="100%">
 <br>
 <br>
-<img src="/images/sketch2.jpg" width="100%">
+<img src="/images/sketch2.JPG" width="100%">
 <p class="sketchcaption">Sketches I did for key screens.</p> 
 <br>
 After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing UX to life instead. 
