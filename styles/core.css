@@ -154,10 +154,18 @@ hr.style-six {
 }
 
 div.clearearlanding {
-	content: url('/images/clearearlandingpage.png');
+	position: absolute;
+	display: block;
+	background-size: 100%
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 90%;
+	height: 54%;
 	margin-left: -70px;
 	width:120%;
 }
+
+
 
 
 div.clearearabout {
