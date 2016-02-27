@@ -34,6 +34,13 @@ Here is the landing page.
 <br>
 <br>
 <div class="clearearlanding"></div>
+
+
+
+<div class="clearearlanding" style="background-image: url('/images/clearearlandingpage.png');"></div>
+
+
+
 <br>
 Here is the about page. 
 <br>
