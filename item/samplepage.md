@@ -41,13 +41,15 @@ Here is the about page.
 <br>
 <br>
 
+<img src="/images/clearearabout.png" width="120%" height="100%" style="margin-left:-70px">
 
-
-<div class="clearearabout"></div>
 <br>
 Here is the landing page with the top navigation bar shown. 
 <br>
 <br> 
-<div class="cleareartopnav"></div>
+
+<img src="/images/cleareartopnav.png" width="120%" height="100%" style="margin-left:-70px">
+
+
 <br>
 
