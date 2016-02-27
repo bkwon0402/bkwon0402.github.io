@@ -34,16 +34,11 @@ It'd be nice if users could buy products they like using our app, so I decided t
 Here are the onboarding screens that explain the app's main value propositions. 
 <br>
 <br>
-
 <img src="/images/onboarding1.png" width="50%" style="margin-left:160px">
-
-
-
-
 <br>
-<div class="onboarding2"></div>
+<img src="/images/onboarding2.png" width="50%" style="margin-left:160px">
 <br>
-<div class="onboarding3"></div>
+<img src="/images/onboarding3.png" width="50%" style="margin-left:160px">
 <br>
 <br>
 
