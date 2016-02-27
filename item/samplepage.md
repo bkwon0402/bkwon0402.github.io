@@ -31,20 +31,16 @@ After I research examples and gain insights, I then work on content. In this cas
 Finally, I work on visual design and bring content into life. The company already had branding assets such as logo and icons, so I designed pages in a style that suits their current branding. 
 
 Here is the landing page. 
-<br>
-<br>
 <div class="clearearlanding"></div>
-
-
-
-<div class="clearearlanding" style="background-image: url('/images/clearearlandingpage.png');"></div>
-
 
 
 <br>
 Here is the about page. 
 <br>
 <br>
+
+
+
 <div class="clearearabout"></div>
 <br>
 Here is the landing page with the top navigation bar shown. 
