@@ -67,7 +67,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <img src="/images/exercise2.png" width="50%" style="margin-left:160px">
 <br>
 <br>
-<img src="/images/exercise23png" width="50%" style="margin-left:160px">
+<img src="/images/exercise3.png" width="50%" style="margin-left:160px">
 <br>
 <br>
 <br>
