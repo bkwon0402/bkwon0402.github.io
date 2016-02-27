@@ -36,7 +36,9 @@ Here are the onboarding screens that explain the app's main value propositions.
 <br>
 <img src="/images/onboarding1.png" width="50%" style="margin-left:160px">
 <br>
+<br>
 <img src="/images/onboarding2.png" width="50%" style="margin-left:160px">
+<br>
 <br>
 <img src="/images/onboarding3.png" width="50%" style="margin-left:160px">
 <br>
