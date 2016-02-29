@@ -732,13 +732,14 @@ div.newsletterredesign {
    /*   float: left; */
       margin-left: auto;
       margin-right: auto;
+      margin-bottom: 2%;
 }	
 .disclaimer {
 	font-family: calluna;
 	font-size: 17px;
 	float: right;
 	
-    margin-top: 5%;
+    margin-top: 6%;
 }
 .clear {
 	clear: both;
@@ -796,9 +797,10 @@ div.newsletterredesign {
 
 .clear .say
 {
-    width: 60%;
+    width: 55%;
     margin-left: auto;
-    margin-right: auto;	
+    margin-right: auto;
+        margin-top: 15%;
 }
 
 .selfie2 img {
