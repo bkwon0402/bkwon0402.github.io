@@ -710,9 +710,11 @@ div.newsletterredesign {
 
 .aboutme {
 	font-family: calluna;
-	font-size: 23px;
+	font-size: 20px;
 	float: left;
 	max-width: 70%;
+	text-align: justify;
+    margin-left: 3%;
 }
 .selfie {
 	content: url('/images/selfie.png');
@@ -734,7 +736,7 @@ div.newsletterredesign {
 .disclaimer {
 	font-family: calluna;
 	font-size: 17px;
-	float: left;
+	float: right;
 }
 .clear {
 	clear: both;
@@ -792,13 +794,24 @@ div.newsletterredesign {
 
 .clear .say
 {
-padding-left:9%;	
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;	
 }
 
 @media screen and (min-width: 1200px) {
 	.portfolio li
 	{
 	width: 32%;	
+	}
+	
+	
+}
+
+@media screen and (max-width: 768px) {
+	..clear .say
+{
+    width: 90%;	
 	}
 	
 	
