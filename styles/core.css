@@ -77,13 +77,16 @@ h1 {
 .details {
 	position: 	absolute;
 	bottom: 	100px;
-	width:		100%;
+	width:		90%;
 	display: 	block;
 	margin: 	10px;
 	font-size: 	19px;
 	text-align: center;
 	color: 		#454545;
-	margin-left: -20px;
+/*	margin-left: -20px; */
+margin-left: 0px;
+margin-right: 0px;
+
 }
 
 .portfolio li:hover .details {
@@ -780,4 +783,14 @@ div.newsletterredesign {
 	width: 		350px;
 	margin: 	10px auto;
 	margin-bottom: 20px;
+}
+
+
+@media screen and (min-width: 992px) {
+	.portfolio li
+	{
+	width: 33%;	
+	}
+	
+	
 }
