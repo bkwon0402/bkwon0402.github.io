@@ -801,6 +801,13 @@ div.newsletterredesign {
     margin-right: auto;	
 }
 
+.selfie2:before
+{
+	
+	content:url('/images/selfie2.png');
+}
+
+
 @media screen and (min-width: 1200px) {
 	.portfolio li
 	{
