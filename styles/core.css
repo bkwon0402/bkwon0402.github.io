@@ -712,8 +712,8 @@ div.newsletterredesign {
 	font-family: calluna;
 	font-size: 20px;
 	float: left;
-	max-width: 70%;
-	text-align: justify;
+	max-width: 100%;
+	text-align: center;
     margin-left: 3%;
 }
 .selfie {
@@ -729,7 +729,7 @@ div.newsletterredesign {
      max-width: 15%; 
        display:block; 
       height: auto;
-      float: left;
+   /*   float: left; */
       margin-left: auto;
       margin-right: auto;
 }	
