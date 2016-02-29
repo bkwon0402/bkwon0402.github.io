@@ -71,7 +71,7 @@ h1 {
 	background-repeat: 		no-repeat;
 	background-position: 	center;
 	width: 					90%;
-	height: 				60%;
+	height: 				57%;
 	min-height: 			180.36px;
 }
 
@@ -737,6 +737,8 @@ div.newsletterredesign {
 	font-family: calluna;
 	font-size: 17px;
 	float: right;
+	padding-right: 15%;
+    margin-top: 2%;
 }
 .clear {
 	clear: both;
@@ -809,7 +811,7 @@ div.newsletterredesign {
 }
 
 @media screen and (max-width: 768px) {
-	..clear .say
+	.clear .say
 {
     width: 90%;	
 	}
