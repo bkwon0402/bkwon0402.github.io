@@ -30,45 +30,36 @@ Prominent non-profit organizations such as Girl Effect, Food and Agriculture Org
 
 Here are the infographics that Girl Effect retweeted. 
 
-
-<div class="storytelling1"></div>
-<br>
-<div class="storytelling2"></div>
-
+<img src="/images/storytelling1.png" style="margin-left:150px">
+<img src="/images/storytelling2.png" style="margin-left:150px">
 <br>
 
 Here are more mini-infographics I designed. 
 
-<div class="info1"></div>
+<img src="/images/info1.png" style="margin-left:80px; margin-bottom: 40px">
 <br>
-<div class="info2"></div>
+<img src="/images/info2.png" style="margin-left:80px; margin-bottom: 40px">
 <br>
-<div class="info3"></div>
+<img src="/images/info3.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<div class="info4"></div>
+<img src="/images/info4.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<div class="info5"></div>
+<img src="/images/info5.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<div class="info6"></div>
+<img src="/images/info6.png" width ="100%" style="margin-left:0px; margin-bottom: 0px">
+
 Here is an infographic I designed on why the organization invests in women. I owned the whole design process from content development to visual design.  
 
-<div class="youthandwomen"></div>
+<img src="/images/youthandwomen.jpg" width = "100%">
 
 I also designed visually appealing content to share on social media.  
 
-
-<div class="quote1"></div>
-<br>
-<div class="quote2"></div>
-<br>
-<div class="quote3"></div>
-<br>
-<div class="quote4"></div>
-<br>
-<div class="quote5"></div>
-<br>
-<div class="quote6"></div>
-
+<img src="/images/quote1.png" style ="margin-left: 100px">
+<img src="/images/quote2.png" style ="margin-left: 100px">
+<img src="/images/quote3.png" style ="margin-left: 100px">
+<img src="/images/quote4.png" style ="margin-left: 100px">
+<img src="/images/quote5.png" style ="margin-left: 100px">
+<img src="/images/quote6.png" style ="margin-left: 100px">
 
 
 

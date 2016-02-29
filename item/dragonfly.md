@@ -14,7 +14,7 @@ While at Stanford, I had the privilege of working closely with General Atlantic 
  
 The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results. 
 
-<div class="dragonflyeffect"></div>
+<img src="/images/dragonflyeffet.jpg" width = "100%" style="margin-left:0px">
 
 The four wings consist of:  
 
@@ -28,8 +28,7 @@ First, I read relevant articles in behavioral science - mainly in social psychol
 
 For example, in Wing 4: Take Action, I shared a relevant psychological study to introduce the idea that making the first target behavior easily empowers users and supporters to take further action. Similarly, in Wing 3: Engage, I explained how telling a story engages users from a psychological perspective -- humans have an appetite for stories, which reflects the basic human need to understand patterns of life.   
 
-
-<div class="aaker"></div>
+<img src="/images/aaker.JPG" width = "100%" style="margin-left:0px; transform: rotate(90deg)">
 <div class="dfly">Professor Aaker’s signature on the copy I received</div>
 
 <br>

@@ -12,10 +12,8 @@ I worked with Streami to design their demo product. Streami reduces internationa
 
 The company had wireframes designed when I joined. However, things were confusing. For example, I had difficulty understanding the ideas that the graphics were supposed to communicate and the copy was confusing.
 
-<br>
-<div class="streami1"></div>
-<div class="streami2"></div>
-
+<img src="/images/streami1.png" style="margin-left:50px; margin-bottom: 55px">
+<img src="/images/streami2.png" style="margin-left:50px">
 <p class="streamicaption">Original wireframes</p>   
 
 <br>
@@ -28,7 +26,7 @@ In the original design, users were not able to see how much the fee exactly is g
 
 However, presenting both pieces of information before users choose the options allows users to more easily compare the options. So I designed the screens so that users can view the information without having to choose the options first. 
 
-<div class="step2"></div>
+<img src="/images/step2.png" width="100%" style="margin-bottom:55px">
 <p class="newdesigncaption">The new design allows users to more easily compare the options. </p>
 <br>
 
@@ -39,6 +37,14 @@ Here are the final screens.
 <div class="step1"></div>
 <div class="step2"></div>
 <div class="step3"></div> 
+
+
+<img src="/images/step1.png" width="100%" style="margin-bottom:55px">
+<img src="/images/step2.png" width="100%" style="margin-bottom:55px">
+<img src="/images/step3.png" width="100%" style="margin-bottom:55px">
+
+
+
 
 
 

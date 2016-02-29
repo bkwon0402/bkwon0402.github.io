@@ -18,4 +18,6 @@ This meant that I tried to design interesting and provocative icons. In addition
 
 I am also working on their website design, and here’s a landing page mockup I designed where you can find the branding assets. 
 
-<div class="branding"></div> 
+
+<img src="/images/branding (1).png" width="130%" style="margin-left:-110px">
+
