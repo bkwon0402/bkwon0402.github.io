@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Youth for Technology Foundation
+title: youth for technology foundation
 sub: storytelling & graphic design
 ---
 # The Challenge
@@ -14,7 +14,7 @@ YTF hired me as their Chief Storytelling Officer to craft visual narratives arou
 
 I would not have been able to distill YTF's story unless I fully understood the complexities of it. Accordingly, I invested time into truly understanding the organization and its work.  
 
-This meant talking to the founder and CEO as well as field staff, interviewing beneficiaries, digesting relevant program documents, and closely reading content on their site.   
+This meant talking to the founder and CEO as well as field staff, interviewing beneficiaries, analyzing relevant program documents, and closely reading content on their site.   
 
 In addition, I carried out extensive research to understand the problems that the organization is addressing. This meant finding and reading research papers, white papers, and blog posts. 
 

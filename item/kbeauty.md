@@ -1,12 +1,12 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: K-beauty app
+title: k-beauty app
 sub: ux/ui
 ---
 # The Challenge
 
-K-beauty is hot in America. However, as a skincare fanatic from Korea, I am under the strong impression that Americans are struggling to understand and take advantage of k-beauty. Case in point: I don’t recognize many of the brands that major US-based k-beauty e-commerce businesses sell. For example, on two sites that were featured on the likes of Vogue, Allure, and WSJ, I recognized less than 30% of the brands that they carry. My American friends were, of course, surprised at this fact. Maybe feel a bit deceived, too. To fill this knowledge gap, I designed a concept of a mobile app that helps users to navigate the k-beauty world. The product achieves the goal by 1) telling users whether a given brand/product is reputable k-beauty or not 2) showcasing to users Korea’s best skincare products and brands.   
+K-beauty is hot in America. However, as a skincare fanatic from Korea, I am under the strong impression that Americans are struggling to understand and take advantage of k-beauty. Case in point: I don’t recognize many of the brands that major US-based k-beauty e-commerce businesses sell. For example, on two sites that were featured on the likes of Vogue, Allure, and WSJ, I recognized less than 30% of the brands that they carry. My American friends were, of course, surprised at this fact. They maybe felt a bit deceived, too. To fill this knowledge gap, I designed a concept mobile app that helps users to navigate the k-beauty world. The product achieves the goal by 1) telling users whether a given brand/product is reputable k-beauty or not 2) showcasing to users Korea’s best skincare products and brands.   
 
 <br>
 
@@ -46,7 +46,7 @@ Here are the onboarding screens that explain the app's main value propositions.
 
 # Design Process
 
-I started the design process by sketching wireframes on paper. In designing UX and UI, I referred to many examples by looking at existing apps and sites like pttrns and dribbble. While sketching wireframes, I also brainstormed about copy to write on each screen. 
+I started the design process by sketching wireframes on paper. In designing the UX and UI, I referred to many examples by looking at existing apps and sites like pttrns and dribbble. While sketching wireframes, I also brainstormed about copy to write on each screen. 
 
 <img src="/images/sketch1.JPG" width="100%">
 <br>
@@ -54,7 +54,7 @@ I started the design process by sketching wireframes on paper. In designing UX a
 <img src="/images/sketch2.JPG" width="100%">
 <p class="sketchcaption">Sketches I did for key screens.</p> 
 <br>
-After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing UX to life instead. 
+After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
 Here are some of the high fidelity mockups I put together to create an Invision prototype. 
 
@@ -84,11 +84,11 @@ However, in testing with potential users, I found that they don't consider such 
 
 
 
-I've learned that users want to rely on the opinions of a few experts e.g. established Korean beauty personalities or many, many normal Korean women. While I still stand by the idea that a small panel of normal Korean women would do an excellent job, I decided not to interfere with users' mental models regarding what constitutes a credible rating system.     
+I've learned that users want to rely on the opinions of a few experts e.g., established Korean beauty personalities or many, many normal Korean women. While I still stand by the idea that a small panel of normal Korean women would do an excellent job, I decided not to interfere with users' mental models regarding what constitutes a credible rating system.     
 
-So instead of employing a small panel, I decided to aggregate reviews from Korea’s major cosmetics review sites and refer to external resources such as beauty awards to give ratings. In addition, a team of k-beauty experts e.g. beauty editors at major beauty magazines will help pick out best brands.  
+So instead of employing a small panel, I decided to aggregate reviews from Korea’s major cosmetics review sites and refer to external resources such as beauty awards to give ratings. In addition, a team of k-beauty experts e.g. beauty editors at major beauty magazines will help pick out the best brands.  
 
-Here's the new about page that tells users how the product gives ratings. 
+Here's the new about page that tells users how the product gets ratings. 
 
 <div class="about"></div>
 <br>
@@ -110,7 +110,7 @@ In addition, I’ve learned that users want recommendations to reflect their own
 
 Based on the insights, I iterated so that the app gives more customized recommendations.  
 
-In the new design, when users search for a product/brand, the app gives more detailed review so that users can find out whether the product/brand suits their own needs. 
+In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
 
 
 <div class="search1"></div>
@@ -168,7 +168,7 @@ Here's the invision prototype that showcases the final design.
 
 The final product concept allows users to search for a specific product or brand and find out 1) whether it’s reputable or not 2) whether it’s recommended for them. Ratings are based on reviews aggregated from Korea's major cosmetics review sites. 
 
-In addition, the product lets users discover Korea’s best products and makes customized recommendations Finally, the product also lets users discover Korea’s best brands. 
+In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
 
 <div class="bestselling1"></div>
 <br>

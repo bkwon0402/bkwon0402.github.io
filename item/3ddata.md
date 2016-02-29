@@ -1,12 +1,12 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: 3D Data
+title: 3d data
 sub: branding
 ---
 # The Challenge
 
-3D Data hired me to design branding. 3D Data makes sense of spatial data and apply 3D interpretation technology to everyday problems.
+3D Data hired me to design branding. 3D Data makes sense of spatial data and applies 3D interpretation technology to everyday problems.
 
 
 <br>

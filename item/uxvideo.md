@@ -1,12 +1,12 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: UX video
+title: ux video
 sub: 
 ---
 # The Challenge
 
-As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks that presents a concept of an iPad app that redesigns the check splitting experience. 
+As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks, which presents a concept of an iPad app that redesigns the check splitting experience. 
 
 <br>
 

@@ -6,7 +6,7 @@ sub: ux/ui
 ---
 # The Challenge
 
-The inspiration for the project came from user research I did for a related project: designing a Korean tech news aggregator. In talking to my friends about their online news reading habits, I learned that millennials are relying on Facebook as their primary news source i.e. they like to read articles that Facebook friends post. However, Newsfeed is noisy and cluttered. I feel that I have to filter through my Newsfeed to find gems like article posts. So I created a product concept where users can read the articles their Facebook friends posted distraction-free. The product achieves this by 1) pulling articles posted by users’ Facebook friends 2) parsing the articles and presenting them in a clean format. 
+The inspiration for this project came from user research I did for a related project: designing a Korean tech news aggregator. In talking to my friends about their online news reading habits, I learned that millennials are relying on Facebook as their primary news source i.e., they like to read articles that Facebook friends post. However, the Newsfeed is noisy and cluttered. I feel that I have to filter through my Newsfeed to find gems like article posts. So I created a product concept where users can read the articles their Facebook friends posted distraction-free. The product achieves this by 1) pulling articles posted by users’ Facebook friends 2) parsing the articles and presenting them in a clean format. 
 
 <br>
 
@@ -15,11 +15,11 @@ The inspiration for the project came from user research I did for a related proj
 <a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. 
 
 
-I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources i.e. my intelligent friends and second, the discussions that happen in comments section are often interesting. 
+I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources, i.e., my intelligent friends and second, the discussions that happen in the comments section are often interesting. 
 
 <p class="italic">“Sometimes I’m more interested in reading the news than personal updates”</p> 
 
-However, Newsfeed is often filled with content you are not interested in consuming. As my friend commented  “sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
+However, Newsfeed is often filled with content you are not interested in consuming. As my friend commented, “Sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
  
 In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
@@ -30,7 +30,7 @@ In addition, people do not always check Facebook and as a result, they sometimes
 One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
 
 
-For example, Feedly, one of the most popular RSS readers, offers only a preview of an article. To read the whole article, users have to first click the news item on their feed on Feedly and then click either the ‘Read Full Story’ link or title. It'd be nice if users can view the whole article with just one click instead. 
+For example, Feedly, one of the most popular RSS readers, offers only a preview of an article. To read the whole article, users have to first click the news item on their feed on Feedly and then click either the "Read Full Story" link or title. It'd be nice if users could view the whole article with just one click instead. 
 
 <br>
 
@@ -54,7 +54,7 @@ For example, I think the pictures that news readers pull up for each article are
 <br>
 So I decided not to pull up photos for each news item and present only the essentials. 
 
-In addition, I wanted to have elements that help users share or manage articles appear only when needed. I considered three ways in which I can achieve this 1) the share/manage menu appears in default either on top or left side and users click to collapse or expand it. 2) the menu appears when users scroll up as they read an article; the menu disappears when users scroll down 3) same as 2) but in addition to that, there is a button and the menu appears when a user hover over the button.   
+In addition, I wanted to have elements that help users share or manage articles appear only when needed. I considered three ways in which I can achieve this: 1) the share/manage menu appears in default either on top or the left side and users click to collapse or expand it. 2) the menu appears when users scroll up as they read an article; the menu disappears when users scroll down. 3) same as 2) but in addition to that, there is a button and the menu appears when a user hovers over the button.   
 
 <div class="option3"></div>
 
@@ -119,6 +119,6 @@ S/he can also view the list of articles posted by a specific friend.
 
 I would’ve liked to do more rigorous user testing to validate design decisions. For example, the favorite button appears at the end of the article now. Should it appear on top as well? What would A/B testing results indicate?  
 
-In addition, I recognize ​that it may be a challenge technically and legally to implement the product concept. I would've liked to looked into relevant areas further to validate the product concept.   ​
+In addition, I recognize ​that it may be a challenge technically and legally to implement the product concept. I would've liked to look into relevant areas further to validate the product concept.   ​
 
 

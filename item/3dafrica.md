@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Youth for Technology Foundation
+title: youth for technology foundation
 sub: video art direction and production
 ---
 
