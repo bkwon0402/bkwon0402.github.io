@@ -18,60 +18,63 @@ I started the project by researching logos. I went on sites like Dribbble and Pi
 
 Here are the sketches/early prototype I shared. 
 
-<div class="logo1"></div>
-<div class="logo2"></div>
+
+<img src="/images/logo1.jpg" style="margin-left:285px">
+
+
+<img src="/images/logo2.jpg" style="margin-left:60px">
+
 <br>
 2) a circle shape --  think “circle of connections;” a circle represents the idea that WeFinance connects people. 
 
 Here’s the prototype I shared. 
 
-<div class="logo3"></div>
+
+<img src="/images/logo3.png" style="margin-left:200px">
 
 
 We ultimately decided to go with Option 2: a circle. While WeFinance is about happiness, we realized a heart tends to conjure up ideas of romantic relationships and dating. On the other hand, the sophisticated feel of Option 2 keeps things more professional, which better matches the personality of the financial services company.  
 
 Once we decided on Option 2, I designed new gradients and experimented further. 
 
-<div class="logo4"></div>
+
+<img src="/images/logo4.png" style="margin-left:200px">
+
+
+
 <p class="captionn"> New gradients ring I designed </p>
 <br>
 Here are some of the new ideas I tried. 
-<div class="logo5"></div>
-<br>
-<div class="logo6"></div>
-<br>
-<div class="logo7"></div>
-<br>
-<div class="logo8"></div>
-<br>
-<div class="logo9"></div>
-<br>
 
-We liked the original idea the most, so decided to refine the concept.
-
-
-<div class="logo10"></div>
+<img src="/images/logo5.png" style="margin-left:200px">
+<img src="/images/logo6.png" style="margin-left:200px">
+<img src="/images/logo7.png" style="margin-left:200px">
+<img src="/images/logo8.png" style="margin-left:200px">
+<img src="/images/logo9.png" style="margin-left:200px">
+<img src="/images/logo10.png" style="margin-left:200px">
 <p class="captionnn">Original idea</p> 
 
-
-
 After varying fonts, character spacing, and colors, we found the right combination. 
-
-<div class="logo11"></div>
-<div class="logo12"></div>
+<img src="/images/logo11.png" style="margin-left:-10px">
+<img src="/images/logo12.png" style="margin-left:-10px">
 <br>
 We also looked into integrating the logo into the name more. Based on the insight of one of the founders, we tried emphasizing ‘We’ specifically in their name via the logo.  
-<div class="logo13"></div>
+<img src="/images/logo13.png" style="margin-left:180px">
 <br>
-<div class="logo14"></div>
+<img src="/images/logo14.png" width="50%" style="margin-left:180px">
 <br>
-<div class="logo15"></div>
+
+<img src="/images/logo15.png" width="60%" style="margin-left:180px">
 <br>
+
 And we loved the circle around the WE option. The logo is interesting and unique. In addition, it embodies the business model that connects people.    
 
 And here is the final logo: 
-<div class="logo16"></div>
-<div class="logo17"></div>
+
+<img src="/images/logo16.png" width="100%">
+
+<img src="/images/logo17.png" style="margin-left: 270px">
+
 <br>
 
 I was new to logo design, but am happy with how things went. I designed the logo in just six days and received a lot of positive feedback from the team.
@@ -81,7 +84,11 @@ I was new to logo design, but am happy with how things went. I designed the logo
 # Icon Design  
 
 I also designed icons using the gradients I designed for the logo.  
-<div class="logo18"></div>
+
+
+<img src="/images/logo18.png" width="100%">
+
+
 
 <br>
 
@@ -90,7 +97,8 @@ I also designed icons using the gradients I designed for the logo.
 
 I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders.    
 
-<div class="wefinanceemail"></div>
+<img src="/images/wefinanceemail.png" style="margin-left: 70px">
+
 <p class="caption4">WeFinance’s original email newsletter </p>
 <br>
 
@@ -110,8 +118,11 @@ I tried to imagine from a potential lender’s perspective, what sort of informa
 
 Here is the final design. 
 
-<div class="newsletterredesign"></div>
-<br>
+
+
+<img src="/images/newsletterredesign.png" width="100%" style="margin-left: -20px">
+
+
 
 # What I would've done differently 
 

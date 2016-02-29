@@ -712,7 +712,7 @@ div.newsletterredesign {
 	font-family: calluna;
 	font-size: 20px;
 	float: left;
-	max-width: 70%;
+	max-width: 100%;
 	text-align: justify;
     margin-left: 3%;
 }
@@ -726,19 +726,19 @@ div.newsletterredesign {
 }	
 .selfie2 {
 	content: url('/images/selfie2.png');
-     max-width: 15%; 
+     max-width: 20%; 
        display:block; 
       height: auto;
-      float: left;
+   /*   float: left; */
       margin-left: auto;
       margin-right: auto;
+      margin-bottom: 4%;
 }	
 .disclaimer {
 	font-family: calluna;
 	font-size: 17px;
 	float: right;
-	padding-right: 12%;
-    margin-top: 5%;
+    margin-top: 13%;
 }
 .clear {
 	clear: both;
@@ -796,9 +796,14 @@ div.newsletterredesign {
 
 .clear .say
 {
-    width: 60%;
+    width: 55%;
     margin-left: auto;
-    margin-right: auto;	
+    margin-right: auto;
+        margin-top: 8%;
+}
+
+.selfie2 img {
+    width: 100%;
 }
 
 
@@ -824,3 +829,12 @@ div.newsletterredesign {
 	
 	
 }
+
+ @media only screen and (min-width: 800px) and (max-width: 1000px){
+ 	
+ 	.portfolio
+	{
+		padding-left:8%;
+	}
+      /* For portrait layouts only */
+    }

@@ -34,7 +34,11 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 
 <br>
 
-<div class="feedly"></div>
+
+<img src="/images/feedly.png" width="120%" style="margin-left:-100px">
+
+
+
 
 <div class="feedlycaption">Feedly offers only a preview of an article</div>
 <br>
@@ -48,7 +52,8 @@ For the interface, I wanted to have as few elements as possible so that the prod
 
 For example, I think the pictures that news readers pull up for each article are often irrelevant to the articles.  
 
-<div class="pictures"></div>
+
+<img src="/images/pictures.png" style="margin-left:100px">
 <div class="feedlycaption">Pictures don't always make sense</div>
 
 <br>
@@ -58,17 +63,24 @@ In addition, I wanted to have elements that help users share or manage articles 
 
 <div class="option3"></div>
 
+<img src="/images/option3.jpg" width="100%" style="transform: rotate(90deg)">
+
+
+
 I decided against 1) because I wanted the full screen dedicated to the article without the menu.  Between 2) and 3), I initially chose 3) because it will not always be intuitive to users that the share/manage menu will appear when they scroll up. For users who want to use the share/manage menu but have not yet figured out that the menu appears when they scroll up, the button will give them more control. In designing option 3) I decided to place the button and menu on the bottom of the screen because eyes stay on the upper part of the screen and it will be less distracting to have the menu appear on the bottom. 
 
 However, once I designed the high-fidelity mockup of 3), I realized that it’s a bit distracting to have a button on the bottom. 
 
-<div class="bottombutton"></div>
+
+<img src="/images/bottombutton.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
 <p>In option 3), when users hover over the button, the share/manage menu appears.</p>
 <br>
-<div class="bottombutton2"></div>
+<img src="/images/bottombutton2.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
 <br>
  I decided creating a distraction-free experience is more important than giving users a bit more control over managing articles, so I went with 2) instead.   
-<div class="bottombar"></div>
+
+<img src="/images/bottombar.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
 <p class="cap">In the final design, the share/manage menu appears when users scroll up.</p>
 <br>
 
@@ -81,7 +93,9 @@ In my original design, the product sorts the list by most recent.
 
 
 
-<div class="originaldesign"></div>
+<img src="/images/originaldesign.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
+
 
 <p class="mostrecent">The original design sorts the article list by most recent.</p> 
 <br>
@@ -91,27 +105,34 @@ However, users will appreciate being able to sort the article list by most share
 I thought c) made sense and made it as the default option. In this option, articles that were shared the most - but relatively recently - appear on top of the list, then the list sorts the list by most recent. For example, an article that was shared by many but shared a long time ago will not make it to the top of the list. Here's the new article list page. 
 
 <br>
-<div class="maindropdown"></div>
-<br>
+
+<img src="/images/maindropdown.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
 
 There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
 
 <br>
 
 # Final Design 
-<br>
+
 A user logs in. 
 
-<div class="main"></div>
-<br>
+
+<img src="/images/main.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
+
 S/he sees the list of articles that his/her Facebook friends posted. 
-<div class="maindropdown2"></div>
-<br>
+<img src="/images/maindropdown2.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
 S/he reads an article distraction-free. The site also pulls comments from Facebook, which s/he can choose to hide.  
-<div class="articlepage"></div>
-<br>
+
+<img src="/images/articlepage.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
 S/he can also view the list of articles posted by a specific friend.
-<div class="sharedbydianna"></div>
+
+
+<img src="/images/sharedbydianna.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+
 
 <br>
 

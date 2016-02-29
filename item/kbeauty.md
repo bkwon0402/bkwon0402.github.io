@@ -90,17 +90,19 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 Here's the new about page that tells users how the product gets ratings. 
 
-<div class="about"></div>
+<img src="/images/about.png" width="50%" style="margin-left:160px">
+
 <br>
-<br>
+
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
 In my original design, when users search for a product/brand, the app simply told users whether the product/brand is known in Korea.  
   
-<div class="reputable"></div>
+<img src="/images/reputable.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="ughoh"></div>
+<img src="/images/ughoh.png" width="50%" style="margin-left:160px">
 <p class="caption">Search results screens from my original design</p>
 <br>
 
@@ -112,33 +114,53 @@ Based on the insights, I iterated so that the app gives more customized recommen
 
 In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
 
+<img src="/images/search1.png" width="50%" style="margin-left:160px">
+<br>
 
-<div class="search1"></div>
+<img src="/images/search2.png" width="50%" style="margin-left:160px">
 <br>
-<div class="search2"></div>
+
+<img src="/images/search3.png" width="50%" style="margin-left:160px">
 <br>
-<div class="search3"></div>
 <br>
 Here are examples of search results screens that give more detailed reviews.  
+<img src="/images/newresult1.png" width="50%" style="margin-left:160px">
 <br>
-<div class="newresult1"></div>
+
+<img src="/images/newresult2.png" width="50%" style="margin-left:160px">
 <br>
-<div class="newresult2"></div>
-<br>
-<div class="newresult3"></div>
+
+<img src="/images/newresult3.png" width="50%" style="margin-left:160px">
 <br> 
+
+div.bestselling1 {
+	content: url('/images/bestselling1.png');
+	width: 50%;
+	margin-left: 160px;
+}
+
 
 In addition, when users search for bestselling products, users can filter products based on their own needs. 
 <br>
-<div class="bestselling1"></div>
+
+
+<img src="/images/bestselling1.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="bestselling2"></div>
+
+
+<img src="/images/bestselling2.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="bestselling3"></div>
+
+
+<img src="/images/bestselling3.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="bestmoisturizers1"></div>
+<img src="/images/best1.png" width="50%" style="margin-left:160px">
 <br>
-<div class="bestmoisturizers2"></div> 
+
+<img src="/images/best2.png" width="50%" style="margin-left:160px">
 <br>
 <br>
 
@@ -154,9 +176,11 @@ However, after talking to more potential users, I decided to include the cheat s
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
 
-<div class="cheatsheet"></div>
+<img src="/images/cheatsheet.png" width="50%" style="margin-left:160px">
 <p class="caption">K-beauty Cheat Sheet screen from the final design</p>
 <br>
+
+
 
 #Final Design 
 
@@ -170,11 +194,19 @@ The final product concept allows users to search for a specific product or brand
 
 In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
 
-<div class="bestselling1"></div>
+
+
+<img src="/images/bestselling1.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="bestbrands"></div>
+
+
+<img src="/images/bestbrands.png" width="50%" style="margin-left:160px">
+
 <br>
-<div class="bestbrands2"></div>
+
+<img src="/images/bestbrands2.png" width="50%" style="margin-left:160px">
+
 <br>
 
 # What I’ve learned 
