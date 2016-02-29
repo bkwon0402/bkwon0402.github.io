@@ -790,7 +790,11 @@ div.newsletterredesign {
 	margin-bottom: 20px;
 }
 
-
+.clear .say
+{
+padding-left:9%;	
+}
+}
 @media screen and (min-width: 1200px) {
 	.portfolio li
 	{
