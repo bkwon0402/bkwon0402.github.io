@@ -829,11 +829,11 @@ div.newsletterredesign {
 	
 }
 
- @media only screen and (min-device-width: 800px) and (max-device-width: 1000px) and (orientation:portrait) {
+ @media only screen and (min-width: 800px) and (max-width: 1000px){
  	
  	.portfolio
 	{
-		padding-left:7%;
+		padding-left:8%;
 	}
       /* For portrait layouts only */
     }
