@@ -39,11 +39,14 @@ h1 {
 .portfolio {
 	position: 	relative;
 	min-width: 	300px;
-	width: 		95%;
+	width: 		100%;
 	margin: 	120px auto;
 	list-style: none;
 	margin-left: 70px;
 	margin-top: 180px;
+	    margin-right: 0;
+    margin-left: 0;
+    padding-left: 5%;
 }
 
 .portfolio li {
