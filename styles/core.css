@@ -801,18 +801,6 @@ div.newsletterredesign {
     margin-right: auto;	
 }
 
-.selfie2:before
-{
-	
-	content:url('/images/selfie2.png');
-	    max-width: 15%;
-    display: block;
-    height: auto;
-    float: left;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 
 @media screen and (min-width: 1200px) {
 	.portfolio li
