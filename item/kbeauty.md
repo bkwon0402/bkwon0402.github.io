@@ -133,13 +133,6 @@ Here are examples of search results screens that give more detailed reviews.
 <img src="/images/newresult3.png" width="50%" style="margin-left:160px">
 <br> 
 
-div.bestselling1 {
-	content: url('/images/bestselling1.png');
-	width: 50%;
-	margin-left: 160px;
-}
-
-
 In addition, when users search for bestselling products, users can filter products based on their own needs. 
 <br>
 
