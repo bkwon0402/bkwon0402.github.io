@@ -102,7 +102,7 @@ I also worked on an email newsletter redesign proposal. The newsletter, which fe
 <p class="caption4">WeFinance’s original email newsletter </p>
 <br>
 
-In designing the newsletter, there were several things I kept in mind.  
+In designing the newsletter, there were two things I kept in mind.  
 
 1)  featuring strong calls to action 
 
@@ -112,9 +112,7 @@ Also, I added another call to action - "Check out these listings and more here" 
    
 2) making the profiles interesting to potential lenders 
 
-I tried to imagine from a potential lender’s perspective, what sort of information would make the lender interested in lending to a borrower. Two things came to my mind. 1) What is the borrower’s story? WeFinance is built around the idea that stories are powerful -- borrowers share their stories - their dreams and aspirations - on their pages, and good stories engage lenders.  Given this insight, instead of using generic "see more" in the call to action button, I used "read their story" --it's a small touch, but I think it keeps things a bit more interesting. 
-
-3) How much has the borrower raised already? If many people have lent to the borrower already, s/he must be a credible person whom lenders would feel comfortable lending to. Using that insight, I featured a graph bar that allows potential lenders to see how much the borrower has raised in one glance. 
+I tried to imagine from a potential lender’s perspective, what sort of information would make the lender interested in lending to a borrower. Two things came to my mind. 1) What is the borrower’s story? WeFinance is built around the idea that stories are powerful -- borrowers share their stories - their dreams and aspirations - on their pages, and good stories engage lenders.  Given this insight, instead of using generic "see more" in the call to action button, I used "read their story" --it's a small touch, but I think it keeps things a bit more interesting. 2) How much has the borrower raised already? If many people have lent to the borrower already, s/he must be a credible person whom lenders would feel comfortable lending to. Using that insight, I featured a graph bar that allows potential lenders to see how much the borrower has raised in one glance. 
 
 Here is the final design. 
 
