@@ -19,7 +19,7 @@ I think millennials like to read posts Facebook friends shared because first, th
 
 <p class="italic">“Sometimes I’m more interested in reading the news than personal updates”</p> 
 
-However, Newsfeed is often filled with content you are not interested in consuming. As my friend commented, “Sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
+However, the Newsfeed is often filled with content you are not interested in consuming. As my friend commented, “Sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
  
 In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
