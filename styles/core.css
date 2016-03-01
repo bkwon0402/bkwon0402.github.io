@@ -720,7 +720,7 @@ div.newsletterredesign {
     margin-right: auto;
 }	
 .selfie2 {
-	content: url('/images/selfie.png');
+	content: url('/images/selfie2.png');
      max-width: 20%; 
        display:block; 
       height: auto;
@@ -731,9 +731,9 @@ div.newsletterredesign {
 }	
 .disclaimer {
 	font-family: calluna;
-	font-size: 17px;
+	font-size: 15px;
 	float: right;
-    margin-top: 13%;
+    margin-top: 7%;
 }
 .clear {
 	clear: both;
