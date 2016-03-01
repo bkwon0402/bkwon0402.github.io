@@ -34,10 +34,6 @@ Lastly, I worked on visual design to make things look cleaner and more aesthetic
 
 Here are the final screens.     
 <br>
-<div class="step1"></div>
-<div class="step2"></div>
-<div class="step3"></div> 
-
 
 <img src="/images/step1.png" width="100%" style="margin-bottom:55px">
 <img src="/images/step2.png" width="100%" style="margin-bottom:55px">
