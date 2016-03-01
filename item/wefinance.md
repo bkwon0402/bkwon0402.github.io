@@ -6,7 +6,7 @@ sub: branding & ui
 ---
 # The Challenge
 
-I worked with the WeFinance founders to on their design and branding. WeFinance is a crowdlending platform for student loans and other low-risk debt utilizing borrowers’ personal networks and real identities. 
+I worked with the WeFinance founders on their design and branding. WeFinance is a crowdlending platform for student loans and other low-risk debt utilizing borrowers’ personal networks and real identities. 
 
 <br>
 
