@@ -729,11 +729,38 @@ div.newsletterredesign {
       margin-right: auto;
       margin-bottom: 4%;
 }	
+
+.behance {
+	content: url('/images/behance.png');
+	max-width: 4%; 
+	display:block; 
+      height: auto;
+      /*   float: left; */
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 4%;
+      margin-top: 10%;
+
+}
+
+.behancetext {
+	font-family: calluna;
+	font-size: 19px;
+    text-align: justify;
+    float: left;
+	max-width: 100%;
+	margin-top: 5%;
+	text-decoration: underline;
+}
+
+
+
+
 .disclaimer {
 	font-family: calluna;
 	font-size: 15px;
 	float: right;
-    margin-top: 7%;
+    margin-top: 6%;
 }
 .clear {
 	clear: both;
