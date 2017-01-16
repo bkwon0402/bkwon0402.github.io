@@ -736,7 +736,7 @@ div.newsletterredesign {
 	max-width: 100%;
 	text-align: justify;
     margin-left: 3%;
-	line-height: 170%;
+	line-height: 155%;
 	color: #8C8C8C;
 	letter-spacing: 1.4px; 
 }
@@ -773,7 +773,7 @@ div.newsletterredesign {
 }
 
 .behancetext {
-	font-family: calluna;
+	font-family: "Lato";
 	font-size: 19px;
     text-align: justify;
     float: left;
@@ -786,7 +786,7 @@ div.newsletterredesign {
 
 
 .disclaimer {
-	font-family: calluna;
+	font-family: "Lato";
 	font-size: 15px;
 	float: right;
     margin-top: 6%;
