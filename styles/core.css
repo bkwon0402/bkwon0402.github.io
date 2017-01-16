@@ -736,6 +736,9 @@ div.newsletterredesign {
 	max-width: 100%;
 	text-align: justify;
     margin-left: 3%;
+	line-height: 170%;
+	color: #8C8C8C;
+	letter-spacing: 1.4px; 
 }
 .selfie {
 	content: url('/images/selfie.png');
