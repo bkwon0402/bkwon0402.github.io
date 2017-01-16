@@ -17,6 +17,10 @@ body {
     font-weight: 300;
 }
 
+@font-face {
+    font-family: Adobe Garamond Pro;
+    src: url('Adobe Garamond Pro/Adobe Garamond Pro-Regular.ttf');
+}
 
 
 
