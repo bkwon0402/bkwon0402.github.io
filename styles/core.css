@@ -804,7 +804,7 @@ div.newsletterredesign {
 	border-bottom: 1px solid #F3F3F3;
 }
 .nav {
-	height: 		58px;
+	height: 		30px;
 	margin: 		0;
 	margin-left: 	0px;
 	width: 			100%;
@@ -816,7 +816,7 @@ div.newsletterredesign {
 	right: 			0px;
 	height: 		0px;
 	display: 		block;
-	font-family:	"Adobe Garamond Pro Regular"; 
+	font-family:	"Adobe Garamond Pro"; 
 	list-style: 	none;
 	margin: 		0;
 	padding: 		21px 40px;
@@ -842,7 +842,8 @@ div.newsletterredesign {
 	position: 	relative;
 	text-align: center;
 	color: 		#212121;
-	font-size: 	20px;
+	font-size: 	17px;
+	font-family: "Calluna"; 
 	width: 		350px;
 	margin: 	10px auto;
 	margin-bottom: 20px;
