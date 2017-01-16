@@ -798,13 +798,14 @@ div.newsletterredesign {
 	width: 		100%;
 	top: 		0px;
 	background: rgba(255, 255, 255, .88);
+	border-bottom: 1px solid #000000;
 }
 .nav {
 	height: 		58px;
 	margin: 		0;
 	margin-left: 	0px;
 	width: 			100%;
-	border-bottom: 1px solid #000000;
+	
 }
 
 .nav ul {
@@ -816,6 +817,7 @@ div.newsletterredesign {
 	list-style: 	none;
 	margin: 		0;
 	padding: 		21px 40px;
+	border-bottom: 1px solid #000000;
 }
 
 .nav li {
