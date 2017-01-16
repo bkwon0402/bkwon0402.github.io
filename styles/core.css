@@ -11,6 +11,14 @@ body {
     src: url('calluna/Calluna-Regular.otf');
 }
 
+@font-face {
+    font-family: Lato;
+    src: url('lato/Lato-Light.ttf');
+    font-weight: 300;
+}
+
+
+
 
 a {
 	color: black;
