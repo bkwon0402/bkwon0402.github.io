@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: k-beauty app
-sub: ux/ui
+title: K-beauty app - ux/ui
+sub: 
 ---
 # The Challenge
 
