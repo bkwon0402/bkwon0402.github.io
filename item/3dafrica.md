@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: youth for technology foundation
-sub: video art direction and production
+title: 
+sub: Ytf - video art direction and production
 ---
 
 # The Challenge
