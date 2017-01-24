@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: 3d data - branding 
-sub: branding
+title: 
+sub: 3d data - branding
 ---
 # The Challenge
 
