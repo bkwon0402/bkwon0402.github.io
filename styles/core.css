@@ -35,16 +35,16 @@ h1 {
 }
 
 #hero {
-	font-size:	30px;
+	font-size:	35px;
 	font-style: normal;
 	position: 	absolute;
 	top: 		60px;
-	left: 		30px;
+	left: 		70px;
 	font-family: "Calluna"; 
 }
 
 #hero:hover { 
-	font-weight: bold;
+	font-style: italic;
 }
 
 #homeLogo {
