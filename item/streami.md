@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: streami 
-sub: ux/ui
+title: Streami - ux/ui
+sub: 
 ---
 # The Challenge
 
