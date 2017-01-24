@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: 
-sub: Ytf - video art direction and production
+title: Ytf - video art direction and production
+sub: 
 ---
 
 # The Challenge
