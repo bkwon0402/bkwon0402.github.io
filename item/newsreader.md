@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: social newsreader
-sub: ux/ui
+title: Social newsreader - ux/ui
+sub: 
 ---
 # The Challenge
 
