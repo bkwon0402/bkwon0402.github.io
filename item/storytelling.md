@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: youth for technology foundation
-sub: storytelling & graphic design
+title: YTF - storytelling & graphic design 
+sub:
 ---
 # The Challenge
 
