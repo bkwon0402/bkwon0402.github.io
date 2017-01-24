@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: ux video
+title: Ux video
 sub: 
 ---
 # The Challenge
