@@ -553,6 +553,7 @@ div.feedly {
 .feedlycaption {
 	margin-left: 170px;
 	font-size: 19px;
+	color: #595959; 
 }
 div.pictures {
 	content: url('/images/pictures.png');
