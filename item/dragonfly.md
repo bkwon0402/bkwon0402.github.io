@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: the dragonfly effect
-sub: design research
+title: The dragonfly effect - design research
+sub: 
 ---
 # The Challenge
 
