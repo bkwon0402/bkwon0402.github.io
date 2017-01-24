@@ -62,15 +62,11 @@ h1 {
 	font-style: italic; 
 }
 
-#nav li a:hover {
+#nav a:hover {
     font-style: italic;
 }
 
-#nav li a:active {
-    font-style: italic;
-}
-
-a:hover, a:active { 
+#nav a:active {
     font-style: italic;
 }
 
