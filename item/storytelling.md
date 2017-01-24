@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: YTF - storytelling & graphic design 
+title: YTF - storytelling 
 sub:
 ---
 # The Challenge
