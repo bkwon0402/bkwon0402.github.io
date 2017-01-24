@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: clearear
-sub: website
+title: Clearear - website
+sub: 
 ---
 # The Challenge
 
