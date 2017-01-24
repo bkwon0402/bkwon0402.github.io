@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: wefinance
-sub: branding & ui 
+title: Wefinance - branding 
+sub: 
 ---
 # The Challenge
 
