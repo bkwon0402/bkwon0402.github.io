@@ -915,3 +915,11 @@ div.newsletterredesign {
 	}
       /* For portrait layouts only */
     }
+
+
+.portfolio li,
+.portfolio li .sample,
+.details {
+    width: 100%;
+}
+
