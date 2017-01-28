@@ -73,9 +73,11 @@ h1 {}
 .hero_part {
     margin-top: 58px;
 }
-.element{
-	height: 1px solid #ccc;
+.line_sep{
+	height: 1px;
 	width: 40px;
+	background-color: #d8d8d8;
+	margin: 30px 0px;
 }
 
 #homeLogo {
