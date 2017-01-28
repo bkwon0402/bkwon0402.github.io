@@ -6,9 +6,7 @@ body {
 	letter-spacing: 1.4px;
 }
 
-a:hover, a:active { 
-    font-style: italic;
-}
+
 
 @font-face {
     font-family: Calluna;
