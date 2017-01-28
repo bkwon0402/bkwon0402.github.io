@@ -109,7 +109,7 @@ h1 {}
     margin-right: auto;
 }
 
-.portfolio li {
+.portfolio  {
     position: relative;
     float: left;
     margin: 20px 20px;
@@ -120,7 +120,7 @@ h1 {}
     min-width: 240px;
 }
 
-.portfolio li .sample {
+.portfolio  .sample {
     position: absolute;
     display: block;
     box-shadow: 0px 0px 8px #fafafa;
@@ -132,7 +132,7 @@ h1 {}
     min-height: 180.36px;
 }
 
-.portfolio li:hover .sample {
+.portfolio a:hover .sample {
     box-shadow: 0px 0px 12px #eee;
 }
 
@@ -151,7 +151,7 @@ h1 {}
     margin-right: 0px;
 }
 
-.portfolio li:hover .details {
+.portfolio a:hover .details {
     font-style: italic;
 }
 
