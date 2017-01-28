@@ -36,9 +36,14 @@ body {
     letter-spacing: 1.4px;
 
 }
+.container{
+	margin-left: auto;
+	margin-right:auto;
+}
 @media(min-width: 1200px){
 	.container {
 		width: 1170px;
+
 	}
 }
 
