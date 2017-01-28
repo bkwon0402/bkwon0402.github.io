@@ -852,6 +852,16 @@ div.newsletterredesign {
 	width: 58px;
 }
 
+#nav li a:hover {
+    font-style: italic;
+}
+
+#nav li a:active {
+    font-style: italic;
+}
+
+
+
 .footer {
 	clear: 			both;
 	position: 		relative;
