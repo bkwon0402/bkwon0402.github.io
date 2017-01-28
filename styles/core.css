@@ -67,6 +67,10 @@ h1 {}
     font-style: normal;
     letter-spacing: 2.6px;
     font-family: "Calluna";
+    margin-bottom: 15px;
+}
+.hero_part{
+	margin-top: 58px;
 }
 
 #homeLogo {
@@ -812,9 +816,7 @@ div.newsletterredesign {
 
 /* global */
 .header {
-    position: absolute;
     width: 100%;
-    top: 0px;
     background: rgba(255, 255, 255, .88);
     border-bottom: 1px solid #F3F3F3;
 }
