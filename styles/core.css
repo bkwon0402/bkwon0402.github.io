@@ -34,17 +34,24 @@ body {
     font-weight: 300;
     color: #595959;
     letter-spacing: 1.4px;
-
 }
-.container{
-	margin-left: auto;
-	margin-right:auto;
-}
-@media(min-width: 1200px){
-	.container {
-		width: 1170px;
 
-	}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+@media(min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
 }
 
 .nav li a {
@@ -80,8 +87,9 @@ h1 {}
     font-family: "Calluna";
     margin-bottom: 15px;
 }
-.hero_part{
-	margin-top: 58px;
+
+.hero_part {
+    margin-top: 58px;
 }
 
 #homeLogo {
@@ -108,15 +116,9 @@ h1 {}
 }
 
 .portfolio {
-    position: relative;
-    min-width: 300px;
-    width: 80%;
-    margin: 160px auto;
     list-style: none;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 280px;
-    padding-left: 5%;
 }
 
 .portfolio li {
