@@ -73,6 +73,10 @@ h1 {}
 .hero_part {
     margin-top: 58px;
 }
+.element{
+	height: 1px solid #ccc;
+	width: 40px;
+}
 
 #homeLogo {
     position: absolute;
@@ -873,11 +877,7 @@ div.newsletterredesign {
 .selfie2 img {
     width: 100%;
 }
-@media screen and (min-width: 1200px) {
-    .portfolio li {
-        width: 32%;
-    }
-}
+
 @media screen and (max-width: 768px) {
     .clear .say {
         width: 90%;
