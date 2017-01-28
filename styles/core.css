@@ -141,11 +141,13 @@ h1 {}
     min-height: 70px;
 
 
+
     /*	margin-left: -20px; */
 }
 
 .portfolio a:hover .details {
     font-style: italic;
+    text-decoration: none;
 }
 
 .details span {
