@@ -774,7 +774,7 @@ div.newsletterredesign {
 }
 .selfie2 {
     content: url('/images/selfie.png');
-    max-width: 20%;
+    max-width: 100%;
     display: block;
     height: auto;
     /*   float: left; */
