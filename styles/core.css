@@ -122,11 +122,12 @@ h1 {}
     bottom: 0;
 }
 
-.portfolio a {
-    display: block;
+.portfolio .img_wrapper {
     position: relative;
     padding-bottom: 56.25%;
 }
+
+.portfolio a {}
 
 .portfolio a:hover .sample {
     box-shadow: 0px 0px 12px #eee;
