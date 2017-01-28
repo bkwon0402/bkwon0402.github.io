@@ -840,7 +840,7 @@ div.newsletterredesign {
 	list-style: 	none;
 	margin: 		0;
 	padding: 		21px 40px;
-	color: #595959; 
+	color: #595959 !important; 
 }
 
 .nav li {
@@ -849,6 +849,7 @@ div.newsletterredesign {
 	color: #595959; 
 	margin-left:40px;
 	font-family:	"Adobe Garamond Pro"; 
+	width:75px;
 }
 
 .footer {
