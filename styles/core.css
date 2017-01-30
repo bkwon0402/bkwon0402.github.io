@@ -74,34 +74,6 @@ h1 {}
     margin-top: 58px;
 }
 
-@media(min-width: 768px) {
-    .portfolio .one_col {
-        padding: 0px 30px;
-    }
-    .menu_toggler {
-        display: none;
-    }
-    .nav ul li{
-       
-    }
-    
-}
-
-@media(max-width: 768px) {
-    .nav {
-        display: none;
-    }
-    .nav{
-        position: fixed;
-        top: 80px;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-color: rgba(255,255,255);
-    }
-    
-}
-
 .line_sep {
     height: 1px;
     width: 40px;
@@ -945,4 +917,31 @@ div.newsletterredesign {
         padding-left: 8%;
     }
     /* For portrait layouts only */
+}
+@media(min-width: 768px) {
+    .portfolio .one_col {
+        padding: 0px 30px;
+    }
+    
+    .menu_toggler {
+        display: none;
+    }
+}
+@media(max-width: 768px) {
+    .nav {
+        display: none;
+    }
+    
+    .nav {
+        position: fixed;
+        top: 80px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+    
+    .nav ul li {
+        float: none;
+    }
 }
