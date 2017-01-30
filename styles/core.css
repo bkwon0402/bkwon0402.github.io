@@ -78,10 +78,13 @@ h1 {}
     .portfolio .one_col {
         padding: 0px 30px;
     }
+
+    
+}
+@media(max-width: 768px){
     .nav{
         display: none;
     }
-    
 }
 
 .line_sep {
