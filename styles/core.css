@@ -945,4 +945,12 @@ div.newsletterredesign {
     .nav ul li {
         float: none;
     }
+    .nav ul{
+        position: static;
+        text-align: center;
+    }
+    .nav ul li a{
+        padding: 20px;
+        display: block;
+    }
 }
