@@ -81,6 +81,9 @@ h1 {}
     .menu_toggler {
         display: none;
     }
+    .nav ul li{
+        float: left;
+    }
     
 }
 
