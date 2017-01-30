@@ -822,6 +822,7 @@ div.newsletterredesign {
     width: 100%;
     background: rgba(255, 255, 255, .88);
     border-bottom: 1px solid #F3F3F3;
+    position: relative;
 }
 .menu_toggler {
         position: absolute;
