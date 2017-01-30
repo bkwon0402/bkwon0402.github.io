@@ -843,6 +843,10 @@ div.newsletterredesign {
     .menu_toggler span:last-child {
         margin-bottom: 0px;
     }
+    .open_menu{
+        font-size: 18px;
+        
+    }
 .nav {
     height: 58px;
     margin: 0;
