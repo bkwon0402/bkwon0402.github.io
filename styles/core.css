@@ -206,6 +206,14 @@ hr.style-six {
     padding: 30px 15px;
 }
 
+
+#portfolio_hero .container {
+    max-width: 768px;
+}
+#portfolio_content .container {
+    max-width: 768px;
+}
+
 #portfolio_hero span {
     font-size: 26px;
     display: block;
