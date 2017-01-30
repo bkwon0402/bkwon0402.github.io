@@ -834,7 +834,7 @@ div.newsletterredesign {
         position: absolute;
         width: 30px;
         right: 15px;
-        top: 50%;
+        top: 40px;
         transform: translate(0, -50%);
         -webkit-transform: translate(0, -50%);
         -moz-transform: translate(0, -50%);
