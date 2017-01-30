@@ -879,11 +879,13 @@ div.newsletterredesign {
 .nav li a:hover {
     /*font-style: italic;*/
     font-family: "Adobe Garamond Pro It";
+    text-decoration: none;
 
 }
 .nav li.active a {
     /*font-style: italic;*/
     font-family: "Adobe Garamond Pro It";
+    text-decoration: none;
 }
 .footer {
     clear: both;
