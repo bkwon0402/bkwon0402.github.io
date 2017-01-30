@@ -942,6 +942,8 @@ div.newsletterredesign {
     
     .nav ul li {
         float: none;
+        margin: 0;
+        width: auto;
     }
     .nav ul{
         position: static;
@@ -951,4 +953,5 @@ div.newsletterredesign {
         padding: 20px;
         display: block;
     }
+
 }
