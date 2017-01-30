@@ -158,6 +158,9 @@ i.place_holder {
     color: #595959;
     letter-spacing: 1.4px;
     min-height: 100px;
+    transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+    -moz-transition: 0.3s all;
     /*  margin-left: -20px; */
 }
 
