@@ -69,12 +69,16 @@ a {
 
 h1 {}
 
-i.place_holder {
+.text_iplace_holder {
     font-family: Adobe Garamond Pro It;
     width: 0;
     height: 0;
     opacity: 0;
     visibility: hidden;
+}
+
+.text_bplace_holder {
+    font-weight: 700;
 }
 
 #hero {
