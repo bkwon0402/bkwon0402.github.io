@@ -158,7 +158,7 @@ i.place_holder {
 }
 
 .portfolio a:hover .details {
-    font-style: italic;
+    font-weight: 700;
 }
 
 .details span {
