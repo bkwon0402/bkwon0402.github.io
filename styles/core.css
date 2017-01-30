@@ -146,10 +146,10 @@ i.place_holder {
 
 .details {
     margin-top: 10px;
-    font-size: 14px;
+    font-size: 18px;
     color: #595959;
     letter-spacing: 1.4px;
-    min-height: 70px;
+    min-height: 100px;
     /*  margin-left: -20px; */
 }
 
