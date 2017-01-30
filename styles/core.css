@@ -866,20 +866,22 @@ div.newsletterredesign {
     list-style: none;
     margin: 0;
     padding: 21px 40px;
-    color: #A6A6A6 !important;
+    color: #A6A6A6;
 }
 .nav li {
+    margin-left: 40px;
+}
+.nav li a {
     font-size: 19px;
     float: left;
-    color: #A6A6A6 !important;
-    margin-left: 40px;
+    color: #A6A6A6;
     font-family: "Adobe Garamond Pro";
     width: 58px;
 }
-#nav li a:hover {
+.nav li a:hover {
     font-style: italic;
 }
-#nav li a:active {
+.nav li.active a {
     font-style: italic;
 }
 .footer {
