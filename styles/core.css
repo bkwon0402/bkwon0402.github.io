@@ -768,8 +768,6 @@ div.newsletterredesign {
     float: left;
     max-width: 300px;
     text-align: justify;
-    margin-left: 3%;
-    line-height: 155%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
 }
@@ -783,7 +781,7 @@ div.newsletterredesign {
 }
 .selfie2 {
     content: url('/images/selfie.png');
-    max-width: 100%;
+    max-width: 300px;
     display: block;
     height: auto;
     /*   float: left; */
