@@ -212,6 +212,9 @@ hr.style-six {
     width: 100%;
     height: 400px;
 }
+#portfolio_content img{
+    max-width: 100%;
+}
 
 .indiegogo {
     text-decoration: underline;
