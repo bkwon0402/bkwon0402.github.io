@@ -1,33 +1,35 @@
----
-layout: default
----
-<head>
-	{% include {{page.headtouse}} %}
-	<style type="text/css">
-		#homeLogo {
-			display: block;
-		}
+--- layout: default ---
 
-		/*.header {
+<head>
+    {% include {{page.headtouse}} %}
+    <style type="text/css">
+    #homeLogo {
+        display: block;
+    }
+    /*.header {
 			position: fixed;
 		}*/
-	</style>
+    </style>
 </head>
-<body>
-{% include header.html %}
 
-<div id="portfolio_hero">
-	{{page.title}}
-	<span>{{page.sub}}</span>
-</div>
-<div id="portfolio_content">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 text-center">
-				<hr class="style-six">
-				{{ content }}
-			</div>
-		</div>
-	</div>
-	
-</div>
+<body>
+    {% include header.html %}
+    <div id="portfolio_hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    {{page.title}}
+                    <span>{{page.sub}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="portfolio_content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <hr class="style-six"> {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
