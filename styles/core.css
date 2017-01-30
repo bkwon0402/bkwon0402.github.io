@@ -37,6 +37,12 @@ body {
     padding-top: 80px;
 }
 
+a {
+    transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+    -moz-transition: 0.3s all;
+}
+
 .nav li a {
     color: #595959;
 }
@@ -62,7 +68,6 @@ a {
 }
 
 h1 {}
-
 
 i.place_holder {
     font-family: Adobe Garamond Pro It;
@@ -131,6 +136,9 @@ i.place_holder {
     right: 0;
     top: 0;
     bottom: 0;
+    transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+    -moz-transition: 0.3s all;
 }
 
 .portfolio .img_wrapper {
@@ -178,7 +186,7 @@ hr.style-six {
 }
 
 #portfolio_hero {
-        font-size: 33px;
+    font-size: 33px;
     /* margin-left: 7%; */
     /* margin-top: 140px; */
     /* margin-bottom: 90px; */
@@ -223,7 +231,8 @@ hr.style-six {
     width: 100%;
     height: 400px;
 }
-#portfolio_content img{
+
+#portfolio_content img {
     max-width: 100%;
 }
 
@@ -891,12 +900,13 @@ div.newsletterredesign {
 }
 .nav li a:hover {
     /*font-style: italic;*/
+    
     font-family: "Adobe Garamond Pro It";
     text-decoration: none;
-
 }
 .nav li.active a {
     /*font-style: italic;*/
+    
     font-family: "Adobe Garamond Pro It";
     text-decoration: none;
 }
@@ -942,7 +952,8 @@ div.newsletterredesign {
     .menu_toggler {
         display: none;
     }
-    .nav{
+    
+    .nav {
         display: block !important;
     }
 }
