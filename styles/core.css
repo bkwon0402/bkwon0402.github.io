@@ -82,7 +82,7 @@ h1 {}
 }
 
 #homeLogo {
-   position: absolute;
+    position: absolute;
     display: none;
     color: #595959;
     text-align: center;
@@ -183,7 +183,6 @@ hr.style-six {
 
 #portfolio_content {
     padding: 20px;
-    width: 700px;
     margin: 0 auto;
 }
 
@@ -913,7 +912,6 @@ div.newsletterredesign {
     
     .portfolio {}
 }
-
 @media(min-width: 768px) {
     .portfolio .one_col {
         padding: 0px 30px;
@@ -938,7 +936,8 @@ div.newsletterredesign {
         height: auto;
         z-index: 1;
     }
-    .header{
+    
+    .header {
         height: 58px;
     }
     
@@ -947,14 +946,15 @@ div.newsletterredesign {
         margin: 0;
         width: auto;
     }
-    .nav ul{
+    
+    .nav ul {
         position: static;
         text-align: center;
     }
-    .nav ul li a{
+    
+    .nav ul li a {
         padding: 20px;
         display: block;
         font-size: 30px;
     }
-
 }
