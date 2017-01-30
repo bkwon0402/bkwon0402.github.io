@@ -978,6 +978,9 @@ div.newsletterredesign {
     }
 }
 @media(max-width: 768px) {
+    body {
+        font-size: 18px;
+    }
     .nav {
         display: none;
     }
@@ -1012,5 +1015,10 @@ div.newsletterredesign {
         padding: 20px;
         display: block;
         font-size: 30px;
+    }
+}
+@media(max-width: 480px) {
+    body {
+        font-size: 20px;
     }
 }
