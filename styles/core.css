@@ -1021,4 +1021,10 @@ div.newsletterredesign {
     body {
         font-size: 20px;
     }
+    #portfolio_hero {
+        text-align: center;
+    }
+    #portfolio_content p {
+        text-align: center;
+    }
 }
