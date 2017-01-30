@@ -73,6 +73,15 @@ h1 {}
 .hero_part {
     margin-top: 58px;
 }
+@media(min-width: 768px){
+    .hero_part .one_col{
+padding: 0px 15px;
+}
+
+
+
+}
+
 
 .line_sep {
     height: 1px;
@@ -135,7 +144,7 @@ h1 {}
 
 .details {
     margin-top: 10px;
-    font-size: 12px;
+    font-size: 14px;
     color: #595959;
     letter-spacing: 1.4px;
     min-height: 70px;
