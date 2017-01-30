@@ -62,6 +62,15 @@ a {
 
 h1 {}
 
+
+i.place_holder {
+    font-family: Adobe Garamond Pro It;
+    width: 0;
+    height: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
 #hero {
     font-size: 36px;
     font-style: normal;
