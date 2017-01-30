@@ -856,6 +856,8 @@ div.newsletterredesign {
         font-size: 20px;
         letter-spacing: 3px;
         color: #666;
+        position: absolute;
+        right: 0;
 
     }
 .nav {
