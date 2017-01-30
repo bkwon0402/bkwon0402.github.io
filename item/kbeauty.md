@@ -34,13 +34,13 @@ It'd be nice if users could buy products they like using our app, so I decided t
 Here are the onboarding screens that explain the app's main value propositions. 
 <br>
 <br>
-<img src="/images/onboarding1.png" width="50%" style="margin-left:160px">
+<img src="/images/onboarding1.png" width="50%">
 <br>
 <br>
-<img src="/images/onboarding2.png" width="50%" style="margin-left:160px">
+<img src="/images/onboarding2.png" width="50%">
 <br>
 <br>
-<img src="/images/onboarding3.png" width="50%" style="margin-left:160px">
+<img src="/images/onboarding3.png" width="50%">
 <br>
 <br>
 
@@ -58,16 +58,16 @@ After I had wireframes ready on paper, I designed high-fidelity mockups. In this
 
 Here are some of the high fidelity mockups I put together to create an Invision prototype. 
 
-<img src="/images/kbeautymockup1.png" width="50%" style="margin-left:160px">
+<img src="/images/kbeautymockup1.png" width="50%">
 <br>
 <br>
-<img src="/images/exercise1.png" width="50%" style="margin-left:160px">
+<img src="/images/exercise1.png" width="50%">
 <br>
 <br>
-<img src="/images/exercise2.png" width="50%" style="margin-left:160px">
+<img src="/images/exercise2.png" width="50%">
 <br>
 <br>
-<img src="/images/exercise3.png" width="50%" style="margin-left:160px">
+<img src="/images/exercise3.png" width="50%">
 <br>
 <br>
 <br>
@@ -90,7 +90,7 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 Here's the new about page that tells users how the product gets ratings. 
 
-<img src="/images/about.png" width="50%" style="margin-left:160px">
+<img src="/images/about.png" width="50%">
 
 <br>
 
@@ -99,10 +99,10 @@ Here's the new about page that tells users how the product gets ratings.
 
 In my original design, when users search for a product/brand, the app simply told users whether the product/brand is known in Korea.  
   
-<img src="/images/reputable.png" width="50%" style="margin-left:160px">
+<img src="/images/reputable.png" width="50%">
 
 <br>
-<img src="/images/ughoh.png" width="50%" style="margin-left:160px">
+<img src="/images/ughoh.png" width="50%">
 <p class="caption">Search results screens from my original design</p>
 <br>
 
@@ -114,46 +114,46 @@ Based on the insights, I iterated so that the app gives more customized recommen
 
 In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
 
-<img src="/images/search1.png" width="50%" style="margin-left:160px">
+<img src="/images/search1.png" width="50%">
 <br>
 
-<img src="/images/search2.png" width="50%" style="margin-left:160px">
+<img src="/images/search2.png" width="50%">
 <br>
 
-<img src="/images/search3.png" width="50%" style="margin-left:160px">
+<img src="/images/search3.png" width="50%">
 <br>
 <br>
 Here are examples of search results screens that give more detailed reviews.  
-<img src="/images/newresult1.png" width="50%" style="margin-left:160px">
+<img src="/images/newresult1.png" width="50%">
 <br>
 
-<img src="/images/newresult2.png" width="50%" style="margin-left:160px">
+<img src="/images/newresult2.png" width="50%">
 <br>
 
-<img src="/images/newresult3.png" width="50%" style="margin-left:160px">
+<img src="/images/newresult3.png" width="50%">
 <br> 
 
 In addition, when users search for bestselling products, users can filter products based on their own needs. 
 <br>
 
 
-<img src="/images/bestselling1.png" width="50%" style="margin-left:160px">
+<img src="/images/bestselling1.png" width="50%">
 
 <br>
 
 
-<img src="/images/bestselling2.png" width="50%" style="margin-left:160px">
+<img src="/images/bestselling2.png" width="50%">
 
 <br>
 
 
-<img src="/images/bestselling3.png" width="50%" style="margin-left:160px">
+<img src="/images/bestselling3.png" width="50%">
 
 <br>
-<img src="/images/best1.png" width="50%" style="margin-left:160px">
+<img src="/images/best1.png" width="50%">
 <br>
 
-<img src="/images/best2.png" width="50%" style="margin-left:160px">
+<img src="/images/best2.png" width="50%">
 <br>
 <br>
 
@@ -169,7 +169,7 @@ However, after talking to more potential users, I decided to include the cheat s
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
 
-<img src="/images/cheatsheet.png" width="50%" style="margin-left:160px">
+<img src="/images/cheatsheet.png" width="50%">
 <p class="caption">K-beauty Cheat Sheet screen from the final design</p>
 <br>
 
@@ -189,16 +189,16 @@ In addition, the product lets users discover Korea’s best products and makes c
 
 
 
-<img src="/images/bestselling1.png" width="50%" style="margin-left:160px">
+<img src="/images/bestselling1.png" width="50%">
 
 <br>
 
 
-<img src="/images/bestbrands.png" width="50%" style="margin-left:160px">
+<img src="/images/bestbrands.png" width="50%">
 
 <br>
 
-<img src="/images/bestbrands2.png" width="50%" style="margin-left:160px">
+<img src="/images/bestbrands2.png" width="50%">
 
 <br>
 

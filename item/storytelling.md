@@ -30,15 +30,15 @@ Prominent non-profit organizations such as Girl Effect, Food and Agriculture Org
 
 Here are the infographics that Girl Effect retweeted. 
 
-<img src="/images/storytelling1.png" style="margin-left:150px">
-<img src="/images/storytelling2.png" style="margin-left:150px">
+<img src="/images/storytelling1.png" >
+<img src="/images/storytelling2.png" >
 <br>
 
 Here are more mini-infographics I designed. 
 
-<img src="/images/info1.png" style="margin-left:80px; margin-bottom: 40px">
+<img src="/images/info1.png" style="margin-bottom: 40px">
 <br>
-<img src="/images/info2.png" style="margin-left:80px; margin-bottom: 40px">
+<img src="/images/info2.png" style="margin-bottom: 40px">
 <br>
 <img src="/images/info3.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
 <br>
@@ -54,12 +54,12 @@ Here is an infographic I designed on why the organization invests in women. I ow
 
 I also designed visually appealing content to share on social media.  
 
-<img src="/images/quote1.png" style ="margin-left: 100px">
-<img src="/images/quote2.png" style ="margin-left: 100px">
-<img src="/images/quote3.png" style ="margin-left: 100px">
-<img src="/images/quote4.png" style ="margin-left: 100px">
-<img src="/images/quote5.png" style ="margin-left: 100px">
-<img src="/images/quote6.png" style ="margin-left: 100px">
+<img src="/images/quote1.png" />
+<img src="/images/quote2.png" />
+<img src="/images/quote3.png" />
+<img src="/images/quote4.png" />
+<img src="/images/quote5.png" />
+<img src="/images/quote6.png" />
 
 
 

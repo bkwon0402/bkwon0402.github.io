@@ -19,10 +19,10 @@ I started the project by researching logos. I went on sites like Dribbble and Pi
 Here are the sketches/early prototype I shared. 
 
 
-<img src="/images/logo1.jpg" style="margin-left:285px">
+<img src="/images/logo1.jpg" />
 
 
-<img src="/images/logo2.jpg" style="margin-left:60px">
+<img src="/images/logo2.jpg" />
 
 <br>
 2) a circle shape --  think “circle of connections;” a circle represents the idea that WeFinance connects people. 
@@ -30,7 +30,7 @@ Here are the sketches/early prototype I shared.
 Here’s the prototype I shared. 
 
 
-<img src="/images/logo3.png" style="margin-left:200px">
+<img src="/images/logo3.png" />
 
 
 We ultimately decided to go with Option 2: a circle. While WeFinance is about happiness, we realized a heart tends to conjure up ideas of romantic relationships and dating. On the other hand, the sophisticated feel of Option 2 keeps things more professional, which better matches the personality of the financial services company.  
@@ -38,7 +38,7 @@ We ultimately decided to go with Option 2: a circle. While WeFinance is about ha
 Once we decided on Option 2, I designed new gradients and experimented further. 
 
 
-<img src="/images/logo4.png" style="margin-left:200px">
+<img src="/images/logo4.png" />
 
 
 
@@ -46,25 +46,25 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 <br>
 Here are some of the new ideas I tried. 
 
-<img src="/images/logo5.png" style="margin-left:200px">
-<img src="/images/logo6.png" style="margin-left:200px">
-<img src="/images/logo7.png" style="margin-left:200px">
-<img src="/images/logo8.png" style="margin-left:200px">
-<img src="/images/logo9.png" style="margin-left:200px">
-<img src="/images/logo10.png" style="margin-left:200px">
+<img src="/images/logo5.png" />
+<img src="/images/logo6.png" />
+<img src="/images/logo7.png" />
+<img src="/images/logo8.png" />
+<img src="/images/logo9.png" />
+<img src="/images/logo10.png" />
 <p class="captionnn">Original idea</p> 
 
 After varying fonts, character spacing, and colors, we found the right combination. 
-<img src="/images/logo11.png" style="margin-left:-10px">
-<img src="/images/logo12.png" style="margin-left:-10px">
+<img src="/images/logo11.png" />
+<img src="/images/logo12.png" />
 <br>
 We also looked into integrating the logo into the name more. Based on the insight of one of the founders, we tried emphasizing ‘We’ specifically in their name via the logo.  
-<img src="/images/logo13.png" style="margin-left:180px">
+<img src="/images/logo13.png" />
 <br>
-<img src="/images/logo14.png" width="50%" style="margin-left:180px">
+<img src="/images/logo14.png" width="50%" />
 <br>
 
-<img src="/images/logo15.png" width="60%" style="margin-left:180px">
+<img src="/images/logo15.png" width="60%" />
 <br>
 
 And we loved the circle around the WE option. The logo is interesting and unique. In addition, it embodies the business model that connects people.    
@@ -73,7 +73,7 @@ And here is the final logo:
 
 <img src="/images/logo16.png" width="100%">
 
-<img src="/images/logo17.png" style="margin-left: 270px">
+<img src="/images/logo17.png" />
 
 <br>
 
@@ -97,7 +97,7 @@ I also designed icons using the gradients I designed for the logo.
 
 I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders.    
 
-<img src="/images/wefinanceemail.png" style="margin-left: 70px">
+<img src="/images/wefinanceemail.png" />
 
 <p class="caption4">WeFinance’s original email newsletter </p>
 <br>
@@ -118,7 +118,7 @@ Here is the final design.
 
 
 
-<img src="/images/newsletterredesign.png" width="100%" style="margin-left: -20px">
+<img src="/images/newsletterredesign.png" width="100%" />
 
 
 

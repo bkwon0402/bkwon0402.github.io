@@ -35,7 +35,7 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 <br>
 
 
-<img src="/images/feedly.png" width="120%" style="margin-left:-100px">
+<img src="/images/feedly.png" width="100%" />
 
 <div class="feedlycaption">Feedly offers only a preview of an article</div>
 <br>
@@ -50,7 +50,7 @@ For the interface, I wanted to have as few elements as possible so that the prod
 For example, I think the pictures that news readers pull up for each article are often irrelevant to the articles.  
 
 
-<img src="/images/pictures.png" style="margin-left:100px">
+<img src="/images/pictures.png" />
 <div class="feedlycaption">Pictures don't always make sense</div>
 
 <br>
@@ -68,15 +68,15 @@ I decided against 1) because I wanted the full screen dedicated to the article w
 However, once I designed the high-fidelity mockup of 3), I realized that it’s a bit distracting to have a button on the bottom. 
 
 
-<img src="/images/bottombutton.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/bottombutton.png" style="box-shadow: 0px 8px 15px #eaeaea">
 <p>In option 3), when users hover over the button, the share/manage menu appears.</p>
 <br>
-<img src="/images/bottombutton2.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/bottombutton2.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 <br>
  I decided creating a distraction-free experience is more important than giving users a bit more control over managing articles, so I went with 2) instead.   
 
-<img src="/images/bottombar.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/bottombar.png" style="box-shadow: 0px 8px 15px #eaeaea">
 <p class="cap">In the final design, the share/manage menu appears when users scroll up.</p>
 <br>
 
@@ -89,7 +89,7 @@ In my original design, the product sorts the list by most recent.
 
 
 
-<img src="/images/originaldesign.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/originaldesign.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 
 
@@ -102,7 +102,7 @@ I thought c) made sense and made it as the default option. In this option, artic
 
 <br>
 
-<img src="/images/maindropdown.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/maindropdown.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 
 There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
@@ -114,20 +114,20 @@ There were other useful insights I gained while talking to users. For example, s
 A user logs in. 
 
 
-<img src="/images/main.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/main.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 
 S/he sees the list of articles that his/her Facebook friends posted. 
-<img src="/images/maindropdown2.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/maindropdown2.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 S/he reads an article distraction-free. The site also pulls comments from Facebook, which s/he can choose to hide.  
 
-<img src="/images/articlepage.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/articlepage.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 S/he can also view the list of articles posted by a specific friend.
 
 
-<img src="/images/sharedbydianna.png" width="130%" style="margin-left: -100px; box-shadow: 0px 8px 15px #eaeaea">
+<img src="/images/sharedbydianna.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 
 <br>
