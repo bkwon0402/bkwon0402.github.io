@@ -821,7 +821,7 @@ div.newsletterredesign {
     position: absolute;
     width: 30px;
     right: 15px;
-    top: 40px;
+    top: 50%;
     transform: translate(0, -50%);
     -webkit-transform: translate(0, -50%);
     -moz-transform: translate(0, -50%);
@@ -912,12 +912,7 @@ div.newsletterredesign {
     
     .portfolio {}
 }
-@media only screen and (min-width: 800px) and (max-width: 1000px) {
-    .portfolio {
-        padding-left: 8%;
-    }
-    /* For portrait layouts only */
-}
+
 @media(min-width: 768px) {
     .portfolio .one_col {
         padding: 0px 30px;
@@ -938,7 +933,7 @@ div.newsletterredesign {
         left: 0;
         right: 0;
         bottom: 0;
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 0.8);
         height: auto;
     }
     
