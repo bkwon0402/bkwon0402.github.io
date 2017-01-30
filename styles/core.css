@@ -81,6 +81,9 @@ h1 {}
     .menu_toggler{
         display: none;
     }
+    .open_menu{
+        display: none;
+    }
 
     
 }
