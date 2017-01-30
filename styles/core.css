@@ -79,6 +79,10 @@ h1 {}
 
 .text_bplace_holder {
     font-weight: 700;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    opacity: 0;
 }
 
 #hero {
