@@ -34,21 +34,21 @@ Finally, I work on visual design and bring content to life. The company already 
 
 Here is the landing page. 
 
-<img src="/images/clearearlandingpage.png" width="120%" height="100%" style="margin-left:-70px">
+<img src="/images/clearearlandingpage.png">
 
 <br>
 Here is the about page. 
 <br>
 <br>
 
-<img src="/images/clearearabout.png" width="120%" height="100%" style="margin-left:-70px">
+<img src="/images/clearearabout.png">
 
 <br>
 Here is the landing page with the top navigation bar shown. 
 <br>
 <br> 
 
-<img src="/images/cleareartopnav.png" width="120%" height="100%" style="margin-left:-70px">
+<img src="/images/cleareartopnav.png">
 
 
 <br>

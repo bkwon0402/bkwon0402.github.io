@@ -19,5 +19,5 @@ This meant that I tried to design interesting and provocative icons. In addition
 Here’s a landing page mockup I designed where you can find the branding assets. 
 
 
-<img src="/images/branding (1).png" width="130%" style="margin-left:-110px">
+<img src="/images/branding (1).png">
 

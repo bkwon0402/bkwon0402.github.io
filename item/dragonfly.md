@@ -14,7 +14,7 @@ While at Stanford, I had the privilege of working closely with General Atlantic 
  
 The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results. 
 
-<img src="/images/dragonflyeffet.jpg" width = "100%" style="margin-left:0px">
+<img src="/images/dragonflyeffet.jpg">
 
 The four wings consist of:  
 

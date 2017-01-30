@@ -82,18 +82,19 @@ h1 {}
 }
 
 #homeLogo {
-    position: absolute;
+   position: absolute;
     display: none;
     color: #595959;
     text-align: center;
-    top: 0px;
-    left: 0px;
+    top: 50%;
+    left: 15px;
     height: 24px;
     width: 24px;
-    padding: 21px;
+    /* padding: 4px; */
     font-size: 27px;
     font-family: "Adobe Garamond Pro";
     font-style: italic;
+    margin-top: -12px;
 }
 
 #nav a:hover {
