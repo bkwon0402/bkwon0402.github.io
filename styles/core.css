@@ -168,12 +168,13 @@ hr.style-six {
 }
 
 #portfolio_hero {
-    font-size: 33px;
-    margin-left: 7%;
-    margin-top: 140px;
-    margin-bottom: 90px;
+        font-size: 33px;
+    /* margin-left: 7%; */
+    /* margin-top: 140px; */
+    /* margin-bottom: 90px; */
     font-family: "Calluna";
     letter-spacing: 2.4px;
+    padding: 30px 15px;
 }
 
 #portfolio_hero span {
@@ -922,6 +923,9 @@ div.newsletterredesign {
     
     .menu_toggler {
         display: none;
+    }
+    .nav{
+        display: block !important;
     }
 }
 @media(max-width: 768px) {
