@@ -76,7 +76,7 @@ h1 {}
 
 @media(min-width: 768px) {
     .portfolio .one_col {
-        padding: 0px 15px;
+        padding: 0px 30px;
     }
 }
 
