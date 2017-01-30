@@ -34,6 +34,7 @@ body {
     font-weight: 300;
     color: #595959;
     letter-spacing: 1.4px;
+    padding-top: 80px;
 }
 
 .nav li a {
@@ -828,7 +829,10 @@ div.newsletterredesign {
     width: 100%;
     background: rgba(255, 255, 255, .88);
     border-bottom: 1px solid #F3F3F3;
-    position: relative;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
 }
 .menu_toggler {
     position: absolute;
