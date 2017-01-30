@@ -78,6 +78,9 @@ h1 {}
     .portfolio .one_col {
         padding: 0px 30px;
     }
+    .nav{
+        display: none;
+    }
     
 }
 
