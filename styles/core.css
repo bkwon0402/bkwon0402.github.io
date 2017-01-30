@@ -81,18 +81,14 @@ h1 {}
     .menu_toggler {
         display: none;
     }
-    .open_menu {
-        display: none;
-    }
+    
 }
 
 @media(max-width: 768px) {
     .nav {
         display: none;
     }
-    .open_menu {
-        display: none;
-    }
+    
 }
 
 .line_sep {
