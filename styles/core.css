@@ -858,7 +858,11 @@ div.newsletterredesign {
         color: #666;
         position: absolute;
         right: 0;
+        top: 50%;
 
+    }
+    .open_menu ul{
+        list-style-type: none;
     }
 .nav {
     height: 58px;
