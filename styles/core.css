@@ -91,6 +91,9 @@ h1 {}
     .nav{
         display: none;
     }
+     .open_menu{
+        display: none;
+    }
 }
 
 .line_sep {
