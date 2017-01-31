@@ -68,6 +68,14 @@ $(document).ready(function() {
         }
     });
 
+    if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    $(window).on('pageshow', function(e) {
+        if (e.originalEvent.persisted) {
+            window.location.reload();
+        }
+    });
+}
+
 
 });
 </script>
