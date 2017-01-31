@@ -19,7 +19,11 @@ I designed a website mockup for ClearEar, a medical device startup. ClearEar off
 # My Process 
 
 <div class="small_container">
-	I like to start projects by spending time understanding the product and company. ClearEar had just run a very successful <a class="indiegogo" href="https://www.indiegogo.com/projects/the-oto-tip-4-reasons-to-quit-q-tips-today">Indiegogo campaign</a>, so I closely reviewed the campaign as well as a TechCrunch article that covered the campaign.  
+	<p>
+		I like to start projects by spending time understanding the product and company. ClearEar had just run a very successful <a class="indiegogo" href="https://www.indiegogo.com/projects/the-oto-tip-4-reasons-to-quit-q-tips-today">Indiegogo campaign</a>, so I closely reviewed the campaign as well as a TechCrunch article that covered the campaign.  
+
+	</p>
+	
 
 I then invest a lot of time into researching examples. In this case, I went onto Angelist and searched for medical device startups. I then visited their websites and studied what distinguishes well-designed websites from mediocre ones. 
 
