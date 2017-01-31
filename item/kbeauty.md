@@ -6,22 +6,29 @@ sub:
 ---
 # The Challenge
 
-K-beauty is hot in America. However, as a skincare fanatic from Korea, I am under the strong impression that Americans are struggling to understand and take advantage of k-beauty. Case in point: I don’t recognize many of the brands that major US-based k-beauty e-commerce businesses sell. For example, on two sites that were featured on the likes of Vogue, Allure, and WSJ, I recognized less than 30% of the brands that they carry. My American friends were, of course, surprised at this fact. They maybe felt a bit deceived, too. To fill this knowledge gap, I designed a concept mobile app that helps users to navigate the k-beauty world. The product achieves the goal by 1) telling users whether a given brand/product is reputable k-beauty or not 2) showcasing to users Korea’s best skincare products and brands.   
+<div class="small_container">
+	K-beauty is hot in America. However, as a skincare fanatic from Korea, I am under the strong impression that Americans are struggling to understand and take advantage of k-beauty. Case in point: I don’t recognize many of the brands that major US-based k-beauty e-commerce businesses sell. For example, on two sites that were featured on the likes of Vogue, Allure, and WSJ, I recognized less than 30% of the brands that they carry. My American friends were, of course, surprised at this fact. They maybe felt a bit deceived, too. To fill this knowledge gap, I designed a concept mobile app that helps users to navigate the k-beauty world. The product achieves the goal by 1) telling users whether a given brand/product is reputable k-beauty or not 2) showcasing to users Korea’s best skincare products and brands.   
 
 <br>
 
+</div>
 
 
 # User Needs
 
-<p class="italic">"I definitely struggled to understand and take advantage of the k-beauty products while I was there"  – a friend on her experience shopping for k-beauty in Korea  
+<div class="small_container">
+	<p class="italic">"I definitely struggled to understand and take advantage of the k-beauty products while I was there"  – a friend on her experience shopping for k-beauty in Korea  
 </P>
 
 In talking to my American friends, I found that they want help finding legitimate k-beauty products and brands. Do Korean women actually use these products and brands? What are reputable k-beauty products and brands?
 
 <br>
+</div>
 
 # The App
+
+<div class="small_container">
+
 
 The app has two main functionalities: 
 
@@ -32,6 +39,7 @@ It'd be nice if users could buy products they like using our app, so I decided t
 
 
 Here are the onboarding screens that explain the app's main value propositions. 
+</div>
 
 <div class="text_center">
 <br>
@@ -61,9 +69,14 @@ Here are the onboarding screens that explain the app's main value propositions.
 
 </div>
 
+
 # Design Process
 
+<div class="small_container">
+
 I started the design process by sketching wireframes on paper. In designing the UX and UI, I referred to many examples by looking at existing apps and sites like pttrns and dribbble. While sketching wireframes, I also brainstormed about copy to write on each screen. 
+</div>
+
 
 <div class="text_center">
 
@@ -74,11 +87,16 @@ I started the design process by sketching wireframes on paper. In designing the 
 <img src="/images/sketch2.JPG" width="100%">
 
 </div>
-<p class="sketchcaption">Sketches I did for key screens.</p> 
+
+<div class="small_container">
+	<p class="sketchcaption">Sketches I did for key screens.</p> 
 <br>
 After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
 Here are some of the high fidelity mockups I put together to create an Invision prototype. 
+</div>
+
+
 
 <div class="text_center">
 
@@ -103,21 +121,15 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 # Insights from User Testing
 
-<p class="bold" style="text-align: center" >Insight 1: users want a different rating system </p>
- 
-In designing the product, I had to decide what determines whether a brand or a product is reputable. I decided to have a small panel of normal Korean girls (10 or so) rate brands and products. My reasoning was that since most Korean girls are into skincare and are aware of major skincare brands and products, simply asking a small number of Korean girls would serve as an excellent measure.
-
-However, in testing with potential users, I found that they don't consider such a rating system trustworthy. 
-
-<p class="italic">"The idea of a panel of Korean girls [10 or so] seems like a weak signal of whether a product is reputable, and would not instill much confidence in me as a consumer."</p>  
 
 
+<div class="small_container">
+	<p class="sketchcaption">Sketches I did for key screens.</p> 
+<br>
+After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
-I've learned that users want to rely on the opinions of a few experts e.g., established Korean beauty personalities or many, many normal Korean women. While I still stand by the idea that a small panel of normal Korean women would do an excellent job, I decided not to interfere with users' mental models regarding what constitutes a credible rating system.     
-
-So instead of employing a small panel, I decided to aggregate reviews from Korea’s major cosmetics review sites and refer to external resources such as beauty awards to give ratings. In addition, a team of k-beauty experts e.g. beauty editors at major beauty magazines will help pick out the best brands.  
-
-Here's the new about page that tells users how the product gets ratings. 
+Here are some of the high fidelity mockups I put together to create an Invision prototype. 
+</div>
 
 <br>
 

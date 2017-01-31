@@ -182,7 +182,8 @@ I also designed icons using the gradients I designed for the logo.
 <div class="small_container">
 
 
-I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders.    
+I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders. 
+   
 </div>
 
 <div class="text_center">
