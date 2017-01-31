@@ -65,7 +65,7 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 <div class="text_center">
 
-	<img src="/images/logo4.png" />
+	<img src="/images/logo4.png" width="100"/>
 
 </div>
 
