@@ -131,7 +131,7 @@ S/he can also view the list of articles posted by a specific friend.
 
 <img src="/images/sharedbydianna.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
-
+<br> 
 <br>
 
 # What I would've done differently 
