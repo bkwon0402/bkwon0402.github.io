@@ -38,7 +38,7 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 <br>
 
 
-<img src="/images/feedly.png" width="100%" />
+<div style="text-align: center;"><img src="/images/feedly.png" width="100%" /></div>
 
 <div class="feedlycaption">Feedly offers only a preview of an article</div>
 <br>
