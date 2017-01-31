@@ -1016,6 +1016,9 @@ div.newsletterredesign {
     .clear .say {
         width: 90%;
     }
+    .say {
+        margin-top: 150px;
+    }
     
     .portfolio {}
 }
