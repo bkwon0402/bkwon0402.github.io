@@ -76,9 +76,7 @@ However, once I designed the high-fidelity mockup of 3), I realized that it’s 
 <br>
 
 <p>In option 3), when users hover over the button, the share/manage menu appears.</p>
-
 <br>
-
 <img src="/images/bottombutton2.png" style="box-shadow: 0px 8px 15px #eaeaea">
 
 <br>
