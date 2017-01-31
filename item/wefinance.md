@@ -33,11 +33,14 @@ Here are the sketches/early prototype I shared.
 
 
 <img src="/images/logo2.jpg" />
-
+<div class="small_container">
 <br>
 2) a circle shape --  think “circle of connections;” a circle represents the idea that WeFinance connects people. 
 
 Here’s the prototype I shared. 
+</div>
+
+
 
 
 <img src="/images/logo3.png" />
@@ -47,7 +50,7 @@ Here’s the prototype I shared.
 Once we decided on Option 2, I designed new gradients and experimented further. 
 
 
-	</div>
+</div>
 
 
 
@@ -56,11 +59,13 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 <img src="/images/logo4.png" />
 
+<div class="small_container">
 
 
 <p class="captionn"> New gradients ring I designed </p>
 <br>
 Here are some of the new ideas I tried. 
+</div>
 
 <img src="/images/logo5.png" />
 <img src="/images/logo6.png" />
@@ -68,39 +73,51 @@ Here are some of the new ideas I tried.
 <img src="/images/logo8.png" />
 <img src="/images/logo9.png" />
 <img src="/images/logo10.png" />
+<div class="small_container">
 <p class="captionnn">Original idea</p> 
 
 After varying fonts, character spacing, and colors, we found the right combination. 
+</div>
 <img src="/images/logo11.png" />
 <img src="/images/logo12.png" />
+<div class="small_container">
+
 <br>
-We also looked into integrating the logo into the name more. Based on the insight of one of the founders, we tried emphasizing ‘We’ specifically in their name via the logo.  
+We also looked into integrating the logo into the name more. Based on the insight of one of the founders, we tried emphasizing ‘We’ specifically in their name via the logo. 
+</div> 
 <img src="/images/logo13.png" />
 <br>
 <img src="/images/logo14.png" width="50%" />
 <br>
 
 <img src="/images/logo15.png" width="60%" />
+<div class="small_container">
+
 <br>
 
 And we loved the circle around the WE option. The logo is interesting and unique. In addition, it embodies the business model that connects people.    
 
 And here is the final logo: 
+</div>
 
 <img src="/images/logo16.png" width="100%">
 
 <img src="/images/logo17.png" />
+<div class="small_container">
 
 <br>
 
 I was new to logo design, but am happy with how things went. I designed the logo in just six days and received a lot of positive feedback from the team.
 
 <br>
+</div>
 
 # Icon Design  
 
-I also designed icons using the gradients I designed for the logo.  
+<div class="small_container">
 
+I also designed icons using the gradients I designed for the logo.  
+</div>
 
 <img src="/images/logo18.png" width="100%">
 
@@ -110,10 +127,15 @@ I also designed icons using the gradients I designed for the logo.
 
 # Email Newsletter Redesign 
 
+<div class="small_container">
+
 
 I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders.    
+</div>
 
 <img src="/images/wefinanceemail.png" />
+
+<div class="small_container">
 
 <p class="caption4">WeFinance’s original email newsletter </p>
 <br>
@@ -131,6 +153,7 @@ Also, I added another call to action - "Check out these listings and more here" 
 I tried to imagine from a potential lender’s perspective, what sort of information would make the lender interested in lending to a borrower. Two things came to my mind. 1) What is the borrower’s story? WeFinance is built around the idea that stories are powerful -- borrowers share their stories - their dreams and aspirations - on their pages, and good stories engage lenders.  Given this insight, instead of using generic "see more" in the call to action button, I used "read their story" --it's a small touch, but I think it keeps things a bit more interesting. 2) How much has the borrower raised already? If many people have lent to the borrower already, s/he must be a credible person whom lenders would feel comfortable lending to. Using that insight, I featured a graph bar that allows potential lenders to see how much the borrower has raised in one glance. 
 
 Here is the final design. 
+</div>
 
 
 
