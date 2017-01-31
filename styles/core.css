@@ -1019,12 +1019,12 @@ div.newsletterredesign {
 }
 @media(max-width: 480px) {
     body {
-        font-size: 20px;
+        font-size: 19px;
     }
     #portfolio_hero {
         text-align: center;
     }
     #portfolio_content p {
-        text-align: center;
+        text-align: left;
     }
 }
