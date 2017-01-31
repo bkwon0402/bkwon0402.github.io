@@ -30,6 +30,12 @@
 	</div>
 </div>
 <script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+	  $('#portfolio_content img').each(function(i, el) {
+			var thisHref = $(this).attr('href');
+			$(el).wrap('<a href="' + thisHref + '" data-title="nuyn"></a>');        	
+        });
+</script>
 <script type="text/javascript" src="/js/lightbox.min.js"></script>
 
 
@@ -39,6 +45,9 @@
         	e.preventDefault();
             $('.nav').toggle();
         });
+
+
+
     });
     </script>
 </body>
