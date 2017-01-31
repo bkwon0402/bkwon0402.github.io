@@ -144,12 +144,16 @@ Based on the insights, I iterated so that the app gives more customized recommen
 
 In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
 
+<br>
+
 <div class="text_center">
 
 <img src="/images/search1.png" width="50%">
 <br>
+<br>
 
 <img src="/images/search2.png" width="50%">
+<br>
 <br>
 
 <img src="/images/search3.png" width="50%">
@@ -158,17 +162,22 @@ In the new design, when users search for a product/brand, the app gives more det
 
 </div>
 Here are examples of search results screens that give more detailed reviews.  
+<br>
+<br>
 
 <div class="text_center">
 <img src="/images/newresult1.png" width="50%">
+<br>
 <br>
 <br>
 
 <img src="/images/newresult2.png" width="50%">
 <br>
 <br>
+<br>
 
 <img src="/images/newresult3.png" width="50%">
+<br>
 <br>
 <br> 
 
