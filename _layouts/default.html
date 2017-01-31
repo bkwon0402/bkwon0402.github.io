@@ -32,7 +32,7 @@
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript">
 	  $('#portfolio_content img').each(function(i, el) {
-			var thisHref = $(this).attr('href');
+			var thisHref = $(el).attr('href');
 			$(el).wrap('<a href="' + thisHref + '" data-title="nuyn"></a>');        	
         });
 </script>
