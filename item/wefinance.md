@@ -32,6 +32,7 @@ Here are the sketches/early prototype I shared.
 
 
 	<img src="/images/logo1.jpg" />
+	<br>
 
 
 	<img src="/images/logo2.jpg" />
