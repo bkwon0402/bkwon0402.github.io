@@ -1100,6 +1100,7 @@ div.newsletterredesign {
         display: block;
         font-size: 30px;
         width: auto;
+        text-align: center;
     }
 }
 @media(max-width: 480px) {
