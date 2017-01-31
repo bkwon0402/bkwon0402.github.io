@@ -35,6 +35,7 @@ body {
     color: #595959;
     letter-spacing: 1.4px;
     padding-top: 80px;
+    font-size: 16px;
 }
 
 a {
@@ -96,7 +97,8 @@ h1 {}
 .hero_part {
     margin-top: 58px;
 }
-.hero_p{
+
+.hero_p {
     font-size: 20px;
 }
 
@@ -165,7 +167,6 @@ h1 {}
 
 .details {
     margin-top: 10px;
-    font-size: 18px;
     color: #595959;
     letter-spacing: 1.4px;
     min-height: 100px;
@@ -797,7 +798,7 @@ div.newsletterredesign {
     font-size: 23px;
 }
 .aboutme {
-       font-size: 15px;
+    font-size: 15px;
     max-width: 555px;
     text-align: justify;
     color: #8C8C8C;
@@ -919,7 +920,7 @@ div.newsletterredesign {
     float: left;
 }
 .nav li a {
-        font-size: 19px;
+    font-size: 19px;
     font-family: "Adobe Garamond Pro";
     display: block;
     width: 70px;
