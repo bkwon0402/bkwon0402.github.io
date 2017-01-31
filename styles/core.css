@@ -892,16 +892,15 @@ div.newsletterredesign {
     font-family: "Lato";
     font-size: 19px;
     text-align: justify;
-    float: left;
     max-width: 100%;
-    margin-top: 5%;
+    margin-top: 20px;
     text-decoration: underline;
 }
 .disclaimer {
     font-family: "Lato";
     font-size: 15px;
     float: right;
-    margin-top: 6%;
+    margin-top: 80px;
 }
 .clear {
     clear: both;
