@@ -6,17 +6,27 @@ sub:
 ---
 # The Challenge
 
-I worked with the WeFinance founders on their design and branding. WeFinance is a crowdlending platform for student loans and other low-risk debt utilizing borrowers’ personal networks and real identities. 
+<div class="small_container">
+	I worked with the WeFinance founders on their design and branding. WeFinance is a crowdlending platform for student loans and other low-risk debt utilizing borrowers’ personal networks and real identities. 
 
 <br>
 
+</div>
+
+
+
 # Logo Design 
 
+<div class="small_container">
 I started the project by researching logos. I went on sites like Dribbble and Pinterest and looked for inspiration. I quite liked logos that had a combination of an interesting shape and the company name. The founders were happy with the direction, and I came up with two options:  
 
 1) a heart shape - WeFinance is about happiness and helping each other, and a heart embodies the spirit of the company.
 
 Here are the sketches/early prototype I shared. 
+
+
+	</div>
+
 
 
 <img src="/images/logo1.jpg" />
@@ -31,11 +41,17 @@ Here’s the prototype I shared.
 
 
 <img src="/images/logo3.png" />
-
-
-We ultimately decided to go with Option 2: a circle. While WeFinance is about happiness, we realized a heart tends to conjure up ideas of romantic relationships and dating. On the other hand, the sophisticated feel of Option 2 keeps things more professional, which better matches the personality of the financial services company.  
+<div class="small_container">
+	We ultimately decided to go with Option 2: a circle. While WeFinance is about happiness, we realized a heart tends to conjure up ideas of romantic relationships and dating. On the other hand, the sophisticated feel of Option 2 keeps things more professional, which better matches the personality of the financial services company.  
 
 Once we decided on Option 2, I designed new gradients and experimented further. 
+
+
+	</div>
+
+
+
+
 
 
 <img src="/images/logo4.png" />
