@@ -39,7 +39,7 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 
 
 <img src="/images/feedly.png" width="100%" />
-
+<br>
 <div style="text-align: center;"><div class="feedlycaption">Feedly offers only a preview of an article</div></div>
 <br>
 On Flipboard, another popular newsreader, users are instead directed straight to the original site when they click the news item. However, the web is often less ideal for reading. Large ads, bad layouts, and other features on news sites can distract you from reading. I think the popularity of products such as Readability, Pocket, Instapaper, and Medium really speaks to the idea that users value distraction-free reading experience. Given this insight, I think a news reader that also parses articles and presents them in a clean format will offer extra value to users. This way, users can enjoy a great reading experience without having to leave the site. 
