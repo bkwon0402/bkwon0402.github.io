@@ -26,6 +26,8 @@ Here are the sketches/early prototype I shared.
 
 
 	</div>
+
+	
 <div class="text_center">
 
 
