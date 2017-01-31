@@ -32,6 +32,8 @@ It'd be nice if users could buy products they like using our app, so I decided t
 
 
 Here are the onboarding screens that explain the app's main value propositions. 
+
+<div class="text_center">
 <br>
 <br>
 <img src="/images/onboarding1.png" width="50%">
@@ -43,20 +45,27 @@ Here are the onboarding screens that explain the app's main value propositions.
 <img src="/images/onboarding3.png" width="50%">
 <br>
 <br>
+</div>
 
 # Design Process
 
 I started the design process by sketching wireframes on paper. In designing the UX and UI, I referred to many examples by looking at existing apps and sites like pttrns and dribbble. While sketching wireframes, I also brainstormed about copy to write on each screen. 
 
+<div class="text_center">
+
 <img src="/images/sketch1.JPG" width="100%">
 <br>
 <br>
 <img src="/images/sketch2.JPG" width="100%">
+
+</div>
 <p class="sketchcaption">Sketches I did for key screens.</p> 
 <br>
 After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
 Here are some of the high fidelity mockups I put together to create an Invision prototype. 
+
+<div class="text_center">
 
 <img src="/images/kbeautymockup1.png" width="50%">
 <br>
@@ -71,6 +80,8 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <br>
 <br>
 <br>
+
+</div>
 
 # Insights from User Testing
 
@@ -90,14 +101,19 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 Here's the new about page that tells users how the product gets ratings. 
 
+<div class="text_center">
+
 <img src="/images/about.png" width="50%">
 
 <br>
+
+</div>
 
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
 In my original design, when users search for a product/brand, the app simply told users whether the product/brand is known in Korea.  
+<div class="text_center">
   
 <img src="/images/reputable.png" width="50%">
 
@@ -106,6 +122,8 @@ In my original design, when users search for a product/brand, the app simply tol
 <p class="caption">Search results screens from my original design</p>
 <br>
 
+</div>
+
 After talking to users, I’ve learned that they want to know more than whether a brand or a product is reputable. Users want customized recommendations. For example, “Road Shop” brands are popular in Korea, but they target younger demographics i.e. teenagers and girls in their early 20s. So “Road Shop” products are still reputable, but girls in their late 20s would not want those products recommended to them. 
 
 In addition, I’ve learned that users want recommendations to reflect their own needs (e.g. dry skin, acne, wrinkles). This makes sense because skincare is about catering to your own skin concerns.  
@@ -113,6 +131,8 @@ In addition, I’ve learned that users want recommendations to reflect their own
 Based on the insights, I iterated so that the app gives more customized recommendations.  
 
 In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
+
+<div class="text_center">
 
 <img src="/images/search1.png" width="50%">
 <br>
@@ -123,7 +143,11 @@ In the new design, when users search for a product/brand, the app gives more det
 <img src="/images/search3.png" width="50%">
 <br>
 <br>
+
+</div>
 Here are examples of search results screens that give more detailed reviews.  
+
+<div class="text_center">
 <img src="/images/newresult1.png" width="50%">
 <br>
 
@@ -133,10 +157,12 @@ Here are examples of search results screens that give more detailed reviews.
 <img src="/images/newresult3.png" width="50%">
 <br> 
 
+</div>
+
 In addition, when users search for bestselling products, users can filter products based on their own needs. 
 <br>
 
-
+<div class="text_center">
 <img src="/images/bestselling1.png" width="50%">
 
 <br>
@@ -156,6 +182,7 @@ In addition, when users search for bestselling products, users can filter produc
 <img src="/images/best2.png" width="50%">
 <br>
 <br>
+</div>
 
 # Insight 3: Users want help understanding k-beauty  
 
@@ -169,9 +196,13 @@ However, after talking to more potential users, I decided to include the cheat s
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
 
+<div class="text_center">
+
 <img src="/images/cheatsheet.png" width="50%">
 <p class="caption">K-beauty Cheat Sheet screen from the final design</p>
 <br>
+
+</div>
 
 
 
@@ -191,6 +222,8 @@ The final product concept allows users to search for a specific product or brand
 
 In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
 
+<div class="text_center">
+
 
 
 <img src="/images/bestselling1.png" width="50%">
@@ -205,6 +238,8 @@ In addition, the product lets users discover Korea’s best products and makes c
 <img src="/images/bestbrands2.png" width="50%">
 
 <br>
+
+</div>
 
 # What I’ve learned 
 
