@@ -925,6 +925,9 @@ div.newsletterredesign {
     transition: opacity 0.25s ease, transform 0.25s 0.1s ease-in-out;
     -webkit-transition: opacity 0.25s ease, transform 0.25s 0.1s ease-in-out;
 }
+.menu_toggler .line.top {
+    margin-top: 0;
+}
 .menu_toggler span:last-child {
     margin-bottom: 0px;
 }
