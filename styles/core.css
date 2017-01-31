@@ -1119,6 +1119,7 @@ div.newsletterredesign {
     div.invision .iframe_wrapper {
         height: 950px;
         width: 480px;
+        padding-bottom: 0;
     }
     
     .invision {
