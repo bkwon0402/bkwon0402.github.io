@@ -180,7 +180,7 @@ However, after talking to more potential users, I decided to include the cheat s
 Here's the invision prototype that showcases the final design.
 <div class="invision">
 
-<iframe width="438" height="930" src="//invis.io/ZV66900H2" frameborder="0" allowfullscreen></iframe> </div>
+<iframe style="display: block;" width="100%" height="930" src="//invis.io/ZV66900H2" frameborder="0" allowfullscreen></iframe> </div>
 
 
 The final product concept allows users to search for a specific product or brand and find out 1) whether it’s reputable or not 2) whether it’s recommended for them. Ratings are based on reviews aggregated from Korea's major cosmetics review sites. 
