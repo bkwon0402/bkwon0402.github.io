@@ -54,7 +54,7 @@ For example, I think the pictures that news readers pull up for each article are
 
 
 <img src="/images/pictures.png" />
-<p style="text-align: center"; ><div class="feedlycaption">Pictures don't always make sense </div>
+<div class="feedlycaption"><p style="text-align: center;">Pictures don't always make sense</p> </div>
 
 <br>
 So I decided not to pull up photos for each news item and present only the essentials. 
