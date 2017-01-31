@@ -231,6 +231,9 @@ However, after talking to more potential users, I decided to include the cheat s
 <div class="text_center">
 
 <img src="/images/cheatsheet.png" width="50%">
+
+<br>
+
 <p class="caption">K-beauty Cheat Sheet screen from the final design</p>
 <br>
 
