@@ -101,6 +101,9 @@ h1 {}
 .hero_p {
     font-size: 20px;
 }
+.hero_part .hero_part_30{
+    padding: 0px 30px;
+}
 
 .line_sep {
     height: 1px;
