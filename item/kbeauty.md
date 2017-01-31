@@ -101,6 +101,8 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 Here's the new about page that tells users how the product gets ratings. 
 
+<br>
+
 <div class="text_center">
 
 <img src="/images/about.png" width="50%">
