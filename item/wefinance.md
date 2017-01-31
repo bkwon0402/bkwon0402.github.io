@@ -188,7 +188,7 @@ I also worked on an email newsletter redesign proposal. The newsletter, which fe
 <div class="text_center">
 
 
-<img src="/images/wefinanceemail.png" width="150" />
+<img src="/images/wefinanceemail.png" />
 
 </div>
 
@@ -217,7 +217,7 @@ Here is the final design.
 
 
 
-<img src="/images/newsletterredesign.png" width="100%" />
+<img src="/images/newsletterredesign.png" style="max-width: 200px;"/>
 
 </div>
 
