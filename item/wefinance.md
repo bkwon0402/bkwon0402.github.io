@@ -145,7 +145,7 @@ And here is the final logo:
 
 
 
-<img src="/images/logo16.png" width="100%">
+<img src="/images/logo16.png" style="width: 800px;"/>
 
 <img src="/images/logo17.png" width="150"/>
 
