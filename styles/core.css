@@ -964,13 +964,6 @@ div.newsletterredesign {
 .nav li {
     margin-left: 20px;
     float: left;
-    opacity: 0;
-    transform: translate3d(-5px, 10px, 0);
-    -webkit-transform: translate3d(-5px, 10px, 0);
-    transition: 0.7s transform, 0.7s opacity;
-    -webkit-transition: 0.7s transform, 0.7s opacity;
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
 }
 .nav li.revealed {
     opacity: 1;
@@ -1056,10 +1049,11 @@ div.newsletterredesign {
         -webkit-transform: translate(0, 8.1px) rotate(-45deg);
         -moz-transform: translate(0, 8.1px) rotate(-45deg);
     }
-     body.menu-open .menu_toggler span.bot {
-            transform: translate(0, -8px) rotate(45deg);
-    -webkit-transform: translate(0, -8px) rotate(45deg);
-    -moz-transform: translate(0, -8px) rotate(45deg);
+    
+    body.menu-open .menu_toggler span.bot {
+        transform: translate(0, -8px) rotate(45deg);
+        -webkit-transform: translate(0, -8px) rotate(45deg);
+        -moz-transform: translate(0, -8px) rotate(45deg);
     }
     
     .nav {
@@ -1088,6 +1082,13 @@ div.newsletterredesign {
         float: none;
         margin: 0;
         width: auto;
+        opacity: 0;
+        transform: translate3d(-5px, 10px, 0);
+        -webkit-transform: translate3d(-5px, 10px, 0);
+        transition: 0.7s transform, 0.7s opacity;
+        -webkit-transition: 0.7s transform, 0.7s opacity;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
     }
     
     .nav ul {
