@@ -609,6 +609,8 @@ div.invision .iframe_wrapper {
     width: 420px;
     height: 860px;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 div.invision .iframe_wrapper iframe {
     position: absolute;
