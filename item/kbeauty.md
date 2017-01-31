@@ -119,6 +119,8 @@ Here's the new about page that tells users how the product gets ratings.
 
 </div>
 
+<br>
+
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
