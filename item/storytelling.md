@@ -29,12 +29,18 @@ Part of a designer’s job is to become a storyteller and an editor. In that sen
 Prominent non-profit organizations such as Girl Effect, Food and Agriculture Organization of the United Nations, Ashoka, Schwab Foundation, and Cherie Blaire Foundation picked up and re-tweeted content I created.      
 
 Here are the infographics that Girl Effect retweeted. 
+<div class="text_center">
+
 
 <img src="/images/storytelling1.png" >
 <img src="/images/storytelling2.png" >
 <br>
+</div>
 
 Here are more mini-infographics I designed. 
+
+<div class="text_center">
+
 
 <img src="/images/info1.png" style="margin-bottom: 40px">
 <br>
@@ -47,19 +53,27 @@ Here are more mini-infographics I designed.
 <img src="/images/info5.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
 <br>
 <img src="/images/info6.png" width ="100%" style="margin-left:0px; margin-bottom: 0px">
+</div>
 
 Here is an infographic I designed on why the organization invests in women. I owned the whole design process from content development to visual design.  
 
 <img src="/images/youthandwomen.jpg" width = "100%">
 
-I also designed visually appealing content to share on social media.  
+I also designed visually appealing content to share on social media. 
 
-<img src="/images/quote1.png" />
+<div class="text_center">
+	<img src="/images/quote1.png" />
 <img src="/images/quote2.png" />
 <img src="/images/quote3.png" />
 <img src="/images/quote4.png" />
 <img src="/images/quote5.png" />
 <img src="/images/quote6.png" />
+
+
+
+</div> 
+
+
 
 
 

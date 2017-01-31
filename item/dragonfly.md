@@ -26,7 +26,8 @@ Wing 4: Take Action - enable and empower others
 My job was to infuse psychological research into the four wings. This consisted of three steps. 
 First, I read relevant articles in behavioral science - mainly in social psychology and behavioral economics, some in cognitive psychology and management science. Second, I extracted relevant psychological insights from the articles that support the ideas presented in Wing 1-4. Lastly, I came up with copy that explains how the insights support the ideas, and added the copy to the draft of the book where it is relevant.     
 
-For example, in Wing 4: Take Action, I shared a relevant psychological study to introduce the idea that making the first target behavior easily empowers users and supporters to take further action. Similarly, in Wing 3: Engage, I explained how telling a story engages users from a psychological perspective -- humans have an appetite for stories, which reflects the basic human need to understand patterns of life.   
+For example, in Wing 4: Take Action, I shared a relevant psychological study to introduce the idea that making the first target behavior easily empowers users and supporters to take further action. Similarly, in Wing 3: Engage, I explained how telling a story engages users from a psychological perspective -- humans have an appetite for stories, which reflects the basic human need to understand patterns of life. 
+<br>  
 
 <img src="/images/aaker.JPG" width = "100%" style="margin-left:0px; transform: rotate(90deg)">
 <div class="dfly">Professor Aaker’s signature on the copy I received</div>
