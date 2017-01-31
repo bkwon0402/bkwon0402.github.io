@@ -1050,9 +1050,9 @@ div.newsletterredesign {
     }
     
     body.menu-open .menu_toggler span.bot {
-        transform: translate(0, -8px) rotate(45deg);
-        -webkit-transform: translate(0, -8px) rotate(45deg);
-        -moz-transform: translate(0, -8px) rotate(45deg);
+        transform: translate(0, -10px) rotate(45deg);
+        -webkit-transform: translate(0, -10px) rotate(45deg);
+        -moz-transform: translate(0, -10px) rotate(45deg);
     }
     
     .nav {
