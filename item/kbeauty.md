@@ -36,15 +36,19 @@ Here are the onboarding screens that explain the app's main value propositions.
 <div class="text_center">
 <br>
 <br>
+<br>
 <img src="/images/onboarding1.png" width="50%">
+<br>
 <br>
 <br>
 <img src="/images/onboarding2.png" width="50%">
 <br>
 <br>
+<br>
 <img src="/images/onboarding3.png" width="50%">
 <br>
 <br>
+
 </div>
 
 # Design Process
@@ -54,6 +58,7 @@ I started the design process by sketching wireframes on paper. In designing the 
 <div class="text_center">
 
 <img src="/images/sketch1.JPG" width="100%">
+<br>
 <br>
 <br>
 <img src="/images/sketch2.JPG" width="100%">
@@ -70,10 +75,13 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <img src="/images/kbeautymockup1.png" width="50%">
 <br>
 <br>
+<br>
 <img src="/images/exercise1.png" width="50%">
 <br>
 <br>
+<br>
 <img src="/images/exercise2.png" width="50%">
+<br>
 <br>
 <br>
 <img src="/images/exercise3.png" width="50%">
@@ -152,11 +160,14 @@ Here are examples of search results screens that give more detailed reviews.
 <div class="text_center">
 <img src="/images/newresult1.png" width="50%">
 <br>
+<br>
 
 <img src="/images/newresult2.png" width="50%">
 <br>
+<br>
 
 <img src="/images/newresult3.png" width="50%">
+<br>
 <br> 
 
 </div>
