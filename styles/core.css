@@ -69,6 +69,13 @@ a {
 }
 
 h1 {}
+.small_container{
+        font-size: 20px;
+    text-align: left;
+    line-height: 170%;
+    color: #8C8C8C;
+    letter-spacing: 1.4px;
+}
 
 .text_iplace_holder {
     font-family: Adobe Garamond Pro It;
