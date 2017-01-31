@@ -37,7 +37,11 @@ Here are the onboarding screens that explain the app's main value propositions.
 <br>
 <br>
 <br>
-<img src="/images/onboarding1.png" width="50%">
+
+<a href="/images/onboarding1.png" data-lightbox="image-1">
+	<img src="/images/onboarding1.png" width="50%" />
+</a>
+
 <br>
 <br>
 <br>
