@@ -226,6 +226,7 @@ However, after talking to more potential users, I decided to include the cheat s
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
 <br>
+<br>
 
 <div class="text_center">
 
