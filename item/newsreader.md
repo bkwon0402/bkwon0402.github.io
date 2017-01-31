@@ -53,8 +53,8 @@ For the interface, I wanted to have as few elements as possible so that the prod
 For example, I think the pictures that news readers pull up for each article are often irrelevant to the articles.  
 
 
-<div style="text-align: center;"><img src="/images/pictures.png" />
-<div style="text-align: center;"><div class="feedlycaption">Pictures don't always make sense</div>
+<img src="/images/pictures.png" />
+<div class="feedlycaption">Pictures don't always make sense</div>
 
 <br>
 So I decided not to pull up photos for each news item and present only the essentials. 
