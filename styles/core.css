@@ -96,6 +96,9 @@ h1 {}
 .hero_part {
     margin-top: 58px;
 }
+.hero_p{
+    font-size: 20px;
+}
 
 .line_sep {
     height: 1px;
@@ -794,8 +797,8 @@ div.newsletterredesign {
     font-size: 23px;
 }
 .aboutme {
-    font-size: 20px;
-    max-width: 300px;
+       font-size: 15px;
+    max-width: 555px;
     text-align: justify;
     color: #8C8C8C;
     letter-spacing: 1.4px;
