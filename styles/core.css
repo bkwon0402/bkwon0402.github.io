@@ -28,6 +28,29 @@ li {
     padding: 0;
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+* html .clearfix {
+    zoom: 1;
+}
+
+
+/* IE6 */
+
+*:first-child+html .clearfix {
+    zoom: 1;
+}
+
+
+/* IE7 */
+
 body {
     font-family: 'Lato', sans-serif;
     background-color: white;
@@ -139,6 +162,7 @@ h1 {}
     background-color: #fff;
     opacity: 1;
 }
+
 .lb-dataContainer {
     display: none !important;
 }
@@ -1025,6 +1049,7 @@ div.newsletterredesign {
     .clear .say {
         width: 90%;
     }
+    
     .say {
         margin-top: 150px;
     }
