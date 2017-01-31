@@ -6,17 +6,24 @@ sub:
 ---
 # The Challenge
 
-While at Stanford, I had the privilege of working closely with General Atlantic Professor of Marketing Jennifer Aaker at the Stanford Graduate School of Business. I provided research assistance to the writing of her book The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference. As her research assistant, I was tasked with researching how you can tap psychological insights to design innovative products and helped to develop the theoretical framework of the book.  
+<div class="small_container">
+	While at Stanford, I had the privilege of working closely with General Atlantic Professor of Marketing Jennifer Aaker at the Stanford Graduate School of Business. I provided research assistance to the writing of her book The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference. As her research assistant, I was tasked with researching how you can tap psychological insights to design innovative products and helped to develop the theoretical framework of the book. 
+</div>	 
 
 <br>
 
-# The Book
+<div class="small_container">
+	# The Book
  
-The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results. 
+	The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results.
+</div> 
 
-<img src="/images/dragonflyeffet.jpg">
+<div class="text_center">
+	<img src="/images/dragonflyeffet.jpg">
+</div>
 
-The four wings consist of:  
+<div class="small_container">
+	The four wings consist of:  
 
 Wing 1: Focus - identify a single, concrete, measurable goal <br>
 Wing 2: Grab - make someone look <br>
@@ -28,14 +35,20 @@ First, I read relevant articles in behavioral science - mainly in social psychol
 
 For example, in Wing 4: Take Action, I shared a relevant psychological study to introduce the idea that making the first target behavior easily empowers users and supporters to take further action. Similarly, in Wing 3: Engage, I explained how telling a story engages users from a psychological perspective -- humans have an appetite for stories, which reflects the basic human need to understand patterns of life. 
 <br>  
+</div>
 
-<img src="/images/aaker.JPG" width="100%" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
+<div class="text_center">
+	<img src="/images/aaker.JPG" width="100%" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
+</div>
+
 <div class="dfly">Professor Aaker’s signature on the copy I received</div>
-
 <br>
 
-# Takeaway  
-
-A designer’s job is not just to make things pretty, but to make things work better. The idea that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
+# Takeaway 
+ 
+<div class="small_container">
+	<br>
+	A designer’s job is not just to make things pretty, but to make things work better. The idea that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
+</div>
 
 
