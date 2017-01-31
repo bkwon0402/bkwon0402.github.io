@@ -206,6 +206,7 @@ In addition, when users search for bestselling products, users can filter produc
 <br>
 <img src="/images/best1.png" width="50%">
 <br>
+<br>
 
 <img src="/images/best2.png" width="50%">
 <br>
@@ -224,6 +225,7 @@ I was initially hesitant to include an “K-beauty Cheat Sheet” -- I wanted th
 However, after talking to more potential users, I decided to include the cheat sheet because it has a lot benefit to users, most of whom are not yet familiar with k-beauty. While users can also research the terms elsewhere, the Cheat Sheet allows users to better understand products without leaving the app.  
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
+<br>
 
 <div class="text_center">
 
