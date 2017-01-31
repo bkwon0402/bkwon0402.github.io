@@ -6,6 +6,7 @@ sub:
 ---
 
 <br> 
+
 # The Challenge
 
 The inspiration for this project came from user research I did for a related project: designing a Korean tech news aggregator. In talking to my friends about their online news reading habits, I learned that millennials are relying on Facebook as their primary news source i.e., they like to read articles that Facebook friends post. However, the Newsfeed is noisy and cluttered. I feel that I have to filter through my Newsfeed to find gems like article posts. So I created a product concept where users can read the articles their Facebook friends posted distraction-free. The product achieves this by 1) pulling articles posted by users’ Facebook friends 2) parsing the articles and presenting them in a clean format. 
@@ -27,7 +28,8 @@ However, the Newsfeed is often filled with content you are not interested in con
 In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
 <br>
-<br> 
+<br>
+
 # Design Goal: To Deliver a Great Reading Experience  
 
 One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
@@ -46,6 +48,7 @@ On Flipboard, another popular newsreader, users are instead directed straight to
 
 <br>
 <br> 
+
 # Design Details
 
 For the interface, I wanted to have as few elements as possible so that the product offers a distraction-free reading experience.  
@@ -112,6 +115,7 @@ There were other useful insights I gained while talking to users. For example, s
 
 <br>
 <br> 
+
 # Final Design 
 
 A user logs in. 
