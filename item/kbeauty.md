@@ -146,25 +146,39 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
-In my original design, when users search for a product/brand, the app simply told users whether the product/brand is known in Korea.  
+
+<div class="small_container">
+	In my original design, when users search for a product/brand, the app simply told users whether the product/brand is known in Korea. 
+</div>
+
+ 
 <div class="text_center">
   
 <img src="/images/reputable.png" width="50%">
 
 <br>
 <img src="/images/ughoh.png" width="50%">
-<p class="caption">Search results screens from my original design</p>
+
+
+<div class="small_container">
+	<p class="caption">Search results screens from my original design</p>
+</div>
+
 <br>
 
 </div>
 
-After talking to users, I’ve learned that they want to know more than whether a brand or a product is reputable. Users want customized recommendations. For example, “Road Shop” brands are popular in Korea, but they target younger demographics i.e. teenagers and girls in their early 20s. So “Road Shop” products are still reputable, but girls in their late 20s would not want those products recommended to them. 
+<div class="small_container">
+	After talking to users, I’ve learned that they want to know more than whether a brand or a product is reputable. Users want customized recommendations. For example, “Road Shop” brands are popular in Korea, but they target younger demographics i.e. teenagers and girls in their early 20s. So “Road Shop” products are still reputable, but girls in their late 20s would not want those products recommended to them. 
 
-In addition, I’ve learned that users want recommendations to reflect their own needs (e.g. dry skin, acne, wrinkles). This makes sense because skincare is about catering to your own skin concerns.  
+	In addition, I’ve learned that users want recommendations to reflect their own needs (e.g. dry skin, acne, wrinkles). This makes sense because skincare is about catering to your own skin concerns.  
 
-Based on the insights, I iterated so that the app gives more customized recommendations.  
+	Based on the insights, I iterated so that the app gives more customized recommendations.  
 
-In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
+	In the new design, when users search for a product/brand, the app gives more detailed reviews so that users can find out whether the product/brand suits their own needs. 
+</div>
+
+
 
 <br>
 
@@ -183,10 +197,12 @@ In the new design, when users search for a product/brand, the app gives more det
 <br>
 </div>
 
-Here are examples of search results screens that give more detailed reviews.  
-<br>
-<br>
-
+<div class="small_container">
+	Here are examples of search results screens that give more detailed reviews.  
+	<br>
+	<br>
+</div>
+	
 <div class="text_center">
 <img src="/images/newresult1.png" width="50%">
 <br>
@@ -205,9 +221,11 @@ Here are examples of search results screens that give more detailed reviews.
 
 </div>
 
-In addition, when users search for bestselling products, users can filter products based on their own needs. 
-<br>
-<br>
+<div class="small_container">
+	In addition, when users search for bestselling products, users can filter products based on their own needs. 
+	<br>
+	<br>
+</div>	
 
 <div class="text_center">
 <img src="/images/bestselling1.png" width="50%">
@@ -238,7 +256,8 @@ In addition, when users search for bestselling products, users can filter produc
 
 # Insight 3: Users want help understanding k-beauty  
 
-<p class="italic">“I was not used to "serum" or "skin milk" and had no idea how to use those” -- a friend on her experience shopping for k-beauty</p> 
+<div class="small_container">
+	<p class="italic">“I was not used to "serum" or "skin milk" and had no idea how to use those” -- a friend on her experience shopping for k-beauty</p> 
 
 Some users wanted a short k-beauty guide in a section somewhere. For example, a friend commented that she had no idea how to use “serum” or “skin milk” since she was not used to the terms and would appreciate help understanding the terms.   
 
@@ -249,6 +268,7 @@ However, after talking to more potential users, I decided to include the cheat s
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
 <br>
 <br>
+</div>
 
 <div class="text_center">
 
@@ -256,8 +276,10 @@ However, after talking to more potential users, I decided to include the cheat s
 <br>
 <br>
 
-<p class="caption">K-beauty Cheat Sheet screen from the final design</p>
-<br>
+<div class="small_container">
+	<p class="caption">K-beauty Cheat Sheet screen from the final design</p>
+	<br>
+</div>	
 
 </div>
 
@@ -265,7 +287,11 @@ However, after talking to more potential users, I decided to include the cheat s
 
 #Final Design 
 
-Here's the invision prototype that showcases the final design.
+<div class="small_container">
+	Here's the invision prototype that showcases the final design.
+</div>
+
+
 <div class="invision">
 	<div class="iframe_wrapper">
 		<iframe src="//invis.io/ZV66900H2" frameborder="0" allowfullscreen></iframe> 
@@ -273,11 +299,16 @@ Here's the invision prototype that showcases the final design.
 </div>
 
 
-The final product concept allows users to search for a specific product or brand and find out 1) whether it’s reputable or not 2) whether it’s recommended for them. Ratings are based on reviews aggregated from Korea's major cosmetics review sites. 
+<div class="small_container">
+	The final product concept allows users to search for a specific product or brand and find out 1) whether it’s reputable or not 2) whether it’s recommended for them. Ratings are based on reviews aggregated from Korea's major cosmetics review sites. 
 
-In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
+	In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
 
-<br>
+	<br>
+</div>	
+
+
+
 
 <div class="text_center">
 
@@ -303,9 +334,13 @@ In addition, the product lets users discover Korea’s best products and makes c
 
 # What I’ve learned 
 
-I’ve gathered tremendous insights from talking to users. I had made assumptions about their mental models (e.g. what makes a credible rating system to users), and the assumptions were proved wrong. 
+<div class="small_container">
+	I’ve gathered tremendous insights from talking to users. I had made assumptions about their mental models (e.g. what makes a credible rating system to users), and the assumptions were proved wrong. 
 
 Designers often design products where they are not target users. The project has helped me learn to try and think from users’ perspectives and truly design for users. 
+</div>
+
+
 
 
 
