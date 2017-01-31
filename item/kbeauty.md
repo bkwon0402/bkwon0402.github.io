@@ -159,8 +159,8 @@ In the new design, when users search for a product/brand, the app gives more det
 <img src="/images/search3.png" width="50%">
 <br>
 <br>
-
 </div>
+
 Here are examples of search results screens that give more detailed reviews.  
 <br>
 <br>
@@ -184,6 +184,7 @@ Here are examples of search results screens that give more detailed reviews.
 </div>
 
 In addition, when users search for bestselling products, users can filter products based on their own needs. 
+<br>
 <br>
 
 <div class="text_center">
