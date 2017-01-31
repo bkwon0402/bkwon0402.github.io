@@ -191,20 +191,24 @@ In addition, when users search for bestselling products, users can filter produc
 <img src="/images/bestselling1.png" width="50%">
 
 <br>
+<br>
 
 
 <img src="/images/bestselling2.png" width="50%">
 
+<br>
 <br>
 
 
 <img src="/images/bestselling3.png" width="50%">
 
 <br>
+<br>
 <img src="/images/best1.png" width="50%">
 <br>
 
 <img src="/images/best2.png" width="50%">
+<br>
 <br>
 <br>
 </div>
