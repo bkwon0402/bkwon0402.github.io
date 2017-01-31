@@ -6,23 +6,25 @@ sub:
 ---
 # The Challenge
 
-I worked with Streami to design their demo product. Streami reduces international money transfer fees using blockchain technology. In the demo product, users choose one of Streami's fee options to send an international money transfer.
+<div class="small_container">
+	I worked with Streami to design their demo product. Streami reduces international money transfer fees using blockchain technology. In the demo product, users choose one of Streami's fee options to send an international money transfer.
 
-<hr class="style-six">
+	<hr class="style-six">
 
-The company had wireframes designed when I joined. However, things were confusing. For example, I had difficulty understanding the ideas that the graphics were supposed to communicate and the copy was confusing.
+	The company had wireframes designed when I joined. However, things were confusing. For example, I had difficulty understanding the ideas that the graphics were supposed to communicate and the copy was confusing.
+</div>
 
 <div class="text_center">
 
 	<img src="/images/streami1.png" style="margin-bottom: 55px">
-<br>
-<img src="/images/streami2.png" style="">
-
+	<br>
+	<img src="/images/streami2.png" style="">
 
 </div>
 
 
-<p class="streamicaption">Original wireframes</p>   
+<div class="small_container">
+	<p class="streamicaption">Original wireframes</p>   
 
 <br>
 
@@ -33,15 +35,20 @@ For example, Streami offers two fee options: 1) fast option where payment is sen
 In the original design, users were not able to see how much the fee exactly is given their payment amount until they click on each option. Users were also not able to see how each option compares to regular international money transfer methods (i.e., how cheaper and faster each option is than using banks) until they click on the option. 
 
 However, presenting both pieces of information before users choose the options allows users to more easily compare the options. So I designed the screens so that users can view the information without having to choose the options first. 
+</div>
 
 <img src="/images/step2.png" width="100%" style="margin-bottom:55px">
-<p class="newdesigncaption">The new design allows users to more easily compare the options. </p>
+
+
+<div class="small_container">
+	<p class="newdesigncaption">The new design allows users to more easily compare the options. </p>
 <br>
 
 Lastly, I worked on visual design to make things look cleaner and more aesthetically appealing.  
 
 Here are the final screens.     
 <br>
+</div>
 
 <img src="/images/step1.png" width="100%" style="margin-bottom:55px">
 <img src="/images/step2.png" width="100%" style="margin-bottom:55px">
