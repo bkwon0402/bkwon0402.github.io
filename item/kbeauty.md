@@ -254,24 +254,29 @@ The final product concept allows users to search for a specific product or brand
 
 In addition, the product lets users discover Korea’s best products and makes customized recommendations. Finally, the product also lets users discover Korea’s best brands. 
 
-<div class="text_center">
+<br>
 
+<div class="text_center">
 
 
 <img src="/images/bestselling1.png" width="50%">
 
+<br>
 <br>
 
 
 <img src="/images/bestbrands.png" width="50%">
 
 <br>
+<br>
 
 <img src="/images/bestbrands2.png" width="50%">
 
 <br>
+<br>
 
 </div>
+<br>
 
 # What I’ve learned 
 
