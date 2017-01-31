@@ -128,10 +128,6 @@ h1 {}
     font-size: 20px;
 }
 
-.hero_part .hero_part_30 {
-    padding: 0px 30px;
-}
-
 .line_sep {
     height: 1px;
     width: 40px;
@@ -1031,6 +1027,10 @@ div.newsletterredesign {
     
     .nav {
         display: block !important;
+    }
+    
+    .hero_part .hero_part_30 {
+        padding: 0px 30px;
     }
 }
 @media(max-width: 768px) {
