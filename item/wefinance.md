@@ -27,7 +27,7 @@ Here are the sketches/early prototype I shared.
 
 	</div>
 
-	
+
 <div class="text_center">
 
 
@@ -47,10 +47,13 @@ Here are the sketches/early prototype I shared.
 Here’s the prototype I shared. 
 </div>
 
-
-
+<div class="text_center">
 
 <img src="/images/logo3.png" />
+</div>
+
+
+
 <div class="small_container">
 	We ultimately decided to go with Option 2: a circle. While WeFinance is about happiness, we realized a heart tends to conjure up ideas of romantic relationships and dating. On the other hand, the sophisticated feel of Option 2 keeps things more professional, which better matches the personality of the financial services company.  
 
@@ -59,12 +62,19 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 </div>
 
+<div class="text_center">
+
+	<img src="/images/logo4.png" />
+
+</div>
 
 
 
 
 
-<img src="/images/logo4.png" />
+
+
+
 
 <div class="small_container">
 
@@ -74,30 +84,51 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 Here are some of the new ideas I tried. 
 </div>
 
+<div class="text_center">
+
+
+
+
 <img src="/images/logo5.png" />
 <img src="/images/logo6.png" />
 <img src="/images/logo7.png" />
 <img src="/images/logo8.png" />
 <img src="/images/logo9.png" />
 <img src="/images/logo10.png" />
+
+</div>
+
+
 <div class="small_container">
 <p class="captionnn">Original idea</p> 
 
 After varying fonts, character spacing, and colors, we found the right combination. 
 </div>
+
+<div class="text_center">
+
+
+
 <img src="/images/logo11.png" />
 <img src="/images/logo12.png" />
+
+</div>
 <div class="small_container">
 
 <br>
 We also looked into integrating the logo into the name more. Based on the insight of one of the founders, we tried emphasizing ‘We’ specifically in their name via the logo. 
 </div> 
+
+<div class="text_center">
+
 <img src="/images/logo13.png" />
 <br>
 <img src="/images/logo14.png" width="50%" />
 <br>
 
 <img src="/images/logo15.png" width="60%" />
+
+</div>
 <div class="small_container">
 
 <br>
@@ -107,9 +138,17 @@ And we loved the circle around the WE option. The logo is interesting and unique
 And here is the final logo: 
 </div>
 
+<div class="text_center">
+
+
+
+
+
 <img src="/images/logo16.png" width="100%">
 
 <img src="/images/logo17.png" />
+
+</div>
 <div class="small_container">
 
 <br>
@@ -126,7 +165,12 @@ I was new to logo design, but am happy with how things went. I designed the logo
 I also designed icons using the gradients I designed for the logo.  
 </div>
 
+<div class="text_center">
+
+
 <img src="/images/logo18.png" width="100%">
+
+</div>
 
 
 
@@ -140,7 +184,12 @@ I also designed icons using the gradients I designed for the logo.
 I also worked on an email newsletter redesign proposal. The newsletter, which features borrower profiles, was sent to potential lenders.    
 </div>
 
+<div class="text_center">
+
+
 <img src="/images/wefinanceemail.png" />
+
+</div>
 
 <div class="small_container">
 
@@ -162,9 +211,14 @@ I tried to imagine from a potential lender’s perspective, what sort of informa
 Here is the final design. 
 </div>
 
+<div class="text_center">
+
+
 
 
 <img src="/images/newsletterredesign.png" width="100%" />
+
+</div>
 
 
 
