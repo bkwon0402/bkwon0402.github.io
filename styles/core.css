@@ -206,10 +206,10 @@ hr.style-six {
     padding: 30px 15px;
 }
 
-
 #portfolio_hero .container {
     max-width: 768px;
 }
+
 #portfolio_content .container {
     max-width: 768px;
 }
@@ -388,7 +388,7 @@ div.streami2 {
 }
 
 .streamicaption {
-    margin-left: 250px;
+    /*margin-left: 250px;*/
 }
 
 div.step1 {
@@ -441,43 +441,43 @@ div.sketch2 {
 }
 
 .sketchcaption {
-    margin-left: 200px;
+    /*margin-left: 200px;*/
 }
 
 .mockup1 {
     content: url('/images/kbeautymockup1.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 div.exercise1 {
     content: url('/images/exercise1.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 div.exercise2 {
     content: url('/images/exercise2.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 div.exercise3 {
     content: url('/images/exercise3.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 div.exercise4 {
     content: url('/images/exercise4.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 div.exercise5 {
     content: url('/images/exercise5.png');
     width: 50%;
-    margin-left: 160px;
+    /*margin-left: 160px;*/
 }
 
 .bold {
@@ -514,7 +514,7 @@ div.cheatsheet {
     margin-left: 160px;
 }
 .caption {
-    margin-left: 100px;
+    /*margin-left: 100px;*/
 }
 .italic {
     font-style: italic;
@@ -569,8 +569,8 @@ div.invision {
     margin-left: 120px;
 }
 .caption2 {
-    margin-left: 50px;
-    margin-right: 50px;
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
 }
 div.bestbrands {
     content: url('/images/bestbrands.png');
@@ -601,18 +601,18 @@ div.feedly {
     margin-left: -100px;
 }
 .feedlycaption {
-    margin-left: 170px;
+    /*margin-left: 170px;*/
     font-size: 19px;
     color: #595959;
 }
 div.pictures {
     content: url('/images/pictures.png');
-    margin-left: 100px;
+    /*margin-left: 100px;*/
 }
 div.main {
     content: url('/images/main.png');
     width: 130%;
-    margin-left: -100px;
+    /*margin-left: -100px;*/
     box-shadow: 0px 8px 15px #eaeaea;
 }
 div.maindropdown {
@@ -718,7 +718,7 @@ div.bottombutton2 {
     margin-left: 200px;
 }
 .captionnn {
-    margin-left: 275px;
+    /*margin-left: 275px;*/
 }
 .logo11 {
     content: url('/images/logo11.png');
@@ -755,7 +755,7 @@ div.bottombutton2 {
     width: 100%;
 }
 .newdesigncaption {
-    margin-left: 50px;
+    /*margin-left: 50px;*/
 }
 .branding {
     content: url('/images/branding (1).png');
@@ -781,7 +781,7 @@ div.wefinanceemail {
     margin-top: 250px;
 }
 .caption4 {
-    margin-left: 150px;
+    /*margin-left: 150px;*/
 }
 div.newsletterredesign {
     content: url('/images/newsletterredesign.png');
@@ -981,6 +981,7 @@ div.newsletterredesign {
     body {
         font-size: 18px;
     }
+    
     .nav {
         display: none;
     }
@@ -1016,15 +1017,17 @@ div.newsletterredesign {
         display: block;
         font-size: 30px;
     }
+    
+    #portfolio_hero {
+        text-align: center;
+    }
+    
+    #portfolio_content p {
+        text-align: center;
+    }
 }
 @media(max-width: 480px) {
     body {
         font-size: 20px;
-    }
-    #portfolio_hero {
-        text-align: center;
-    }
-    #portfolio_content p {
-        text-align: center;
     }
 }
