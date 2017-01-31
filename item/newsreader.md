@@ -4,12 +4,14 @@ headtouse: headcontent.html
 title: Social newsreader - ux/ui
 sub: 
 ---
+
+<br> 
 # The Challenge
 
 The inspiration for this project came from user research I did for a related project: designing a Korean tech news aggregator. In talking to my friends about their online news reading habits, I learned that millennials are relying on Facebook as their primary news source i.e., they like to read articles that Facebook friends post. However, the Newsfeed is noisy and cluttered. I feel that I have to filter through my Newsfeed to find gems like article posts. So I created a product concept where users can read the articles their Facebook friends posted distraction-free. The product achieves this by 1) pulling articles posted by users’ Facebook friends 2) parsing the articles and presenting them in a clean format. 
 
 <br>
-
+<br> 
 # User Needs 
 
 <a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. 
@@ -24,7 +26,7 @@ However, the Newsfeed is often filled with content you are not interested in con
 In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
 <br>
-
+<br> 
 # Design Goal: To Deliver a Great Reading Experience  
 
 One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
@@ -42,7 +44,7 @@ For example, Feedly, one of the most popular RSS readers, offers only a preview 
 On Flipboard, another popular newsreader, users are instead directed straight to the original site when they click the news item. However, the web is often less ideal for reading. Large ads, bad layouts, and other features on news sites can distract you from reading. I think the popularity of products such as Readability, Pocket, Instapaper, and Medium really speaks to the idea that users value distraction-free reading experience. Given this insight, I think a news reader that also parses articles and presents them in a clean format will offer extra value to users. This way, users can enjoy a great reading experience without having to leave the site. 
 
 <br>
-
+<br> 
 # Design Details
 
 For the interface, I wanted to have as few elements as possible so that the product offers a distraction-free reading experience.  
@@ -79,7 +81,7 @@ However, once I designed the high-fidelity mockup of 3), I realized that it’s 
 <img src="/images/bottombar.png" style="box-shadow: 0px 8px 15px #eaeaea">
 <p class="cap">In the final design, the share/manage menu appears when users scroll up.</p>
 <br>
-
+<br> 
 
 # Iterations 
 
@@ -108,7 +110,7 @@ I thought c) made sense and made it as the default option. In this option, artic
 There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
 
 <br>
-
+<br> 
 # Final Design 
 
 A user logs in. 
