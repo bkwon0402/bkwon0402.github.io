@@ -79,6 +79,9 @@ h1 {}
     margin: 15px auto;
     
 }
+.text_center{
+    text-align: center;
+}
 
 .text_iplace_holder {
     font-family: Adobe Garamond Pro It;
