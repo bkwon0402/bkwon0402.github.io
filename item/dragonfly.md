@@ -29,7 +29,7 @@ First, I read relevant articles in behavioral science - mainly in social psychol
 For example, in Wing 4: Take Action, I shared a relevant psychological study to introduce the idea that making the first target behavior easily empowers users and supporters to take further action. Similarly, in Wing 3: Engage, I explained how telling a story engages users from a psychological perspective -- humans have an appetite for stories, which reflects the basic human need to understand patterns of life. 
 <br>  
 
-<img src="/images/aaker.JPG" width = "100%" style="margin-left:0px; transform: rotate(90deg)">
+<img src="/images/aaker.JPG" width="100%" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
 <div class="dfly">Professor Aaker’s signature on the copy I received</div>
 
 <br>
