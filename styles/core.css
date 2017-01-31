@@ -77,9 +77,9 @@ h1 {}
     letter-spacing: 1.4px;
     max-width: 768px;
     margin: 15px auto;
-    
 }
-.text_center{
+
+.text_center {
     text-align: center;
 }
 
@@ -98,11 +98,13 @@ h1 {}
     height: 0;
     opacity: 0;
 }
-.video_wrapper{
+
+.video_wrapper {
     position: relative;
     padding-bottom: 56.25%;
 }
-.video_wrapper iframe{
+
+.video_wrapper iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -151,6 +153,7 @@ h1 {}
     font-family: "Adobe Garamond Pro It";
     font-style: italic;
     margin-top: -12px;
+    line-height: 24px;
 }
 
 #nav a:hover {
@@ -514,7 +517,6 @@ div.exercise5 {
 
 .bold {
     font-weight: bold;
-   
 }
 
 
@@ -596,15 +598,14 @@ div.bestselling3 {
     width: 50%;
     margin-left: 160px;
 }
+
 /*div.invision {
     margin-left: 120px;
 }*/
-
-div.invision .iframe_wrapper{
+div.invision .iframe_wrapper {
     padding-bottom: 212.3287671232877%;
     position: relative;
 }
-
 div.invision .iframe_wrapper iframe {
     position: absolute;
     left: 0;
@@ -920,12 +921,14 @@ div.newsletterredesign {
     -webkit-transform: translate(0, -50%);
     -moz-transform: translate(0, -50%);
 }
-.menu_toggler span {
-    width: 100%;
-    height: 3px;
+.menu_toggler .line {
     background-color: #333;
-    margin-bottom: 5px;
+    height: 3px;
     display: block;
+    border-radius: 4px;
+    margin: 5px 0;
+    transition: opacity 0.25s ease, transform 0.25s 0.1s ease-in-out;
+    -webkit-transition: opacity 0.25s ease, transform 0.25s 0.1s ease-in-out;
 }
 .menu_toggler span:last-child {
     margin-bottom: 0px;
@@ -961,6 +964,18 @@ div.newsletterredesign {
 .nav li {
     margin-left: 20px;
     float: left;
+    opacity: 0;
+    transform: translate3d(-5px, 10px, 0);
+    -webkit-transform: translate3d(-5px, 10px, 0);
+    transition: 0.7s transform, 0.7s opacity;
+    -webkit-transition: 0.7s transform, 0.7s opacity;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+.nav li.revealed {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
 }
 .nav li a {
     font-size: 19px;
@@ -1031,8 +1046,16 @@ div.newsletterredesign {
         font-size: 18px;
     }
     
+    body.menu-open .nav {
+        opacity: 1;
+        visibility: visible;
+    }
+    
     .nav {
-        display: none;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.55s all;
+        -webkit-transition: 0.55s all;
     }
     
     .nav {

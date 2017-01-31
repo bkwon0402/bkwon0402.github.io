@@ -1,55 +1,76 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-	<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
-	<link rel="apple-touch-icon" sizes="57x57" href="/favicon3.ico/apple-icon-57x57.png">
-		<link rel="apple-touch-icon" sizes="60x60" href="/favicon3.ico/apple-icon-60x60.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="/favicon3.ico/apple-icon-72x72.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="/favicon3.ico/apple-icon-76x76.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="/favicon3.ico/apple-icon-114x114.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="/favicon3.ico/apple-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="144x144" href="/favicon3.ico/apple-icon-144x144.png">
-		<link rel="apple-touch-icon" sizes="152x152" href="/favicon3.ico/apple-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="180x180" href="/favicon3.ico/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="/favicon3.ico/android-icon-192x192.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon3.ico/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="96x96" href="/favicon3.ico/favicon-96x96.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon3.ico/favicon-16x16.png">
-		<link rel="manifest" href="/favicon3.ico/manifest.json">
-		<meta name="msapplication-TileColor" content="#ffffff">
-		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-		<meta name="theme-color" content="#ffffff">
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
-
-	{{ content }}
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon3.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon3.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon3.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon3.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon3.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon3.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon3.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon3.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon3.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon3.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon3.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon3.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon3.ico/favicon-16x16.png">
+<link rel="manifest" href="/favicon3.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /> {{ content }}
 <div class="footer">
-	<div class="footer-message">
-		bo ah kwon * 2017
-	</div>
+    <div class="footer-message">
+        bo ah kwon * 2017
+    </div>
 </div>
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-	  $('#portfolio_content img').each(function(i, el) {
-			var thisHref = $(el).attr('src');
-			console.log(thisHref);
-			$(el).wrap('<a href="' + thisHref + '" data-lightbox="nuyn"></a>');        	
-        });
+$('#portfolio_content img').each(function(i, el) {
+    var thisHref = $(el).attr('src');
+    console.log(thisHref);
+    $(el).wrap('<a href="' + thisHref + '" data-lightbox="nuyn"></a>');
+});
 </script>
 <script type="text/javascript" src="/js/lightbox.min.js"></script>
-
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-        $('.menu_toggler').on('click', function(e) {
-        	e.preventDefault();
-            $('.nav').toggle();
-        });
+<script type="text/javascript">
+$(document).ready(function() {
+   
 
 
 
+    // navbar toggler
+    $('.menu_toggler').on('click', function(e) {
+        e.preventDefault();
+        if (!$('body').hasClass('menu-open')) {
+            $('body').addClass('menu-open');
+            $('span.line.mid').css('opacity', 0);
+
+            $('.nav > ul > li').each(function(i, el) {
+                setTimeout(function(i) {
+                    $(el).addClass('revealed');
+                }, i * 100 + 100);
+            });
+
+        } else {
+            $('body').removeClass('menu-open');
+            setTimeout(function() {
+                $('span.line.mid').css('opacity', 1);
+            }, 300);
+
+            setTimeout(function() {
+                $('.nav ul > li.has-menu').removeClass('expanded');
+                $('.nav ul > li.has-menu .sub_ul').hide();
+
+                $('.nav > ul > li').removeClass('revealed');
+            }, 400);
+        }
     });
-    </script>
+
+
+});
+</script>
 </body>
+
 </html>
