@@ -67,10 +67,33 @@
 	<script type="text/javascript" src="/js/jquery.min.js"></script>
   <script type="text/javascript">
     $(document).ready(function() {
-        $('.menu_toggler').on('click', function(e) {
-        	e.preventDefault();
-            $('.nav').toggle();
-        });
+          // navbar toggler
+    $('.menu_toggler').on('click', function(e) {
+        e.preventDefault();
+        if (!$('body').hasClass('menu-open')) {
+            $('body').addClass('menu-open');
+            $('span.line.mid').css('opacity', 0);
+
+            $('.nav > ul > li').each(function(i, el) {
+                setTimeout(function(i) {
+                    $(el).addClass('revealed');
+                }, i * 100 + 100);
+            });
+
+        } else {
+            $('body').removeClass('menu-open');
+            setTimeout(function() {
+                $('span.line.mid').css('opacity', 1);
+            }, 300);
+
+            setTimeout(function() {
+                $('.nav ul > li.has-menu').removeClass('expanded');
+                $('.nav ul > li.has-menu .sub_ul').hide();
+
+                $('.nav > ul > li').removeClass('revealed');
+            }, 400);
+        }
+    });
     });
     </script>
 
