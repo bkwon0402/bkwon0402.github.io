@@ -6,9 +6,11 @@ sub:
 ---
 # The Challenge
 
-As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks, which presents a concept of an iPad app that redesigns the check splitting experience. 
+<div class="small_container">
+	As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks, which presents a concept of an iPad app that redesigns the check splitting experience. 
 
-<br>
+	<br>
+</div>
 
 # The Drawing Board: Smart Checks 
 
@@ -18,7 +20,8 @@ As an intern at Cooper, I collaborated with designers to create The Drawing Boar
 </div>
 
 
+<div class="small_container">
+	As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks, which presents a concept of an iPad app that redesigns the check splitting experience. 
 
-I drew the graphics used in the video and contributed to refining the product concept.  
-
-At Cooper, I also completed Cooper U Interaction Design Practicum, an intensive UX training program.   
+	<br>
+</div>   
