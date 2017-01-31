@@ -69,9 +69,9 @@ a {
 }
 
 h1 {}
-.small_container{
-        font-size: 20px;
-    text-align: left;
+
+.small_container {
+    font-size: 20px;
     line-height: 170%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
@@ -109,7 +109,8 @@ h1 {}
 .hero_p {
     font-size: 20px;
 }
-.hero_part .hero_part_30{
+
+.hero_part .hero_part_30 {
     padding: 0px 30px;
 }
 
@@ -220,14 +221,15 @@ hr.style-six {
     letter-spacing: 2.4px;
     padding: 30px 15px;
 }
+
+
 /*
 #portfolio_hero .container {
     max-width: 768px;
 }
 */
-#portfolio_content .container {
-    
-}
+
+#portfolio_content .container {}
 
 #portfolio_hero span {
     font-size: 26px;
