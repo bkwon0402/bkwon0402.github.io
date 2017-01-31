@@ -6,18 +6,15 @@ sub:
 ---
 
 
-<div class="small_container">
-
-</div>
-
-
-
-
 # The Challenge
 
+<div class="small_container">
 I designed a website mockup for ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
 
 <br>
+</div>
+
+
 
 # My Process 
 
