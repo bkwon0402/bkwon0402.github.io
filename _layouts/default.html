@@ -33,6 +33,7 @@
 <script type="text/javascript">
 	  $('#portfolio_content img').each(function(i, el) {
 			var thisHref = $(el).attr('href');
+			console.log(thisHref);
 			$(el).wrap('<a href="' + thisHref + '" data-title="nuyn"></a>');        	
         });
 </script>
