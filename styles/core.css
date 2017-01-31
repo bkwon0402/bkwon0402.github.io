@@ -1143,6 +1143,14 @@ div.newsletterredesign {
         width: auto;
         text-align: center;
     }
+    .behancetext {
+        float: none;
+        text-align: center;
+    }
+    .disclaimer {
+        text-align: center;
+        float: none;
+    }
 }
 @media(max-width: 480px) {
     body {
