@@ -1115,6 +1115,15 @@ div.newsletterredesign {
     #portfolio_content p {
         text-align: left;
     }
+    
+    div.invision .iframe_wrapper {
+        height: 950px;
+        width: 480px;
+    }
+    
+    .invision {
+        overflow: scroll;
+    }
 }
 @media(max-width: 480px) {
     body {

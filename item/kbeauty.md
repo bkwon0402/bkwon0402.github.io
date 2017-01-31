@@ -258,8 +258,6 @@ Here's the invision prototype that showcases the final design.
 	<div class="iframe_wrapper">
 		<iframe src="//invis.io/ZV66900H2" frameborder="0" allowfullscreen></iframe> 
 	</div>
-
-
 </div>
 
 
