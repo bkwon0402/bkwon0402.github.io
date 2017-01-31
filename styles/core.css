@@ -75,6 +75,7 @@ h1 {}
     line-height: 170%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
+    max-width: 768px;
 }
 
 .text_iplace_holder {
