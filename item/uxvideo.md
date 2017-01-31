@@ -11,7 +11,12 @@ As an intern at Cooper, I collaborated with designers to create The Drawing Boar
 <br>
 
 # The Drawing Board: Smart Checks 
-<iframe src="https://player.vimeo.com/video/24799548" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<div class="video_wrapper">
+	<iframe src="https://player.vimeo.com/video/24799548" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 
 
 I drew the graphics used in the video and contributed to refining the product concept.  
