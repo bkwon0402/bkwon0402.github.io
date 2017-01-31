@@ -12,9 +12,16 @@ I worked with Streami to design their demo product. Streami reduces internationa
 
 The company had wireframes designed when I joined. However, things were confusing. For example, I had difficulty understanding the ideas that the graphics were supposed to communicate and the copy was confusing.
 
-<img src="/images/streami1.png" style="margin-bottom: 55px">
+<div class="text_center">
+
+	<img src="/images/streami1.png" style="margin-bottom: 55px">
 <br>
 <img src="/images/streami2.png" style="">
+
+
+</div>
+
+
 <p class="streamicaption">Original wireframes</p>   
 
 <br>
