@@ -272,22 +272,18 @@ However, after talking to more potential users, I decided to include the cheat s
 
 <div class="text_center">
 
-<img src="/images/cheatsheet.png" width="50%">
-<br>
-<br>
-
-<div class="small_container">
-	<p class="caption">K-beauty Cheat Sheet screen from the final design</p>
+	<img src="/images/cheatsheet.png" width="50%">
 	<br>
-</div>	
+	<br>
+
+	<div class="small_container">
+		<p class="caption">K-beauty Cheat Sheet screen from the final design</p>
+		<br>
+	</div>	
 
 </div>
 
-
-
 #Final Design 
-
-
 
 <div class="small_container">
 	Here's the invision prototype that showcases the final design.
