@@ -222,12 +222,11 @@ Here is the final design.
 </div>
 
 
+# What I would've done differently 
+
 <div class="small_container">
 
-
 <br> 
-
-# What I would've done differently 
 
 There are a couple of things I would consider changing. First, in the current design, I listed one profile per row. However, I want to experiment using columns and listing multiple profiles per row. That way, users view more profiles in a shorter amount of time without having to scroll down too much. Second, since the graph bar takes up space, I want to explore other ways of representing funding information. Lastly, I would increase the overall contrast to make things look more defined. 
 
