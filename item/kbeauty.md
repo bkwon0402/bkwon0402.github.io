@@ -287,6 +287,8 @@ However, after talking to more potential users, I decided to include the cheat s
 
 #Final Design 
 
+
+
 <div class="small_container">
 	Here's the invision prototype that showcases the final design.
 </div>
