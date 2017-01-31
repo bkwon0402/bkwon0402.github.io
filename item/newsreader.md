@@ -65,7 +65,7 @@ The inspiration for this project came from user research I did for a related pro
 # Design Details
 
 
-<div class="smaller_container">
+<div class="small_container">
 	For the interface, I wanted to have as few elements as possible so that the product offers a distraction-free reading experience.  
 
 	For example, I think the pictures that news readers pull up for each article are often irrelevant to the articles.  
