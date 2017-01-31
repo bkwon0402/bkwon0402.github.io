@@ -122,12 +122,12 @@ We also looked into integrating the logo into the name more. Based on the insigh
 
 <div class="text_center">
 
-<img src="/images/logo13.png" />
+<img src="/images/logo13.png" width="200"/>
 <br>
-<img src="/images/logo14.png" width="50%" />
+<img src="/images/logo14.png" width="200" />
 <br>
 
-<img src="/images/logo15.png" width="60%" />
+<img src="/images/logo15.png" width="200" />
 
 </div>
 <div class="small_container">
