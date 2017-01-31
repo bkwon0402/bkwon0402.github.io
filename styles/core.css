@@ -1051,6 +1051,17 @@ div.newsletterredesign {
         visibility: visible;
     }
     
+    body.menu-open .menu_toggler span.top {
+        transform: translate(0, 8.1px) rotate(-45deg);
+        -webkit-transform: translate(0, 8.1px) rotate(-45deg);
+        -moz-transform: translate(0, 8.1px) rotate(-45deg);
+    }
+     body.menu-open .menu_toggler span.bot {
+            transform: translate(0, -8px) rotate(45deg);
+    -webkit-transform: translate(0, -8px) rotate(45deg);
+    -moz-transform: translate(0, -8px) rotate(45deg);
+    }
+    
     .nav {
         opacity: 0;
         visibility: hidden;
