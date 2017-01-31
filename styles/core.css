@@ -606,7 +606,8 @@ div.bestselling3 {
     margin-left: 120px;
 }*/
 div.invision .iframe_wrapper {
-    padding-bottom: 212.3287671232877%;
+    width: 416px;
+    height: 850px;
     position: relative;
 }
 div.invision .iframe_wrapper iframe {
