@@ -5,8 +5,6 @@ title: Social newsreader - ux/ui
 sub: 
 ---
 
-<br> 
-
 # The Challenge
 
 The inspiration for this project came from user research I did for a related project: designing a Korean tech news aggregator. In talking to my friends about their online news reading habits, I learned that millennials are relying on Facebook as their primary news source i.e., they like to read articles that Facebook friends post. However, the Newsfeed is noisy and cluttered. I feel that I have to filter through my Newsfeed to find gems like article posts. So I created a product concept where users can read the articles their Facebook friends posted distraction-free. The product achieves this by 1) pulling articles posted by users’ Facebook friends 2) parsing the articles and presenting them in a clean format. 
