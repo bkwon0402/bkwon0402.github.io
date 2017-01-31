@@ -12,6 +12,7 @@ The inspiration for this project came from user research I did for a related pro
 
 <br>
 <br> 
+
 # User Needs 
 
 <a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. 
