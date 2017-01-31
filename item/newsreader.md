@@ -14,15 +14,15 @@ The inspiration for this project came from user research I did for a related pro
 
 # User Needs 
 
-<a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. 
-
-
-I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources, i.e., my intelligent friends and second, the discussions that happen in the comments section are often interesting. 
+<a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources, i.e., my intelligent friends and second, the discussions that happen in the comments section are often interesting. 
 
 <p class="italic">“Sometimes I’m more interested in reading the news than personal updates”</p> 
 
+<br>
+
 However, the Newsfeed is often filled with content you are not interested in consuming. As my friend commented, “Sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
  
+ <br> 
 In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
 <br>
