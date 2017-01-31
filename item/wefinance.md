@@ -217,7 +217,7 @@ Here is the final design.
 
 
 
-<img src="/images/newsletterredesign.png" style="max-width: 700px;"/>
+<img src="/images/newsletterredesign.png" style="width: 700px;"/>
 
 </div>
 
