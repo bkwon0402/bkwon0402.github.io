@@ -26,16 +26,16 @@ Here are the sketches/early prototype I shared.
 
 
 	</div>
-	<div class="text_center">
-		
-
-<img src="/images/logo1.jpg" />
+<div class="text_center">
 
 
-<img src="/images/logo2.jpg" />
+	<img src="/images/logo1.jpg" />
 
 
-	</div>
+	<img src="/images/logo2.jpg" />
+
+
+</div>
 
 
 <div class="small_container">
