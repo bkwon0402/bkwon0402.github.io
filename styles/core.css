@@ -169,8 +169,8 @@ h1 {}
 }
 
 .details {
-    margin-top: 10px;
-    color: #595959;
+    margin-top: 13px;
+    color: #8c8c8c;
     letter-spacing: 1.4px;
     min-height: 100px;
     transition: 0.3s all;
@@ -218,7 +218,7 @@ hr.style-six {
 }
 
 #portfolio_content .container {
-    max-width: 768px;
+    
 }
 
 #portfolio_hero span {

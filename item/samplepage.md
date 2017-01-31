@@ -4,6 +4,8 @@ headtouse: headcontent.html
 title: Clearear - website
 sub: 
 ---
+<div class="smaller_container">
+
 # The Challenge
 
 I designed a website mockup for ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
@@ -34,19 +36,30 @@ Finally, I work on visual design and bring content to life. The company already 
 
 Here is the landing page. 
 
-<img src="/images/clearearlandingpage.png">
+</div>
 
-<br>
+
+<img src="/images/clearearlandingpage.png">
+<div class="smaller_container">
+	<br>
 Here is the about page. 
 <br>
 <br>
+</div>
+
+	
+
+
 
 <img src="/images/clearearabout.png">
-
-<br>
+<div class="smaller_container">
+	<br>
 Here is the landing page with the top navigation bar shown. 
 <br>
 <br> 
+	</div>
+
+
 
 <img src="/images/cleareartopnav.png">
 
