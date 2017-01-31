@@ -17,7 +17,7 @@ sub:
 This meant that I tried to design interesting and provocative icons. In addition, in choosing a color scheme, I decided to go with purple, which I think keeps things more interesting, instead of choosing a safe option such as blue. 
 
 Here’s a landing page mockup I designed where you can find the branding assets. 
-
-
+<br>
+<br>
 <img src="/images/branding (1).png">
 
