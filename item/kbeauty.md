@@ -85,7 +85,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 # Insights from User Testing
 
-<p class="bold">Insight 1: users want a different rating system </p>
+<p class="bold text_center" >Insight 1: users want a different rating system </p>
  
 In designing the product, I had to decide what determines whether a brand or a product is reputable. I decided to have a small panel of normal Korean girls (10 or so) rate brands and products. My reasoning was that since most Korean girls are into skincare and are aware of major skincare brands and products, simply asking a small number of Korean girls would serve as an excellent measure.
 
