@@ -4,9 +4,15 @@ headtouse: headcontent.html
 title: Clearear - website
 sub: 
 ---
+
+
 <div class="small_container">
 
 </div>
+
+
+
+
 # The Challenge
 
 I designed a website mockup for ClearEar, a medical device startup. ClearEar offers products that provide people a better way to clean their ears. 
