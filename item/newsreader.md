@@ -50,7 +50,7 @@ The inspiration for this project came from user research I did for a related pro
 
 
 
-<div style="text-align: center;"><img src="/images/feedly.png" width="700" /></div> 
+<div style="text-align: center;"><img src="/images/feedly.png" width="800" /></div> 
 <div style="text-align: center;"><div class="feedlycaption">Feedly offers only a preview of an article</div></div>
 
 
@@ -90,7 +90,7 @@ In addition, I wanted to have elements that help users share or manage articles 
   
 
 
-<div style="text-align: center;"><img src="/images/option3.jpg" width="700" style="transform: rotate(90deg);-webkit-transform: rotate(90deg);"> </div> 
+<div style="text-align: center;"><img src="/images/option3.jpg" width="800" style="transform: rotate(90deg);-webkit-transform: rotate(90deg);"> </div> 
 
 <div class="small_container">
 	I decided against 1) because I wanted the full screen dedicated to the article without the menu.  Between 2) and 3), I initially chose 3) because it will not always be intuitive to users that the share/manage menu will appear when they scroll up. For users who want to use the share/manage menu but have not yet figured out that the menu appears when they scroll up, the button will give them more control. In designing option 3) I decided to place the button and menu on the bottom of the screen because eyes stay on the upper part of the screen and it will be less distracting to have the menu appear on the bottom. 
