@@ -170,8 +170,6 @@ I thought c) made sense and made it as the default option. In this option, artic
 	<br>
 	<br> 
 
-<br> 
-
 # Final Design 
 
 <br> 
