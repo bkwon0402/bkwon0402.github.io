@@ -24,7 +24,7 @@ sub:
 
 
 <div class="small_container">
-	<p class="streamicaption">Original wireframes</p>   
+	<p class="streamicaption" "text-align: center">Original wireframes</p>   
 
 <br>
 
@@ -37,7 +37,7 @@ In the original design, users were not able to see how much the fee exactly is g
 However, presenting both pieces of information before users choose the options allows users to more easily compare the options. So I designed the screens so that users can view the information without having to choose the options first. 
 </div>
 
-<img src="/images/step2.png" width="100%" style="margin-bottom:55px">
+<img src="/images/step2.png" width="800" style="margin-bottom:55px">
 
 
 <div class="small_container">
@@ -50,9 +50,9 @@ Here are the final screens.
 <br>
 </div>
 
-<img src="/images/step1.png" width="100%" style="margin-bottom:55px">
-<img src="/images/step2.png" width="100%" style="margin-bottom:55px">
-<img src="/images/step3.png" width="100%" style="margin-bottom:55px">
+<img src="/images/step1.png" width="800" style="margin-bottom:55px">
+<img src="/images/step2.png" width="800" style="margin-bottom:55px">
+<img src="/images/step3.png" width="800" style="margin-bottom:55px">
 
 
 
