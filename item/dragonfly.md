@@ -20,7 +20,7 @@ sub:
 </div> 
 
 <div class="text_center">
-	<img src="/images/dragonflyeffet.jpg" width="800">
+	<img src="/images/dragonflyeffet.jpg" width="600">
 </div>
 
 <div class="small_container">
@@ -39,7 +39,7 @@ For example, in Wing 4: Take Action, I shared a relevant psychological study to 
 </div>
 
 <div class="text_center">
-	<img src="/images/aaker.JPG" width="400" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
+	<img src="/images/aaker.JPG" width="600" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
 </div>
 
 <div class="dfly" style="text-align: center">Professor Aaker’s signature on the copy I received</div>
