@@ -148,8 +148,9 @@ h1 {}
 }
 
 .hero_p {
-    font-size: 20px;
+    font-size: 18px;
     color: #8C8C8C; 
+    line-height: 1.6; 
 }
 
 .line_sep {
