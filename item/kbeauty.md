@@ -266,8 +266,7 @@ I was initially hesitant to include an “K-beauty Cheat Sheet” -- I wanted th
 However, after talking to more potential users, I decided to include the cheat sheet because it has a lot benefit to users, most of whom are not yet familiar with k-beauty. While users can also research the terms elsewhere, the Cheat Sheet allows users to better understand products without leaving the app.  
 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
-<br>
-<br>
+
 </div>
 
 <div class="text_center">
@@ -284,9 +283,7 @@ However, after talking to more potential users, I decided to include the cheat s
 
 
 
-#Final Design 
-
-
+# Final Design 
 
 
 
