@@ -170,14 +170,14 @@ I also designed icons using the gradients I designed for the logo.
 <div class="text_center">
 
 
-<img src="/images/logo18.png" width=150>
+<img src="/images/logo18.png"  style="width: 700px;">
 
 </div>
 
 
 
 <br>
-<br> 
+
 # Email Newsletter Redesign 
 
 <div class="small_container">
