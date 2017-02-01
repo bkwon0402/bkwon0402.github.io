@@ -15,7 +15,7 @@ sub:
 <div class="small_container">
 
 <h1> The Book </h1> 
-<br> 
+
 	The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results.
 </div> 
 
