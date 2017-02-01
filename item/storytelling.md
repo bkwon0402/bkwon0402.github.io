@@ -11,6 +11,7 @@ sub:
 
 	<br>
 </div>
+<br> 
 
 # The Process
 
@@ -39,6 +40,7 @@ Here are the infographics that Girl Effect retweeted.
  
 <div class="text_center">
 	<img src="/images/storytelling1.png" >
+	<br> 
 	<img src="/images/storytelling2.png" >
 	<br>
 </div>
@@ -54,20 +56,20 @@ Here are the infographics that Girl Effect retweeted.
 <br>
 <img src="/images/info2.png" style="margin-bottom: 40px">
 <br>
-<img src="/images/info3.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
+<img src="/images/info3.jpg" width ="800" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<img src="/images/info4.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
+<img src="/images/info4.jpg" width ="800" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<img src="/images/info5.jpg" width ="100%" style="margin-left:0px; margin-bottom: 40px">
+<img src="/images/info5.jpg" width ="800" style="margin-left:0px; margin-bottom: 40px">
 <br>
-<img src="/images/info6.png" width ="100%" style="margin-left:0px; margin-bottom: 0px">
+<img src="/images/info6.png" width ="800" style="margin-left:0px; margin-bottom: 0px">
 </div>
 
 <div class="small_container">
 	Here is an infographic I designed on why the organization invests in women. I owned the whole design process from content development to visual design.
 </div>  
 
-<img src="/images/youthandwomen.jpg" width = "100%">
+<img src="/images/youthandwomen.jpg" width = "1200">
 
 <div class="small_container">
 	I also designed visually appealing content to share on social media.
@@ -75,10 +77,15 @@ Here are the infographics that Girl Effect retweeted.
 
 <div class="text_center">
 	<img src="/images/quote1.png" />
+	<br> 
 	<img src="/images/quote2.png" />
+	<br> 
 	<img src="/images/quote3.png" />
+	<br> 
 	<img src="/images/quote4.png" />
+	<br> 
 	<img src="/images/quote5.png" />
+	<br> 
 	<img src="/images/quote6.png" />
 </div> 
 
