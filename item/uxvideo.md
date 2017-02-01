@@ -10,6 +10,7 @@ sub:
 	As an intern at Cooper, I collaborated with designers to create The Drawing Board: Smart Checks, which presents a concept of an iPad app that redesigns the check splitting experience. 
 
 	<br>
+<br> 
 </div>
 
 # The Drawing Board: Smart Checks 
