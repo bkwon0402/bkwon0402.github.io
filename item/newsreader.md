@@ -39,7 +39,7 @@ The inspiration for this project came from user research I did for a related pro
 
 <h1>Design Goal: To Deliver a Great Reading Experience</h1>    
 
-<br> 
+
 	One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
 
 
