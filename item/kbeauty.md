@@ -89,8 +89,8 @@ I started the design process by sketching wireframes on paper. In designing the 
 
 </div>
 
-<div class="small_container">
-	<p class="sketchcaption" style="text-align: center";>Sketches I did for key screens.</p> 
+<div class="small_container" >
+	<p class="sketchcaption" style="text-align: center">Sketches I did for key screens.</p> 
 <br>
 After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
