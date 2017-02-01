@@ -13,15 +13,14 @@ sub:
 <br>
 
 <div class="small_container">
-<br> 
 
-<h1> The Book ></h1> 
+<h1> The Book </h1> 
 <br> 
 	The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results.
 </div> 
 
 <div class="text_center">
-	<img src="/images/dragonflyeffet.jpg" width="700">
+	<img src="/images/dragonflyeffet.jpg" width="800">
 </div>
 
 <div class="small_container">
@@ -40,7 +39,7 @@ For example, in Wing 4: Take Action, I shared a relevant psychological study to 
 </div>
 
 <div class="text_center">
-	<img src="/images/aaker.JPG" width="700" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
+	<img src="/images/aaker.JPG" width="800" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
 </div>
 
 <div class="dfly" style="text-align: center">Professor Aaker’s signature on the copy I received</div>
