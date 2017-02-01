@@ -80,7 +80,8 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 <div class="small_container">
 
 
-<p style="text-align: center";><p class="captionn"> New gradients ring I designed </p>
+<div style="text-align: center;"><p class="captionn"> New gradients ring I designed </p> </div> 
+
 <br>
 Here are some of the new ideas I tried. 
 </div>
