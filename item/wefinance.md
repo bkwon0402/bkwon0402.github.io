@@ -158,6 +158,7 @@ I was new to logo design, but am happy with how things went. I designed the logo
 
 <br>
 </div>
+<br>
 <br> 
 
 # Icon Design  
