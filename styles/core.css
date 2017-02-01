@@ -144,11 +144,12 @@ h1 {}
 }
 
 .hero_part {
-    margin-top: 58px;
+    margin-top: 65px;
 }
 
 .hero_p {
     font-size: 20px;
+    color: #595959; 
 }
 
 .line_sep {
