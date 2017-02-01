@@ -175,7 +175,7 @@ I also designed icons using the gradients I designed for the logo.
 </div>
 
 
-
+<br>
 <br>
 
 # Email Newsletter Redesign 
