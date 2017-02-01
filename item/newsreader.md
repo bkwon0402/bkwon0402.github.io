@@ -172,8 +172,11 @@ I thought c) made sense and made it as the default option. In this option, artic
 	<br>
 	<br> 
 
-	# Final Design 
+<br> 
 
+# Final Design 
+
+<br> 
 	A user logs in. 
 </div>
 
