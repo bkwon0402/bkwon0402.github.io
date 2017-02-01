@@ -15,7 +15,6 @@ sub:
 </div>
 
 <br> 
-<br> 
 # Logo Design 
 
 <div class="small_container">
