@@ -150,7 +150,7 @@ In addition, I wanted to have elements that help users share or manage articles 
 <div class="small_container">
 
 
-<p class="mostrecent"><p style="text-align: center";>The original design sorts the article list by most recent.</p>
+<p style="text-align: center";><p class="mostrecent">The original design sorts the article list by most recent.</p>
 <br>
 
 However, users will appreciate being able to sort the article list by most shares. So I decided to give users options to sort the list by a) most recent b) most shares c) a combination of a ) and b). 
