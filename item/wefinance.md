@@ -72,10 +72,7 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 
 
-<br> 
-
-<br> 
-
+<br>  
 
 <div class="small_container">
 
