@@ -81,7 +81,7 @@ The inspiration for this project came from user research I did for a related pro
 
 
 <div class="small_container">
-	<br>
+
 So I decided not to pull up photos for each news item and present only the essentials. 
 
 In addition, I wanted to have elements that help users share or manage articles appear only when needed. I considered three ways in which I can achieve this: 1) the share/manage menu appears in default either on top or the left side and users click to collapse or expand it. 2) the menu appears when users scroll up as they read an article; the menu disappears when users scroll down. 3) same as 2) but in addition to that, there is a button and the menu appears when a user hovers over the button. 
