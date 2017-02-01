@@ -43,7 +43,7 @@ For example, in Wing 4: Take Action, I shared a relevant psychological study to 
 	<img src="/images/aaker.JPG" width="800" style="margin-left:0px; transform: rotate(90deg); -webkit-transform: rotate(90deg);" />
 </div>
 
-<div class="dfly">Professor Aaker’s signature on the copy I received</div>
+<div class="dfly" style="text-align: center">Professor Aaker’s signature on the copy I received</div>
 <br>
 
 # Takeaway 
