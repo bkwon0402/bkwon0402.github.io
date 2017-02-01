@@ -117,7 +117,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <br>
 <br>
 <br>
-
+<br> 
 </div>
 
 # Insights from User Testing
@@ -125,7 +125,6 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 
 <div class="small_container">
-	<p class="sketchcaption">Sketches I did for key screens.</p> 
 <br>
 After I had wireframes ready on paper, I designed high-fidelity mockups. In this step, I was careful not to spend too much time on visual design. I planned to share mockups in the form of an interactive Invision prototype with potential users for feedback -- likely many things will change based on feedback, so I focused on bringing the UX to life instead. 
 
@@ -136,7 +135,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 <div class="text_center">
 
-<img src="/images/about.png" width="50%">
+<img src="/images/about.png" width="400">
 
 <br>
 
@@ -155,14 +154,14 @@ Here are some of the high fidelity mockups I put together to create an Invision 
  
 <div class="text_center">
   
-<img src="/images/reputable.png" width="50%">
+<img src="/images/reputable.png" width="400">
 
 <br>
-<img src="/images/ughoh.png" width="50%">
+<img src="/images/ughoh.png" width="400">
 
 
 <div class="small_container">
-	<p class="caption">Search results screens from my original design</p>
+	<p class="caption" style="text-align: center">Search results screens from my original design</p>
 </div>
 
 <br>
@@ -185,15 +184,15 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 <div class="text_center">
 
-<img src="/images/search1.png" width="50%">
+<img src="/images/search1.png" width="400">
 <br>
 <br>
 
-<img src="/images/search2.png" width="50%">
+<img src="/images/search2.png" width="400">
 <br>
 <br>
 
-<img src="/images/search3.png" width="50%">
+<img src="/images/search3.png" width="400">
 <br>
 <br>
 </div>
@@ -205,17 +204,17 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 </div>
 	
 <div class="text_center">
-<img src="/images/newresult1.png" width="50%">
+<img src="/images/newresult1.png" width="400">
 <br>
 <br>
 <br>
 
-<img src="/images/newresult2.png" width="50%">
+<img src="/images/newresult2.png" width="400">
 <br>
 <br>
 <br>
 
-<img src="/images/newresult3.png" width="50%">
+<img src="/images/newresult3.png" width="400">
 <br>
 <br>
 <br> 
@@ -229,27 +228,27 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 </div>	
 
 <div class="text_center">
-<img src="/images/bestselling1.png" width="50%">
+<img src="/images/bestselling1.png" width="400">
 
 <br>
 <br>
 
 
-<img src="/images/bestselling2.png" width="50%">
+<img src="/images/bestselling2.png" width="400">
 
 <br>
 <br>
 
 
-<img src="/images/bestselling3.png" width="50%">
+<img src="/images/bestselling3.png" width="400">
 
 <br>
 <br>
-<img src="/images/best1.png" width="50%">
+<img src="/images/best1.png" width="400">
 <br>
 <br>
 
-<img src="/images/best2.png" width="50%">
+<img src="/images/best2.png" width="400">
 <br>
 <br>
 <br>
@@ -259,24 +258,25 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 <div class="small_container">
 	<p class="italic">“I was not used to "serum" or "skin milk" and had no idea how to use those” -- a friend on her experience shopping for k-beauty</p> 
+<br> 
 
 Some users wanted a short k-beauty guide in a section somewhere. For example, a friend commented that she had no idea how to use “serum” or “skin milk” since she was not used to the terms and would appreciate help understanding the terms.   
 
 I was initially hesitant to include an “K-beauty Cheat Sheet” -- I wanted the app to be simple and just serve the core functions. 
  
 However, after talking to more potential users, I decided to include the cheat sheet because it has a lot benefit to users, most of whom are not yet familiar with k-beauty. While users can also research the terms elsewhere, the Cheat Sheet allows users to better understand products without leaving the app.  
-
+<br> 
 <p class="italic">“I like the cheat sheet since it is an emerging market and all of the different terms are overwhelming.”</p> 
-
+<br> 
 </div>
 
 <div class="text_center">
-	<img src="/images/cheatsheet.png" width="50%">
+	<img src="/images/cheatsheet.png" width="400">
 	<br>
 	<br>
 
 	<div class="small_container">
-		<p class="caption">K-beauty Cheat Sheet screen from the final design</p>
+		<p class="caption" style="text-align: center">K-beauty Cheat Sheet screen from the final design</p>
 		<br>
 	</div>	
 
@@ -314,18 +314,18 @@ However, after talking to more potential users, I decided to include the cheat s
 <div class="text_center">
 
 
-<img src="/images/bestselling1.png" width="50%">
+<img src="/images/bestselling1.png" width="400">
 
 <br>
 <br>
 
 
-<img src="/images/bestbrands.png" width="50%">
+<img src="/images/bestbrands.png" width="400">
 
 <br>
 <br>
 
-<img src="/images/bestbrands2.png" width="50%">
+<img src="/images/bestbrands2.png" width="400">
 
 <br>
 <br>
