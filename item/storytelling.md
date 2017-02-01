@@ -69,7 +69,7 @@ Here are the infographics that Girl Effect retweeted.
 	Here is an infographic I designed on why the organization invests in women. I owned the whole design process from content development to visual design.
 </div>  
 
-<img src="/images/youthandwomen.jpg" width = "1200">
+<img src="/images/youthandwomen.jpg" width = "800">
 
 <div class="small_container">
 	I also designed visually appealing content to share on social media.
