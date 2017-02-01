@@ -119,6 +119,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <br>
 <br> 
 </div>
+<br> 
 
 # Insights from User Testing
 
@@ -142,7 +143,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 </div>
 
 <br>
-
+<br> 
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
@@ -253,6 +254,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 <br>
 <br>
 </div>
+<br> 
 
 # Insight 3: Users want help understanding k-beauty  
 
