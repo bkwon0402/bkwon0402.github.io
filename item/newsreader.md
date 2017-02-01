@@ -35,7 +35,7 @@ The inspiration for this project came from user research I did for a related pro
 
 	<br>
 	<br>
-<br> 
+ 
 # Design Goal: To Deliver a Great Reading Experience  
 <br> 
 <br> 
