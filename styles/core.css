@@ -1047,9 +1047,6 @@ div.newsletterredesign {
     width: 100%;
 }
 @media screen and (max-width: 768px) {
-    .clear .say {
-        width: 90%;
-    }
     
     .say {
         margin-top: 150px;
