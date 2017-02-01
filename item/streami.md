@@ -24,7 +24,7 @@ sub:
 
 
 <div class="small_container">
-	<p class="streamicaption" "text-align: center">Original wireframes</p>   
+	<p class="streamicaption" style="text-align: center">Original wireframes</p>   
 
 <br>
 
