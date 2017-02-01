@@ -110,7 +110,8 @@ In addition, I wanted to have elements that help users share or manage articles 
 <br>
 </div>
 
-<img src="/images/bottombutton2.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/bottombutton2.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <div class="small_container">
 
@@ -119,7 +120,8 @@ In addition, I wanted to have elements that help users share or manage articles 
 </div>
  
 
-<img src="/images/bottombar.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/bottombar.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <div class="small_container">
 	<p class="cap">In the final design, the share/manage menu appears when users scroll up.</p>
@@ -142,7 +144,8 @@ In addition, I wanted to have elements that help users share or manage articles 
 
 
 
-<img src="/images/originaldesign.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/originaldesign.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 
 <div class="small_container">
@@ -159,7 +162,8 @@ I thought c) made sense and made it as the default option. In this option, artic
 
 
 
-<img src="/images/maindropdown.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/maindropdown.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 
 <div class="small_container">
@@ -177,20 +181,23 @@ I thought c) made sense and made it as the default option. In this option, artic
 
 
 
-<img src="/images/main.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/main.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <div class="small_container">
 	S/he sees the list of articles that his/her Facebook friends posted. 
 </div>
 
-<img src="/images/maindropdown2.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/maindropdown2.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <div class="small_container">
 	S/he reads an article distraction-free. The site also pulls comments from Facebook, which s/he can choose to hide.  
 </div>
 
 
-<img src="/images/articlepage.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/articlepage.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <div class="small_container">
 	S/he can also view the list of articles posted by a specific friend.
@@ -198,7 +205,8 @@ I thought c) made sense and made it as the default option. In this option, artic
 
 
 
-<img src="/images/sharedbydianna.png" style="box-shadow: 0px 8px 15px #eaeaea">
+
+<div style="text-align: center;"><img src="/images/sharedbydianna.png" style="box-shadow: 0px 8px 15px #eaeaea"></div> 
 
 <br> 
 <br>
