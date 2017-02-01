@@ -240,11 +240,10 @@ h1 {}
 }
 
 .portfolio a:hover .details {
-    font-weight: 700;
 }
 
 .details span {
-    font-size: 17px;
+    font-size: 19px;
 }
 
 
