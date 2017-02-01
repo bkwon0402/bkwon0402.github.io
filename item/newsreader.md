@@ -48,7 +48,7 @@ The inspiration for this project came from user research I did for a related pro
 
 
 
-<img src="/images/feedly.png" width="100%" />
+<img src="/images/feedly.png" width="700" />
 <div style="text-align: center;"><div class="feedlycaption">Feedly offers only a preview of an article</div></div>
 
 
