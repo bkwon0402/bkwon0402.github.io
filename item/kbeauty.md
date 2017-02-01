@@ -67,9 +67,9 @@ Here are the onboarding screens that explain the app's main value propositions.
 
 <br>
 <br>
-<br> 
+<br>
 </div>
-
+<br> 
 
 # Design Process
 
