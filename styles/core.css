@@ -94,7 +94,7 @@ a {
 h1 {}
 
 .small_container {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 170%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
@@ -148,7 +148,7 @@ h1 {}
 }
 
 .hero_p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .line_sep {
@@ -849,7 +849,7 @@ div.wefinanceemail {
     margin-left: 50px;
 }
 .say {
-    font-size: 16px;
+    font-size: 20px;
     text-align: center;
     margin-top: 250px;
     color: #8C8C8C;
@@ -872,7 +872,7 @@ div.newsletterredesign {
     font-size: 23px;
 }
 .aboutme {
-    font-size: 16px;
+    font-size: 20px;
     max-width: 768px;
     text-align: justify;
     color: #8C8C8C;
