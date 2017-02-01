@@ -4,7 +4,6 @@ headtouse: headcontent.html
 title: Wefinance - branding 
 sub: 
 ---
-<br>
 
 # The Challenge
 
@@ -16,7 +15,7 @@ sub:
 </div>
 
 <br> 
-
+<br> 
 # Logo Design 
 
 <div class="small_container">
@@ -80,7 +79,7 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 
 <div class="small_container">
-
+<br> 
 
 <p class="captionn"> <p style="text-align: center;"> New gradients ring I designed </p> </p> 
 
