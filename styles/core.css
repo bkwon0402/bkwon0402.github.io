@@ -227,6 +227,7 @@ h1 {}
 .details {
     margin-top: 13px;
     color: #8c8c8c;
+    font-size: 19px;
     letter-spacing: 1.4px;
     min-height: 100px;
     transition: 0.3s all;
@@ -240,6 +241,7 @@ h1 {}
 }
 
 .portfolio a:hover .details {
+    font-style: italic; 
 }
 
 .details span {
@@ -247,7 +249,7 @@ h1 {}
 }
 
 
-/* portfolio item page */
+/*item page */
 
 hr.style-six {
     border: 0;
