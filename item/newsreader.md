@@ -38,7 +38,6 @@ The inspiration for this project came from user research I did for a related pro
  
 
 <h1>Design Goal: To Deliver a Great Reading Experience</h1>    
-<br> 
 
 <br> 
 	One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
@@ -170,7 +169,7 @@ I thought c) made sense and made it as the default option. In this option, artic
 	There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
 
 	<br>
-	 
+	 <br> 
 
 <h1> Final Design</h1>  
 
