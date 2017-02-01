@@ -36,8 +36,8 @@ The inspiration for this project came from user research I did for a related pro
 	<br>
 	<br>
  
-<br> 
-# Design Goal: To Deliver a Great Reading Experience   
+
+<h1>Design Goal: To Deliver a Great Reading Experience</h1>    
 <br> 
 
 <br> 
@@ -150,7 +150,7 @@ In addition, I wanted to have elements that help users share or manage articles 
 <div class="small_container">
 
 
-<p class="mostrecent">The original design sorts the article list by most recent.</p>
+<p class="mostrecent" style="text-align: center">The original design sorts the article list by most recent.</p>
 <br>
 
 However, users will appreciate being able to sort the article list by most shares. So I decided to give users options to sort the list by a) most recent b) most shares c) a combination of a ) and b). 
@@ -170,9 +170,9 @@ I thought c) made sense and made it as the default option. In this option, artic
 	There were other useful insights I gained while talking to users. For example, some wanted to be able to sort the list by topics e.g. politics. However, the goal of the product is to simplify the Newsfeed experience after all, and I decided not to add more bells and whistles.
 
 	<br>
-	<br> 
+	 
 
-# Final Design 
+<h1> Final Design</h1>  
 
 <br> 
 	A user logs in. 
