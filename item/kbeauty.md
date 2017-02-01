@@ -55,14 +55,14 @@ Here are the onboarding screens that explain the app's main value propositions.
 <br>
 <br>
 
-<img src="/images/onboarding2.png" width="50%">
+<img src="/images/onboarding2.png" width="400">
 
 
 <br>
 <br>
 <br>
 
-<img src="/images/onboarding3.png" width="50%">
+<img src="/images/onboarding3.png" width="400">
 
 
 <br>
@@ -81,11 +81,11 @@ I started the design process by sketching wireframes on paper. In designing the 
 
 <div class="text_center">
 
-<img src="/images/sketch1.JPG" width="100%">
+<img src="/images/sketch1.JPG" width="800">
 <br>
 <br>
 <br>
-<img src="/images/sketch2.JPG" width="100%">
+<img src="/images/sketch2.JPG" width="800">
 
 </div>
 
@@ -101,19 +101,19 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 <div class="text_center">
 
-<img src="/images/kbeautymockup1.png" width="50%">
+<img src="/images/kbeautymockup1.png" width="400">
 <br>
 <br>
 <br>
-<img src="/images/exercise1.png" width="50%">
+<img src="/images/exercise1.png" width="400">
 <br>
 <br>
 <br>
-<img src="/images/exercise2.png" width="50%">
+<img src="/images/exercise2.png" width="400">
 <br>
 <br>
 <br>
-<img src="/images/exercise3.png" width="50%">
+<img src="/images/exercise3.png" width="400">
 <br>
 <br>
 <br>
