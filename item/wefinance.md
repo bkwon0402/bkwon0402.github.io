@@ -75,11 +75,11 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 <br> 
 
-
+<br> 
 
 
 <div class="small_container">
-<br> 
+
 
 <p class="captionn"> <p style="text-align: center;"> New gradients ring I designed </p> </p> 
 
