@@ -271,7 +271,6 @@ However, after talking to more potential users, I decided to include the cheat s
 </div>
 
 <div class="text_center">
-
 	<img src="/images/cheatsheet.png" width="50%">
 	<br>
 	<br>
@@ -283,7 +282,13 @@ However, after talking to more potential users, I decided to include the cheat s
 
 </div>
 
+
+
 #Final Design 
+
+
+
+
 
 <div class="small_container">
 	Here's the invision prototype that showcases the final design.
