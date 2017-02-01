@@ -22,20 +22,22 @@ The inspiration for this project came from user research I did for a related pro
 
 <div class="small_container">
 	<a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources, i.e., my intelligent friends and second, the discussions that happen in the comments section are often interesting. 
+	<br> 
 
 	<p class="italic">“Sometimes I’m more interested in reading the news than personal updates”</p> 
 
 	<br>
 
 	However, the Newsfeed is often filled with content you are not interested in consuming. As my friend commented, “Sometimes I’m more interested in reading the news than personal updates,” users sometimes want their Newsfeed experience to be simplified. The product fulfills such user needs by presenting only what they are looking for.   
-	 
+	 <br> 
 	 <br> 
 	In addition, people do not always check Facebook and as a result, they sometimes miss articles. The product allows people to read news that they would otherwise have missed. 
 
 	<br>
 	<br>
+<br> 
 
-	# Design Goal: To Deliver a Great Reading Experience  
+# Design Goal: To Deliver a Great Reading Experience  
 
 	One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
 
@@ -48,7 +50,7 @@ The inspiration for this project came from user research I did for a related pro
 
 
 
-<img src="/images/feedly.png" width="700" />
+<div style="text-align: center;"><img src="/images/feedly.png" width="700" /></div> 
 <div style="text-align: center;"><div class="feedlycaption">Feedly offers only a preview of an article</div></div>
 
 
@@ -88,17 +90,17 @@ In addition, I wanted to have elements that help users share or manage articles 
   
 
 
-<img src="/images/option3.jpg" width="100%" style="transform: rotate(90deg);-webkit-transform: rotate(90deg);">
+<div style="text-align: center;"><img src="/images/option3.jpg" width="700" style="transform: rotate(90deg);-webkit-transform: rotate(90deg);"> </div> 
 
 <div class="small_container">
 	I decided against 1) because I wanted the full screen dedicated to the article without the menu.  Between 2) and 3), I initially chose 3) because it will not always be intuitive to users that the share/manage menu will appear when they scroll up. For users who want to use the share/manage menu but have not yet figured out that the menu appears when they scroll up, the button will give them more control. In designing option 3) I decided to place the button and menu on the bottom of the screen because eyes stay on the upper part of the screen and it will be less distracting to have the menu appear on the bottom. 
 	However, once I designed the high-fidelity mockup of 3), I realized that it’s a bit distracting to have a button on the bottom. 
 </div>
+<br>
 
 
 
-
-<img src="/images/bottombutton.png" style="box-shadow: 0px 8px 15px #eaeaea">
+<div style="text-align: center;"><img src="/images/bottombutton.png" style="box-shadow: 0px 8px 15px #eaeaea"></div>
 
 <div class="small_container">
 
