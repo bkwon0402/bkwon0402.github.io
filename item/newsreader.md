@@ -23,7 +23,7 @@ The inspiration for this project came from user research I did for a related pro
 <div class="small_container">
 	<a class="hyperlink" href="http://www.journalism.org/2015/06/01/facebook-top-source-for-political-news-among-millennials/">A Pew study</a> confirms that Facebook is by far the top news source for political news among millennials. I think millennials like to read posts Facebook friends shared because first, they come from trustworthy sources, i.e., my intelligent friends and second, the discussions that happen in the comments section are often interesting. 
 	<br> 
-
+<br>
 	<p class="italic">“Sometimes I’m more interested in reading the news than personal updates”</p> 
 
 	<br>
