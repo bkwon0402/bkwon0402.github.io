@@ -74,7 +74,7 @@ Once we decided on Option 2, I designed new gradients and experimented further.
 
 
 
-
+<br> 
 
 
 
@@ -104,8 +104,10 @@ Here are some of the new ideas I tried.
 
 
 <div class="small_container">
-<p class="captionnn">Original idea</p> 
+<p class="captionnn"><p style="text-align: center;"> Original idea</p> </p> 
 
+
+<br> 
 After varying fonts, character spacing, and colors, we found the right combination. 
 </div>
 
@@ -149,6 +151,7 @@ And here is the final logo:
 
 
 <img src="/images/logo16.png" style="width: 900px;"/>
+<br> 
 <img src="/images/logo17.png" width="150"/>
 
 </div>
@@ -160,6 +163,7 @@ I was new to logo design, but am happy with how things went. I designed the logo
 
 <br>
 </div>
+<br> 
 
 # Icon Design  
 
@@ -171,14 +175,14 @@ I also designed icons using the gradients I designed for the logo.
 <div class="text_center">
 
 
-<img src="/images/logo18.png" width="100%">
+<img src="/images/logo18.png" width=150>
 
 </div>
 
 
 
 <br>
-
+<br> 
 # Email Newsletter Redesign 
 
 <div class="small_container">
@@ -197,7 +201,7 @@ I also worked on an email newsletter redesign proposal. The newsletter, which fe
 
 <div class="small_container">
 
-<p class="caption4">WeFinance’s original email newsletter </p>
+<p class="caption4"><p style="text-align: center;">WeFinance’s original email newsletter </p></p> 
 <br>
 
 In designing the newsletter, there were two things I kept in mind.  
@@ -223,7 +227,7 @@ Here is the final design.
 <img src="/images/newsletterredesign.png" style="width: 700px;"/>
 
 </div>
-
+<br> 
 
 # What I would've done differently 
 
