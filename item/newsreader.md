@@ -35,10 +35,9 @@ The inspiration for this project came from user research I did for a related pro
 
 	<br>
 	<br>
- 
-
-<h1>Design Goal: To Deliver a Great Reading Experience</h1>    
-
+	
+#Design Goal: To Deliver a Great Reading Experience   
+<br> 
 
 	One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
 
@@ -171,7 +170,7 @@ I thought c) made sense and made it as the default option. In this option, artic
 	<br>
 	 <br> 
 
-<h1> Final Design</h1>  
+#Final Design  
 
 <br> 
 	A user logs in. 
