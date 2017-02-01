@@ -36,7 +36,7 @@ The inspiration for this project came from user research I did for a related pro
 	<br>
 	<br>
  
-# Design Goal: To Deliver a Great Reading Experience  
+<p font-family="Calluna"> Design Goal: To Deliver a Great Reading Experience <p>  
 <br> 
 <br> 
 	One key design goal I had in mind was to deliver a great reading experience. I think web-based news readers can do a better job at delivering a pleasant reading experience. 
