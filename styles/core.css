@@ -131,8 +131,7 @@ h1 {}
     position: absolute;
     top: 0;
     left: 0;
-    width: 70%;
-    height: 70%;
+
 }
 
 #hero {
@@ -224,6 +223,7 @@ h1 {}
 .portfolio a:hover .sample {
     box-shadow: 0px 0px 12px #eee;
 }
+
 
 .details {
     margin-top: 13px;
