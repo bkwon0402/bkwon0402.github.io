@@ -23,7 +23,8 @@ I used Keynote to create the video. With no previous experience with Keynote, I 
 
 <div class="video_wrapper">
 
-	<iframe src="https://player.vimeo.com/video/115524829" width="500" height="280.7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/115524829" width: 100%;
+    height: 100%; frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
