@@ -16,7 +16,7 @@ I designed a website mockup for ClearEar, a medical device startup. ClearEar off
 
 <br>
 </div>
-
+<br> 
 
 
 # My Process 
