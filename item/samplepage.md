@@ -54,21 +54,26 @@ Finally, I work on visual design and bring content to life. The company already 
 <br>
 <br> 
 Here is the landing page. 
+</div>
 
 
 
 
-<div style="text-align: center;"><img src="/images/clearearlandingpage.png" width="1200" /></div> 
+<div style="text-align: center;"><img src="/images/clearearlandingpage.png" width="1000" /></div> 
 
 <br>
+<div class="small_container">
 Here is the about page. 
+</div> 
 <br>
 <br>
 
-<img src="/images/clearearabout.png">
+<div style="text-align: center;"><img src="/images/clearearabout.png" width="1000" /></div> 
 
 <br>
+<div style="text-align: center;"><div class="small_container" width="1000" />  </div> 
 Here is the landing page with the top navigation bar shown. 
+</div> 
 <br>
 <br> 
 
@@ -76,4 +81,3 @@ Here is the landing page with the top navigation bar shown.
 
 
 <br>
-</div>
