@@ -54,7 +54,7 @@ Finally, I work on visual design and bring content to life. The company already 
 <br>
 <br> 
 Here is the landing page. 
-	</div>
+
 
 
 
@@ -76,4 +76,4 @@ Here is the landing page with the top navigation bar shown.
 
 
 <br>
-
+</div>
