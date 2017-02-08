@@ -59,7 +59,7 @@ Here is the landing page.
 
 
 
-<div style="text-align: center;"><img src="/images/clearearlandingpage.png" width="1000" /></div> 
+<div style="text-align: center;"><img src="/images/clearearlandingpage.png" width="900" /></div> 
 
 <br>
 <div class="small_container">
@@ -68,17 +68,16 @@ Here is the about page.
 <br>
 <br>
 
-<div style="text-align: center;"><img src="/images/clearearabout.png" width="1000" /></div> 
+<div style="text-align: center;"><img src="/images/clearearabout.png" width="900" /></div> 
 
 <br>
-<div style="text-align: center;"><div class="small_container" width="1000" />  </div> 
 <div class="small_container">
 Here is the landing page with the top navigation bar shown. 
 </div> 
 <br>
 <br> 
 
-<img src="/images/cleareartopnav.png">
+<div style="text-align: center;"><img src="/images/cleareartopnav.png" width="900"/></div> 
 
 
 <br>
