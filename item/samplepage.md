@@ -58,7 +58,7 @@ Here is the landing page.
 
 
 
-<img src="/images/clearearlandingpage.png" width="100">
+<img src="/images/clearearlandingpage.png" width="1000">
 
 <br>
 Here is the about page. 
