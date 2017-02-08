@@ -72,6 +72,7 @@ Here is the about page.
 
 <br>
 <div style="text-align: center;"><div class="small_container" width="1000" />  </div> 
+<div class="small_container">
 Here is the landing page with the top navigation bar shown. 
 </div> 
 <br>
