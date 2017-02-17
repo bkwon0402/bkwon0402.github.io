@@ -126,7 +126,7 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 
 <br> 
 
-# Insight 1: Insight 1: users want a different rating system 
+# Insight 1: Users want a different rating system 
 
 
 <div class="small_container">
