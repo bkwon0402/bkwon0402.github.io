@@ -134,14 +134,15 @@ Here are some of the high fidelity mockups I put together to create an Invision 
 In designing the product, I had to decide what determines whether a brand or a product is reputable. I decided to have a small panel of normal Korean girls (10 or so) rate brands and products. My reasoning was that since most Korean girls are into skincare and are aware of major skincare brands and products, simply asking a small number of Korean girls would serve as an excellent measure.
 
 <br> 
+<br> 
 
 However, in testing with potential users, I found that they don't consider such a rating system trustworthy. 
-
+<br> 
 <br> 
 	<p class="italic">
 "The idea of a panel of Korean girls [10 or so] seems like a weak signal of whether a product is reputable, and would not instill much confidence in me as a consumer."  
 </p> 
-
+<br> 
 I've learned that users want to rely on the opinions of a few experts e.g. established Korean beauty personalities or many, many normal Korean women. While I still stand by the idea that a small panel of normal Korean women would do an excellent job, I decided not to interfere with users' mental models regarding what constitutes a credible rating system.     
 
 So instead of employing a small panel, I decided to aggregate reviews from Korea’s major cosmetics review sites and refer to external resources such as beauty awards to give ratings. In addition, a team of k-beauty experts e.g. beauty editors at major beauty magazines will help pick out best brands.  
@@ -159,6 +160,8 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 </div> 
 <br> 
+<br> 
+
 
 # Insight 2: Users want to know more than whether Korean girls have or haven’t heard of it. 
 
