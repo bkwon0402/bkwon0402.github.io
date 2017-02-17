@@ -25,12 +25,13 @@ sub:
 
 <div class="small_container">
 	The four wings consist of:  
+	<br> 
 
 Wing 1: Focus - identify a single, concrete, measurable goal <br>
 Wing 2: Grab - make someone look <br>
 Wing 3: Engage - foster personal connection <br>
 Wing 4: Take Action - enable and empower others 
-
+<br>
 <br>
 My job was to infuse psychological research into the four wings. This consisted of three steps. 
 First, I read relevant articles in behavioral science - mainly in social psychology and behavioral economics, some in cognitive psychology and management science. Second, I extracted relevant psychological insights from the articles that support the ideas presented in Wing 1-4. Lastly, I came up with copy that explains how the insights support the ideas, and added the copy to the draft of the book where it is relevant.     
