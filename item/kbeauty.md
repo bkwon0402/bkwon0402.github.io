@@ -143,6 +143,7 @@ I've learned that users want to rely on the opinions of a few experts e.g. estab
 So instead of employing a small panel, I decided to aggregate reviews from Korea’s major cosmetics review sites and refer to external resources such as beauty awards to give ratings. In addition, a team of k-beauty experts e.g. beauty editors at major beauty magazines will help pick out best brands.  
 <br> 
 
+<br> 
 <div class="text_center">
 
 <img src="/images/about.png" width="400">
