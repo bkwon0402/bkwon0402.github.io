@@ -145,7 +145,7 @@ So instead of employing a small panel, I decided to aggregate reviews from Korea
 
 <br> 
 <div class="text_center">
-
+<br> 
 <img src="/images/about.png" width="400">
 
 <br>
