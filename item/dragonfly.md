@@ -19,9 +19,7 @@ sub:
 	The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results.
 </div> 
 
-<div class="text_center">
-	<img src="/images/dragonflyeffet.jpg" width="600">
-</div>
+<br>
 
 <div class="small_container">
 	The four wings consist of:  
