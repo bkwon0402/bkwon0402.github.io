@@ -1,8 +1,8 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Social newsreader - ux/ui
+title: 
 sub: 
 --- 
 
-test what? 
+Contact me for more information :) 
