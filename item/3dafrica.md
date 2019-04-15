@@ -16,7 +16,7 @@ I started the project by recruiting a talented writer, Dianna Bai, who wrote a b
 
 After I edited the script, I did quick but extensive research on pitch videos. I watched a number of nonprofit video campaigns, crowdfunding pitch videos, and companies’ video ads. I liked Apple’s video ads in particular for their simplicity, aesthetics, and effective use of music, and decided to create a video in that style.  
 
-I used Keynote to create the video. With no previous experience with Keynote, I had to figure things out myself. Fortunately, I was able to learn as I went along to create the final deliverable: 
+I used Keynote to create the video. Here's the final deliverable: 
 </div>
 
 <br>     
