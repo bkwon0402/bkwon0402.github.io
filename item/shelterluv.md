@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: The dragonfly effect - design research
+title: ShelterLuv - UX/UI 
 sub: 
 ---
 # The Challenge
@@ -23,6 +23,7 @@ sub:
 2)  Certain information (such as priority level) is critical and needs to be easily accessible.
 </div> 
 
+<br> 
 
 <h1> Final Designs </h1> 
 
