@@ -15,7 +15,7 @@ sub:
 <br> 
 
 <div class="text_center">
-	<img src="/images/slice.png" >
+	<img src="/images/Slice.png" >
 	<br>
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Final Design - Main Tile View</p> </div>
@@ -39,7 +39,7 @@ sub:
 	<br>
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Final Design - Animal Details View</p> </div>
-
+<br> 
 
 <div class="text_center">
 	<img src="/images/iframe3.png" >
@@ -59,11 +59,13 @@ sub:
 	<img src="/images/iframe5.png" >
 	<br>
 </div>
+<br> 
 
 <div class="text_center">
 	<img src="/images/iframe6.png" >
 	<br>
 </div>
+<br> 
 
 <div class="text_center">
 	<img src="/images/iframe7.png" >
