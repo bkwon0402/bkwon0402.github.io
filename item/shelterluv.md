@@ -63,7 +63,6 @@ re more mini-infographics I designed.
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluvdesktop.png" >
-	<br> 
 </div>
 
 <div class="small_container">
@@ -72,7 +71,62 @@ re more mini-infographics I designed.
 Here’re more screens from the project:
 </div>
 
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv4.png" >
+	<br> 
+</div>
+<br> 
 
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv5.png" >
+	<br> 
+</div>
+<br> 
+
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv5.png" >
+	<br> 
+</div>
+<br> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluvdesktop2.png" >
+</div>
+<br> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv6.png" >
+	<br> 
+</div>
+<br> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv7.png" >
+	<br> 
+</div>
+<br> 
+
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv8.png" >
+	<br> 
+</div>
+<br> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv9.png" >
+	<br> 
+</div>
+<br> 
 
 
 
