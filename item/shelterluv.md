@@ -99,6 +99,7 @@ Here’re more screens from the project:
 
 <br> 
 <br> 
+<br> 
 <div class="text_center">
 	<img src="/images/shelterluv7.png" >
 	<br> 
