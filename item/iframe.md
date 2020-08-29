@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: ShelterLuv - UX/UI 
+title: ShelterLuv - ux/ui 
 sub: 
 ---
 # The Challenge
