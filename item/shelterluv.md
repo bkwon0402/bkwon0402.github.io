@@ -31,9 +31,9 @@ sub:
 
 <div class="text_center">
 	<img src="/images/shelterluv1.png" >
-	<br> 
+	<br>
 </div>
-
+<br> 
 <div class="small_container">
 	Once users log in, they have immediate access to their own to-do list arranged in order of priority. By making the to-do list front and center, I’ve enabled the product to become a true part of and enhance user workflow. In addition, based on the insight that an item’s priority and status information are crucial pieces of information that determine whether/when users work on that item, I’ve made those pieces of information visually prominent (i.e., clear, large labels for priority information and a custom mini-progress bar for status information) so that users can easily scan the list for the information. 
 re more mini-infographics I designed. 
@@ -44,7 +44,7 @@ re more mini-infographics I designed.
 	<img src="/images/shelterluv2.png" >
 	<br> 
 </div>
-
+<br> 
 <div class="small_container">
 	Users also have real-time access to newly assigned items, which are made prominent visually using colors and an icon. This allows users to easily take note of and take action on those items. Moreover, the product makes it very easy to take action on items. There’s a clear section for action buttons at the bottom, and only key action buttons (i.e., Edit and Change Status buttons) are exposed, with the rest hidden under the More icon. Furthermore, the buttons are contextual—for example, when an item’s status is “New,” the button reads Open Activity (or Case) and when it’s “Open,” the button reads Close Activity (or Case). This contextuality lightens users’ cognitive load by making it very clear to them what actions they’re about to take.  
 </div>
