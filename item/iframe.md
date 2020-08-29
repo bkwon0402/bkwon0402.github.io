@@ -60,11 +60,13 @@ sub:
 	<br>
 </div>
 <br> 
+<br> 
 
 <div class="text_center">
 	<img src="/images/iframe6.png" >
 	<br>
 </div>
+<br> 
 <br> 
 
 <div class="text_center">
