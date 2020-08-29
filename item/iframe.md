@@ -49,7 +49,23 @@ sub:
 
 <br> 
 <div class="small_container">	
-	The new design enhances the experience of viewing a specific animal. Based on the powerful insight that imageries are crucial pieces of information to adopters, I designed an innovative display of imageries that allows adopters to not only easily scroll and navigate through photos but to take a large view,  seeing multiple photos at a time. In addition, new ‘sticky’ call-to-action buttons that stay on the page make it easy for users to take actions. Further, text content is now clearly organized and animal attributes are displayed visually, which makes it easy to scan through the page. Lastly, the new design also facilitates other types of interactions between the adopter and shelter such as donations and sharing animals with others. 
+	The new design enhances the experience of viewing a specific animal. Based on the powerful insight that imageries are crucial pieces of information to adopters, I designed an innovative display of imageries that allows adopters to not only easily scroll and navigate through photos but to take a large view,  seeing multiple photos at a time. In addition, new ‘sticky’ call-to-action buttons that stay on the page make it easy for users to take actions. Further, text content is now clearly organized and animal attributes are displayed visually, which makes it easy to scan through the page. Lastly, the new design also facilitates other types of interactions between the adopter and shelter such as donations and sharing animals with others.  
+	
+	Here're mobile designs: 
 </div>
 <br> 
 
+<div class="text_center">
+	<img src="/images/iframe5.png" >
+	<br>
+</div>
+
+<div class="text_center">
+	<img src="/images/iframe6.png" >
+	<br>
+</div>
+
+<div class="text_center">
+	<img src="/images/iframe7.png" >
+	<br>
+</div>
