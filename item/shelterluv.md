@@ -17,7 +17,7 @@ sub:
 
 <h1> User Needs </h1> 
 
-	Research has revealed that no existing software solution truly fulfilled target users’ needs. Among other things, users were frustrated that products were often inaccessible in the field and that it was difficult to view their own assigned items and track them. To create a groundbreaking product, I developed a full understanding of users’ goals and pain points. Key insights were: 
+	Research has revealed that no existing software solution truly fulfilled target users’ needs. Among other things, users were frustrated that products were often inaccessible in the field and that it was difficult to view their own assigned items and track them. To create a truly innovative product, I developed a full understanding of users’ goals and pain points. Key insights were: 
 
 1)  Users need real-time and easy access for viewing, editing, and creating new activities/cases.
 2)  Certain information (such as priority level) is critical and needs to be easily accessible.
@@ -48,6 +48,34 @@ re more mini-infographics I designed.
 <div class="small_container">
 	Users also have real-time access to newly assigned items, which are made prominent visually using colors and an icon. This allows users to easily take note of and take action on those items. Moreover, the product makes it very easy to take action on items. There’s a clear section for action buttons at the bottom, and only key action buttons (i.e., Edit and Change Status buttons) are exposed, with the rest hidden under the More icon. Furthermore, the buttons are contextual—for example, when an item’s status is “New,” the button reads Open Activity (or Case) and when it’s “Open,” the button reads Close Activity (or Case). This contextuality lightens users’ cognitive load by making it very clear to them what actions they’re about to take.  
 </div>
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv3.png" >
+	<br> 
+</div>
+<br> 
+
+<div class="small_container">
+	Users can very easily create new items. In addition to breaking down a long process into multiple small steps, the form guides users along by being conversational in its headings. It also utilizes tools like auto-fills and pickers wherever possible. 
+</div>
+
+
+<div class="text_center">
+	<img src="/images/shelterluvdesktop.png" >
+	<br> 
+</div>
+
+<br> 
+<div class="small_container">
+	In the desktop version, less emphasis is put on making an individual officer’s to-do list prominent and users can easily check out other officers’ assigned items. This makes sense because desktop users are often dispatch teams that assign items to officers. 
+
+Here’re more screens from the project:
+</div>
+
+
+
+
 
 
 
