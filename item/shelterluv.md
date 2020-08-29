@@ -60,13 +60,12 @@ re more mini-infographics I designed.
 	Users can very easily create new items. In addition to breaking down a long process into multiple small steps, the form guides users along by being conversational in its headings. It also utilizes tools like auto-fills and pickers wherever possible. 
 </div>
 
-
+<br> 
 <div class="text_center">
 	<img src="/images/shelterluvdesktop.png" >
 	<br> 
 </div>
 
-<br> 
 <div class="small_container">
 	In the desktop version, less emphasis is put on making an individual officer’s to-do list prominent and users can easily check out other officers’ assigned items. This makes sense because desktop users are often dispatch teams that assign items to officers. 
 
