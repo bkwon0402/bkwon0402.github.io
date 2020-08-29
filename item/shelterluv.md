@@ -90,9 +90,7 @@ Here’re more screens from the project:
 <div class="text_center">
 	<img src="/images/shelterluvdesktop2.png" >
 </div>
-<br> 
 
-<br> 
 <div class="text_center">
 	<img src="/images/shelterluv6.png" >
 	<br> 
@@ -100,13 +98,14 @@ Here’re more screens from the project:
 <br> 
 
 <br> 
+<br> 
 <div class="text_center">
 	<img src="/images/shelterluv7.png" >
 	<br> 
 </div>
 <br> 
 
-
+<br>
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluv8.png" >
@@ -115,12 +114,14 @@ Here’re more screens from the project:
 <br> 
 
 <br> 
+<br> 
 <div class="text_center">
 	<img src="/images/shelterluv9.png" >
 	<br> 
 </div>
 <br> 
 
+<br> 
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluv10.png" >
