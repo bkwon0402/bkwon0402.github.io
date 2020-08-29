@@ -7,17 +7,37 @@ sub:
 # The Challenge
 
 <div class="small_container">
-	While at Stanford, I had the privilege of working closely with General Atlantic Professor of Marketing Jennifer Aaker at the Stanford Graduate School of Business. I provided research assistance to the writing of her book The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference. As her research assistant, I was tasked with researching how you can tap psychological insights to design innovative products and helped to develop the theoretical framework of the book. 
+	I designed the web and mobile UX/UI for a product that allows government-based animal shelters to track animal-related law enforcement work they did in the community. The key design challenge was to make things mobile-friendly—the product is intended to help officers work more efficiently while doing fieldwork, so it was extremely important that the mobile product help them achieve their goals easily and efficiently. Tackling this design challenge started with developing a deep empathy with the people I was designing for. Based on the insights I gained, I prototyped ideas and eventually arrived at final solutions that catered to their needs. 
+
 </div>	 
 
 <br>
 
 <div class="small_container">
 
-<h1> The Book </h1> 
+<h1> User Needs </h1> 
 
-	The Dragonfly Effect: Quick, Effective, Powerful Ways to Use Social Media to Make a Difference shows how you can harness human-centered design and psychological insights to achieve a single, concrete goal. The book reveals the four "wings" of the dragonfly, and how they work together to produce significant results.
+	Research has revealed that no existing software solution truly fulfilled target users’ needs. Among other things, users were frustrated that products were often inaccessible in the field and that it was difficult to view their own assigned items and track them. To create a groundbreaking product, I developed a full understanding of users’ goals and pain points. Key insights were: 
+
+1)  Users need real-time and easy access for viewing, editing, and creating new activities/cases.
+2)  Certain information (such as priority level) is critical and needs to be easily accessible.
 </div> 
+
+
+<h1> Final Designs </h1> 
+
+
+<div class="text_center">
+	<img src="/images/shelterluv1.png" >
+	<br> 
+</div>
+
+<div class="small_container">
+	Once users log in, they have immediate access to their own to-do list arranged in order of priority. By making the to-do list front and center, I’ve enabled the product to become a true part of and enhance user workflow. In addition, based on the insight that an item’s priority and status information are crucial pieces of information that determine whether/when users work on that item, I’ve made those pieces of information visually prominent (i.e., clear, large labels for priority information and a custom mini-progress bar for status information) so that users can easily scan the list for the information. 
+re more mini-infographics I designed. 
+</div>
+
+
 
 <div class="small_container">
 	The four wings consist of:  
