@@ -27,11 +27,29 @@ sub:
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Original Design - Main Tile View</p> </div>
 
-
-
 <br> 
 <div class="small_container">
-	Once users log in, they have immediate access to their own to-do list arranged in order of priority. By making the to-do list front and center, I’ve enabled the product to become a true part of and enhance user workflow. In addition, based on the insight that an item’s priority and status information are crucial pieces of information that determine whether/when users work on that item, I’ve made those pieces of information visually prominent (i.e., clear, large labels for priority information and a custom mini-progress bar for status information) so that users can easily scan the list for the information. 
-re more mini-infographics I designed. 
+	The new design simplifies browsing for adopters. In the original design, adopters were simply viewing a long list of pictures and scrolling a lot (especially for the big shelters that have lots of adoptable animals). A set of filters now allow adopters to narrow in on specific animals they’re looking for. 
 </div>
 <br> 
+
+
+<div class="text_center">
+	<img src="/images/Slice 2.png" >
+	<br>
+</div>
+<div class="feedlycaption"><p style="text-align: center;">Final Design - Animal Details View</p> </div>
+
+
+<div class="text_center">
+	<img src="/images/iframe3.png" >
+	<br>
+</div>
+<div class="feedlycaption"><p style="text-align: center;">Original Design - Animal Details View</p> </div>
+
+<br> 
+<div class="small_container">	
+	The new design enhances the experience of viewing a specific animal. Based on the powerful insight that imageries are crucial pieces of information to adopters, I designed an innovative display of imageries that allows adopters to not only easily scroll and navigate through photos but to take a large view,  seeing multiple photos at a time. In addition, new ‘sticky’ call-to-action buttons that stay on the page make it easy for users to take actions. Further, text content is now clearly organized and animal attributes are displayed visually, which makes it easy to scan through the page. Lastly, the new design also facilitates other types of interactions between the adopter and shelter such as donations and sharing animals with others. 
+</div>
+<br> 
+
