@@ -35,7 +35,7 @@ sub:
 
 
 <div class="text_center">
-	<img src="/images/Slice 2.png" >
+	<img src="/images/cats.png" >
 	<br>
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Final Design - Animal Details View</p> </div>
@@ -56,7 +56,7 @@ sub:
 <br> 
 
 <div class="text_center">
-	<img src="/images/iframe5.png" >
+	<img src="/images/Tuesday.png" >
 	<br>
 </div>
 <br> 
