@@ -56,7 +56,7 @@ sub:
 <br> 
 
 <div class="text_center">
-	<img src="/images/Tuesday.png" >
+	<img src="/images/tuesday.png" >
 	<br>
 </div>
 <br> 
