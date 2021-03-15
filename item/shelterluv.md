@@ -68,7 +68,7 @@ Here’re more screens from the project:
 
 <br> 
 <div class="text_center">
-	<img src="/images/shelterluv4.png" >
+	<img src="/images/shelterluv new4.png" >
 	<br> 
 </div>
 <br> 
@@ -76,7 +76,7 @@ Here’re more screens from the project:
 
 <br> 
 <div class="text_center">
-	<img src="/images/shelterluv5.png" >
+	<img src="/images/shelterluv new5.png" >
 	<br> 
 </div>
 <br> 
