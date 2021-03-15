@@ -76,7 +76,7 @@ Here’re more screens from the project:
 
 <br> 
 <div class="text_center">
-	<img src="/images/shelterluv new5.png" >
+	<img src="/images/shelterluv new8.png" >
 	<br> 
 </div>
 <br> 
