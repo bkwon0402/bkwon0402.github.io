@@ -72,14 +72,14 @@ Here’re more screens from the project:
 	<br> 
 </div>
 <br> 
-
+<br> 
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluv new8.png" >
 	<br> 
 </div>
 <br> 
-
+<br> 
 
 <br> 
 <div class="text_center">
@@ -87,7 +87,7 @@ Here’re more screens from the project:
 	<br> 
 </div>
 <br> 
-
+<br> 
 
 <br> 
 <div class="text_center">
@@ -95,7 +95,7 @@ Here’re more screens from the project:
 	<br> 
 </div>
 <br> 
-
+<br> 
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluvdesktop2.png" >
