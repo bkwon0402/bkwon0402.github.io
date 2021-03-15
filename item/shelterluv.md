@@ -30,7 +30,7 @@ sub:
 
 
 <div class="text_center">
-	<img src="/images/shelterluv1.png" >
+	<img src="/images/shelterluv0.png" >
 	<br>
 </div>
 <br> 
@@ -40,7 +40,7 @@ sub:
 <br> 
 
 <div class="text_center">
-	<img src="/images/shelterluv2.png" >
+	
 	<br> 
 </div>
 <br> 
