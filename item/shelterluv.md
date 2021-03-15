@@ -81,6 +81,14 @@ Here’re more screens from the project:
 </div>
 <br> 
 
+
+<br> 
+<div class="text_center">
+	<img src="/images/shelterluv new6.png" >
+	<br> 
+</div>
+<br> 
+
 <br> 
 <div class="text_center">
 	<img src="/images/shelterluvdesktop2.png" >
