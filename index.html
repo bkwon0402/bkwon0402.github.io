@@ -40,10 +40,20 @@ input {
 	font-family: 'Lato', sans-serif;
 	background-color: #FCFCFC;
 	border-width: 0px; 
-	color: #8C8C8C;
 	text-align: left; 
 }
 	
+::placeholder {
+	color: #8C8C8C;
+}
+	
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #8C8C8C;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #8C8C8C;
+}
 	
 #loginbutton {
 	background-color: white; 
