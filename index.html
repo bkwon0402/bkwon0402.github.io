@@ -62,6 +62,16 @@ input::placeholder{
 input:focus {
 	 outline: none;	
 }
+
+    fieldset {
+      position: relative;
+    }
+
+    input {
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
 	
 #loginbutton {
 	background-color: white; 
@@ -117,7 +127,9 @@ div.vertical {
 		<div class="horizontal">
 			<div class="vertical">
 				<div class="box">
+					<fieldset> 
 					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
+					</fieldset> 
 					<button id="loginbutton" type="button">Enter</button>
 					<p id="wrongPassword" style="display: none">wrong password</p>
 				</div>
