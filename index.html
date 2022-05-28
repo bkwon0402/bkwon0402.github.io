@@ -78,11 +78,20 @@ button {
 	border-style: solid;
 }
 	
-	
 button:hover {
 	font-style: italic;
 }
 
+butgton::before {
+    display: block;
+    content: attr(title);
+    font-style: italic;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+	
+	
 div.horizontal {
 	display: flex;
 	justify-content: center;
@@ -127,7 +136,7 @@ div.vertical {
 			<div class="vertical">
 				<div class="box">
 					<input style="text-align: center;" id="password" type="password" placeholder="password" /> <br />
-					<button id="loginbutton" type="button">Enter</button>
+					<button id="loginbutton" type="button" title="Enter">Enter</button>
 					<p id="wrongPassword" style="display: none">wrong password</p>
 				</div>
 			</div>
