@@ -86,6 +86,7 @@ input:focus {
 	
 #loginbutton {
 	background-color: white; 
+	padding: 8px 20px; 
 }
 
 button {
@@ -95,22 +96,21 @@ button {
 	font-weight: normal; 
 	border-style: solid;
 	color: #595959;
-	width: 130px; 
 }
 	
 button:hover {
 	font-style: italic;
 }
 
-button::before {
-    display: block;
-    content: attr(title);
-    font-style: italic;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
+button::after {
+  display: block;
+  content: attr(title);
+  height: 0;
+  font-style:normal;
+  color: transparent;
+  overflow: hidden;
+  visibility: hidden;
 }
-	
 	
 div.horizontal {
 	display: flex;
