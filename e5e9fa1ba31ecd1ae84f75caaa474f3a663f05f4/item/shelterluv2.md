@@ -38,6 +38,15 @@ I quickly noted that the wireframes don’t meet critical user needs and that it
 	<br> 
 </div>
 <br> 
+<div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
+<br> 
+
+
+
+<div class="small_container">
+First, the product falls short of meeting the expectations of enabling users (i.e officers resolving animal-related incidents in the community) to efficiently track their work because users can’t easily update information on cards. Currently, users need to click on the more button located on the top right of the card to access the list of actions they can take. 
+
+</div> 
 
 
 
