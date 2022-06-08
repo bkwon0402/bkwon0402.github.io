@@ -26,7 +26,7 @@ When I joined the project, the PM provided key information on the product as wel
 
 <div class="small_container">
 
-<h1> User-centered Designs </h1> 
+<h1> User-Centered Design </h1> 
 
 I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided. 
 </div> 
