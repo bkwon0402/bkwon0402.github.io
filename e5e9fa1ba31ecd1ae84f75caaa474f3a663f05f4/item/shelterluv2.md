@@ -34,7 +34,7 @@ I quickly noted that the wireframes don’t meet critical user needs and that it
 <br> 
 
 <div class="text_center">
-	<img src="/images/sl1.png" width="600" >
+	<img src="/images/sl1.png" width="800" >
 	<br> 
 </div>
 <br> 
