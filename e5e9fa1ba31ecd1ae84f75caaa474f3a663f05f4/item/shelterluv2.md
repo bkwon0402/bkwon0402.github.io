@@ -22,6 +22,7 @@ I worked with the PM at Shelterluv to help design the Field Services product, a 
 When I joined the project, the PM provided key information on the product as well as web wireframes for some of the key pages. After reviewing the information, I asked clarifying questions then started thinking through the UX in the wireframes.  
 
 </div> 
+<br> 
 
 <div class="small_container">
 
