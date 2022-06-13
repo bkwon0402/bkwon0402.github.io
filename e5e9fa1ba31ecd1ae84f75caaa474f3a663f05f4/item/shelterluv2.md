@@ -48,6 +48,17 @@ First, the product falls short of meeting the expectations of enabling users (i.
 </div> 
 
 
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl2.png" width="500" >
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">The <em> more </em> button on top right  </p> </div>
+<br> 
+
+
 
 
 
