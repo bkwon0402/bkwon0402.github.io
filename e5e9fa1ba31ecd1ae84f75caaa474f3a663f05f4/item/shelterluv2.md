@@ -155,3 +155,15 @@ We were excited to find, based on these user tests, that folks had no problem ta
 In other rounds of testing, we iterated based on feedback. For example, we found that filters on the web had a usability issue and we moved the checkboxes to the left of selections so that it’s clearer to users what selections they’re making. 
 </div> 
 <br> 
+
+
+<div class="text_center">
+	<img src="/images/sl8.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: Original design <strong>Right</strong>: Improved design
+   </p> </div>
+<br> 
+
