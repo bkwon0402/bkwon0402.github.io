@@ -34,4 +34,23 @@ Armed with this insight, I set out to first reorganize content and, second, deve
 <br> 
 
 
-	
+<div class="text_center">
+	<img src="/images/avail1.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+Content and questions lists that I refined with the PM 
+   </p> </div>
+<br> 
+
+<div class="small_container">
+Finally, I developed wireframes, which we iterated multiple times per user feedback.  
+</div> 
+<br> 
+
+# Designing with Technical Constraints 
+
+<div class="small_container">
+Noting that we couldn’t make any structural changes since the engineering team was unavailable, I made use of CSS rewriting to revamp designs. For example, the platform presents selections of topics in the following way: 
+</div> 
+
