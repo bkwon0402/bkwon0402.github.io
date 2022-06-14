@@ -134,3 +134,13 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 Third, I tested prototypes with users to validate and iterate design decisions and clear any doubts we had. For example, we liked the idea of keeping things simple by not using column headers on cards. 
 </div> 
 <br>
+
+div class="text_center">
+	<img src="/images/sl7.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: Column headers (e.g. Activity type/subtype) used on cards <strong>Right</strong>: Column headers are not used on cards 
+   </p> </div>
+<br> 
