@@ -123,7 +123,7 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 	<br> 
 </div>
 <br> 
-<div class="feedlycaption"><p style="text-align: center;"> Final designs of how I visualized status information <strong> Left </strong>: mobile <strong>Right </strong>: web 
+<div class="feedlycaption"><p style="text-align: center;"> Final designs of how I visualized status information <strong>Left</strong>: mobile <strong>Right</strong>: web 
    </p> </div>
 <br> 
 
