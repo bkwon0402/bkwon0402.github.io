@@ -192,7 +192,22 @@ In designing the web product, on the other hand, I kept in mind that users are l
 </div>
 <br> 
 <div class="feedlycaption"><p style="text-align: center;">
-	<strong>Left</strong>: <em>All Activities & Cases</em>on mobile <strong>Right</strong>:  <em>All Activities & Cases</em>on web 
+	<strong>Left</strong>: <em>All Activities & Cases </em>on mobile <strong>Right</strong>:  <em>All Activities & Cases </em>on web 
    </p> </div>
 <br> 
+
+<div class="small_container"> 
+Fifth, I reviewed research on UX as I designed and shared UX research insights with the team in order to quickly get buy-in. For example, the form wireframes that the team originally created had usability issues. 
+</div> 
+
+<div class="text_center">
+	<img src="/images/sl11.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	Form wireframe the team provided 
+   </p> </div>
+<br> 
+
 
