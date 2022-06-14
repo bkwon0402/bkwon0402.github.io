@@ -181,3 +181,7 @@ Fourth, I carefully considered how user needs might shift depending on user choi
 	Mobile homepage
    </p> </div>
 <br> 
+
+<div class="small_container"> 
+In designing the web product, on the other hand, I kept in mind that users are likely to have  different needs. While an individual officer may well want to review their workflow on the web, it’s also likely that the organization as a whole, including dispatch officers who assign work, will use the web interface to review workflow at the organization level. Keeping organizational needs in mind, I designed the web product so that users have easier access to All Activities & Cases. In the mobile product, All Activities & Cases is in the hamburger menu and made less prominent, though still accessible. 
+</div> 
