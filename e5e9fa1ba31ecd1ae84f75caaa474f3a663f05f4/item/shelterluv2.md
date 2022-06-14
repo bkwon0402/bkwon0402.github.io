@@ -66,15 +66,22 @@ Second, users couldn’t efficiently review their assigned work because the tab 
 
 
 <div class="small_container">
-Third, the Assigned to filter on top right complicates workflow for an individual officer since they need to go through the extra step of clicking their name to start reviewing assigned work. Further, the organization as a whole needs to be able to easily review workflow for all officers, so I felt it was necessary that we revamp the designs to cater to the needs of both individual users’ and the organization.  
+	Third, the <em> Assigned to </em> filter on top right complicates workflow for an individual officer since they need to go through the extra step of clicking their name to start reviewing assigned work. Further, the organization as a whole needs to be able to easily review workflow for all officers, so I felt it was necessary that we revamp the designs to cater to the needs of both individual users’ and the organization.  
 </div> 
 
 
 
 <div class="small_container">
-Lastly, users couldn’t easily understand Priority Level, a piece of information that user research showed us to be critical to users. In the original design, Priority Level consisted of the vertical color strip on the left side of the card and text info (e.g. Priority: 1) on the card. 
+	Lastly, users couldn’t easily understand <em>Priority Level</em>, a piece of information that user research showed us to be critical to users. In the original design, Priority Level consisted of the vertical color strip on the left side of the card and text info (e.g. Priority: 1) on the card. 
 </div> 
 
+<div class="text_center">
+	<img src="/images/sl1.png" width="800" >
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">Current <em>Priority Level</em> designs </p> </div>
+<br> 
 
 
 
