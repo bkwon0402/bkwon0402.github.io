@@ -117,3 +117,13 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 <div class="small_container"> 
 	After prototyping, I eventually came up with mini progress bar icons that fit right in with the other icons used in the web product. 
 </div> 
+<br> 	
+<div class="text_center">
+	<img src="/images/sl6.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;"> Final designs of how I visualized status information <strong> Left </strong>: mobile <strong>Right </strong>: web 
+   </p> </div>
+<br> 
+
