@@ -37,7 +37,6 @@ I quickly noted that the wireframes don’t meet critical user needs and that it
 	<img src="/images/sl1.png" width="800" >
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
 <br> 
 
@@ -54,7 +53,6 @@ First, the product falls short of meeting the expectations of enabling users (i.
 	<img src="/images/sl2.png" width="300" >
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">The <em> more </em> button on top right  </p> </div>
 <br> 
 
@@ -73,7 +71,6 @@ Second, users couldn’t efficiently review their assigned work because the tab 
 	<img src="/images/sl3.png" width="800" >
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">Current <em>Priority Level</em> designs </p> </div>
 <br> 
 
@@ -110,7 +107,6 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 	<img src="/images/sl5.png" width="800" >
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;"> Initial prototype of how I visualized status information   </p> </div>
 <br> 
 
@@ -122,7 +118,6 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 	<img src="/images/sl6.png">
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;"> Final designs of how I visualized status information <strong>Left</strong>: mobile <strong>Right</strong>: web 
    </p> </div>
 <br> 
@@ -139,7 +134,6 @@ Third, I tested prototypes with users to validate and iterate design decisions a
 	<img src="/images/sl7.png" width="800">
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">
 	<strong>Left</strong>: Column headers (e.g. Activity type/subtype) used on cards <strong>Right</strong>: Column headers are not used on cards 
    </p> </div>
@@ -161,7 +155,6 @@ In other rounds of testing, we iterated based on feedback. For example, we found
 	<img src="/images/sl8.png">
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">
 	<strong>Left</strong>: Original filter design  <strong>Right</strong>: Improved filter design
    </p> </div>
@@ -176,7 +169,6 @@ Fourth, I carefully considered how user needs might shift depending on user choi
 	<img src="/images/sl9.png"  width="800">
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">
 	Mobile homepage
    </p> </div>
@@ -190,7 +182,6 @@ In designing the web product, on the other hand, I kept in mind that users are l
 	<img src="/images/sl10.png">
 	<br> 
 </div>
-<br> 
 <div class="feedlycaption"><p style="text-align: center;">
 	<strong>Left</strong>: <em>All Activities & Cases </em>on mobile <strong>Right</strong>:  <em>All Activities & Cases </em>on web 
    </p> </div>
