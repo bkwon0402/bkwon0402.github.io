@@ -210,4 +210,7 @@ Fifth, I reviewed research on UX as I designed and shared UX research insights w
    </p> </div>
 <br> 
 
+<div class="small_container"> 
+To help guide the design process, I reviewed UX research on the topic and shared key insights with the team.
+</div> 
 
