@@ -9,7 +9,7 @@ sub:
 <div class="small_container">
 I worked with the product team at Avail Medsystems to help create their first digital help center. Avail is a healthtech startup offering a software and hardware system that allows medical professionals to collaborate real-time. The help center (eIFU) was to be an electronic version of IFU (Instructions for Use), which lays out detailed, step-by-step instructions for using medical products.  
 </div>	 
-
+<br>
 # The Challenge
 
 <div class="small_container">
@@ -21,6 +21,7 @@ The biggest challenge was to design with technical constraints. When I joined th
 	<br>
 In addition, the 100-page IFU on which the eIFU was to be based wasn’t well-written. The topics weren’t well-organized and the content needed refinement. Avail’s product operates in a very complex ecosystem — there are multiple user groups and subgroups and each group has access to different features and devices. To create an excellent user experience for different parties, I was challenged to completely rethink how to present content. 
 </div>	 
+<br>
 
 # Understanding the Opportunity 
 
