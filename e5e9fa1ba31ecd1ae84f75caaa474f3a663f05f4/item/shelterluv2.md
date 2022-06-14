@@ -192,7 +192,7 @@ Fifth, I reviewed research on UX as I designed and shared UX research insights w
 </div> 
 
 <div class="text_center">
-	<img src="/images/sl11.png">
+	<img src="/images/sl11.png" width="800">
 	<br> 
 </div>
 <br> 
