@@ -76,7 +76,7 @@ Second, users couldn’t efficiently review their assigned work because the tab 
 </div> 
 
 <div class="text_center">
-	<img src="/images/sl1.png" width="800" >
+	<img src="/images/sl3.png" width="800" >
 	<br> 
 </div>
 <br> 
