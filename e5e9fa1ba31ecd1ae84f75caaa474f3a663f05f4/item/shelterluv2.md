@@ -222,7 +222,7 @@ To help guide the design process, I reviewed UX research on the topic and shared
 	Final form designs
    </p> </div>
 <br> 
-
+<br> 
 # What I would do differently 
 <div class="small_container"> 
 I’d reduce whitespace on cards on mobile, particularly in the middle section where the address and assigned officer information are found. This way, users could review more cards/info as they scroll down. I’d also reconsider how we did icon designs on mobile cards. While we liked the idea of keeping things simple and not using icons on mobile cards, we kept the person icon for the assigned officer info since we thought that might help people more easily digest information as a whole. However, I’d explore other ways to represent information so that information flows a bit better. 
