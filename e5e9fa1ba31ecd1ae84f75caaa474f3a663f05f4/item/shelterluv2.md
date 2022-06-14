@@ -127,3 +127,10 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
    </p> </div>
 <br> 
 
+<div class="small_container"> 
+	These icons were not only received well by the users but also straightforward to implement from a technical standpoint. Furthermore, they help create a coherent user experience because they go well with the other icons used in the web cards.    
+<br>
+<br> 
+Third, I tested prototypes with users to validate and iterate design decisions and clear any doubts we had. For example, we liked the idea of keeping things simple by not using column headers on cards. 
+</div> 
+<br>
