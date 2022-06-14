@@ -136,7 +136,7 @@ Third, I tested prototypes with users to validate and iterate design decisions a
 <br>
 
 <div class="text_center">
-	<img src="/images/sl7.png">
+	<img src="/images/sl7.png" width="800">
 	<br> 
 </div>
 <br> 
