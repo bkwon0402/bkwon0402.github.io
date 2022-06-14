@@ -92,7 +92,10 @@ However, it makes more sense to merge the color strip and the text info; otherwi
 The team was excited to receive my r feedback. Here is the final high-fidelity mockup of the same page.   
 </div> 
 
-
+<div class="text_center">
+	<img src="/images/sl4.png" >
+	<br> 
+</div>
 
 # Takeaway 
  
