@@ -99,8 +99,10 @@ In the final design, users are able to easily take key actions on cards (less im
 <div class="small_container"> 
 Arriving at the final high-fidelity mockups took close collaboration with the team, which I achieved in the following ways: 
 <br> 
+<br>
 First, once I shared UX feedback on the web wireframes, I started prototyping mobile designs.   It was extremely important that the product be mobile-friendly, since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made complete sense.  
 <br> 
+<br>
 Second, I and I and the PM  started building each other’s ideas, which pushed us to create more creative solutions. For example, the PM liked the idea of putting the status information on top right of the card because easy discoverability will help users readily understand status. I liked this direction too, and started exploring visualizing information so that it becomes even easier for users to register status information at a glance.
 </div> 
 	
