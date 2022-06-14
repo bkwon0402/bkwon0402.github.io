@@ -214,3 +214,12 @@ Fifth, I reviewed research on UX as I designed and shared UX research insights w
 To help guide the design process, I reviewed UX research on the topic and shared key insights with the team.
 </div> 
 
+<div class="text_center">
+	<img src="/images/sl12.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	Some of the UX research insights I shared with the team 
+   </p> </div>
+<br> 
