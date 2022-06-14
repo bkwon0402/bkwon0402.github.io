@@ -163,7 +163,7 @@ In other rounds of testing, we iterated based on feedback. For example, we found
 </div>
 <br> 
 <div class="feedlycaption"><p style="text-align: center;">
-	<strong>Left</strong>: Original design <strong>Right</strong>: Improved design
+	<strong>Left</strong>: Original filter design  <strong>Right</strong>: Improved filter design
    </p> </div>
 <br> 
 
