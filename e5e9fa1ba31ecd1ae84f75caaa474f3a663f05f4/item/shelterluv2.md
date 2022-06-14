@@ -105,11 +105,9 @@ First, once I shared UX feedback on the web wireframes, I started prototyping mo
 <br>
 Second, I and I and the PM  started building each other’s ideas, which pushed us to create more creative solutions. For example, the PM liked the idea of putting the status information on top right of the card because easy discoverability will help users readily understand status. I liked this direction too, and started exploring visualizing information so that it becomes even easier for users to register status information at a glance.
 </div> 
-	
-
-# Takeaway 
- 
-<div class="small_container">
-
-	A designer’s job is not just to make things pretty, but to make things work better. The idea that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
+<br> 	
+<div class="text_center">
+	<img src="/images/sl5.png" >
+	<br> 
 </div>
+
