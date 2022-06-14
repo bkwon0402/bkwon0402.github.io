@@ -144,3 +144,14 @@ div class="text_center">
 	<strong>Left</strong>: Column headers (e.g. Activity type/subtype) used on cards <strong>Right</strong>: Column headers are not used on cards 
    </p> </div>
 <br> 
+
+<div class="small_container"> 
+However, noting that our hunches could be proved wrong (in fact, I thought not using labels for status on top right might leave users confused), we tested prototypes with users. During this process, I took the initiative to test other things that we can test at this stage. For example, while we hadn’t worked on screens other than the homepage, I put together a clickable prototype that linked the homepage to rough prototypes of other key pages so that we could test whether users are able to accurately take intended actions on cards while on the homepage. It’s better to fail early and course- correct than wait until you have full designs ready, so I felt that it was the right call to test additional features at that point.  
+<br>
+<br> 
+We were excited to find, based on these user tests, that folks had no problem taking actions on cards and that the information on cards all made sense to them even without the labels. 
+<br>
+<br> 
+In other rounds of testing, we iterated based on feedback. For example, we found that filters on the web had a usability issue and we moved the checkboxes to the left of selections so that it’s clearer to users what selections they’re making. 
+</div> 
+<br> 
