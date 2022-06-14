@@ -167,3 +167,17 @@ In other rounds of testing, we iterated based on feedback. For example, we found
    </p> </div>
 <br> 
 
+<div class="small_container"> 
+Fourth, I carefully considered how user needs might shift depending on user choice of device. For example, in designing the mobile product, I kept in mind that users often depend on the mobile product to keep track of their own assigned work while in the field. Hence, the designs immediately present today’s to-do list once users open the app — and the list is organized in the order of priority so it’s extremely easy to review workflow, and users can easily update information on cards. 
+</div> 
+
+
+<div class="text_center">
+	<img src="/images/sl9.png"  width="800">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	Mobile homepage
+   </p> </div>
+<br> 
