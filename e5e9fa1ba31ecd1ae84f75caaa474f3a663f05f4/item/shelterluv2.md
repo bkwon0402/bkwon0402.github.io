@@ -51,7 +51,7 @@ First, the product falls short of meeting the expectations of enabling users (i.
 <br> 
 
 <div class="text_center">
-	<img src="/images/sl2.png" width="500" >
+	<img src="/images/sl2.png" width="300" >
 	<br> 
 </div>
 <br> 
