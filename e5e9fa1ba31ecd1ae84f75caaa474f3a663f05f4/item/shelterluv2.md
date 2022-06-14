@@ -110,4 +110,10 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 	<img src="/images/sl5.png" >
 	<br> 
 </div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;"> Initial prototype of how I visualized status information   </p> </div>
+<br> 
 
+<div class="small_container"> 
+	After prototyping, I eventually came up with mini progress bar icons that fit right in with the other icons used in the web product. 
+</div> 
