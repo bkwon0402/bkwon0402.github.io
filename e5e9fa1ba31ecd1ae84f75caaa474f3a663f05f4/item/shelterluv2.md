@@ -62,19 +62,19 @@ First, the product falls short of meeting the expectations of enabling users (i.
 <div class="small_container">
 Second, users couldn’t efficiently review their assigned work because the tab menu separates Activities and Cases. From an officer’s point of view, it’s not so important whether an incident is classified as an Activity or a Case (this distinction exists for legal purposes). What matters to them is that they can quickly review their work, so merging the Activities and Cases tabs makes sense.  
 </div> 
-<br> 
+
 
 
 <div class="small_container">
 Third, the Assigned to filter on top right complicates workflow for an individual officer since they need to go through the extra step of clicking their name to start reviewing assigned work. Further, the organization as a whole needs to be able to easily review workflow for all officers, so I felt it was necessary that we revamp the designs to cater to the needs of both individual users’ and the organization.  
 </div> 
-<br> 
+
 
 
 <div class="small_container">
 Lastly, users couldn’t easily understand Priority Level, a piece of information that user research showed us to be critical to users. In the original design, Priority Level consisted of the vertical color strip on the left side of the card and text info (e.g. Priority: 1) on the card. 
 </div> 
-<br> 
+
 
 
 
