@@ -161,3 +161,19 @@ Original eIFU homepage, with a link for internal use by Avail’s engineers
 Final live eIFU homepage, where I deleted content for engineers (in addition, I edited CSS to apply Avail’s brand style and designed custom icons and the cover photo)  
    </p> </div>
 <br> 
+
+<div class="small_container">
+Second, we gathered useful feedback on the tone. Folks found the “I want help with…” tone (vs. simply stating the task) to be friendly and helpful, so we went with that tone.   
+</div> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/avail10.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: buttons have “I want help with…” tone <strong>Right</strong>: buttons state tasks 
+   </p> </div>
+<br> 
+
