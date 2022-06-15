@@ -134,3 +134,30 @@ The custom-created summary section enables users to easily navigate content
 <br> 
 
 <h1> Iterations </h1> 
+<div class="small_container">
+We learned useful insights from sharing prototypes with users. 
+<br>
+<br> 
+First, while we initially planned to include content in the eIFU for Avail's engineers to use when providing technical help, too, we learned it’s better not to since Avail positions itself as a white-glove service provider and it’s best to take care of internal needs in a non client-facing place. 
+</div> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/avail8.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+Original eIFU homepage, with a link for internal use by Avail’s engineers  
+   </p> </div>
+<br> 
+<br> 
+<div class="text_center">
+	<img src="/images/avail9.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+Final live eIFU homepage, where I deleted content for engineers (in addition, I edited CSS to apply Avail’s brand style and designed custom icons and the cover photo)  
+   </p> </div>
+<br> 
