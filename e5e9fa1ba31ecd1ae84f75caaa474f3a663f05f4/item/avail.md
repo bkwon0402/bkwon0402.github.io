@@ -63,8 +63,17 @@ How the platform presents selections
    </p> </div>
 <br> 
 
-
 <div class="small_container">
 However, users aren’t familiar with navigating through content in this way —  a single column list of text links — as buttons aren’t commonplace and further, users aren’t used to using the “Prev” and “Next” buttons on the bottom to navigate through topics. While I felt that the default designs could potentially work if we present multiple groups of topics on the same page like some other help centers do (see the example below), the platform didn’t allow presenting multiple groups of topics, so I had to think of other ways to make things work.  
 </div> 
+
+<div class="text_center">
+	<img src="/images/avail3.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+Airbnb’s help center presents multiple groups of topics 
+   </p> </div>
+<br> 
+
 
