@@ -89,3 +89,14 @@ To revamp the designs, I rewrote CSS to create designs that present selections i
 	<br> 
 </div>
 <br> 
+
+<div class="small_container">
+The new designs convert the list of text links into buttons and remove unnecessary elements such as the “In this section” header and the “Prev” and “Next” buttons. Here’s the final design for the page, in which I added visual elements like icons and colors to create a more cohesive experience for users:
+</div> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/avail5.png">
+	<br> 
+</div>
+<br> 
