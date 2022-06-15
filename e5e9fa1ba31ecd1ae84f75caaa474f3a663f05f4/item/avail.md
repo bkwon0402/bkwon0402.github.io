@@ -10,7 +10,9 @@ sub:
 I worked with the product team at Avail Medsystems to help create their first digital help center. Avail is a healthtech startup offering a software and hardware system that allows medical professionals to collaborate real-time. The help center (eIFU) was to be an electronic version of IFU (Instructions for Use), which lays out detailed, step-by-step instructions for using medical products.  
 </div>	 
 <br>
-# The Challenge
+
+<h1> The Challenge </h1> 
+
 
 <div class="small_container">
 As I started working on the project, I encountered two challenges.
@@ -22,7 +24,7 @@ The biggest challenge was to design with technical constraints. When I joined th
 In addition, the 100-page IFU on which the eIFU was to be based wasn’t well-written. The topics weren’t well-organized and the content needed refinement. Avail’s product operates in a very complex ecosystem — there are multiple user groups and subgroups and each group has access to different features and devices. To create an excellent user experience for different parties, I was challenged to completely rethink how to present content. 
 </div>	 
 <br>
-# Understanding the Opportunity 
+<h1> Understanding the Opportunity </h1> 
 
 <div class="small_container">
 With these challenges in mind, I started reviewing information on the product and it soon became clear to me that the eIFU has the potential to serve pressing yet unmet user needs. When I asked the team about the UX issues with the current product, I learned that the team is getting a large volume of inquiries from frustrated users who were confused about the UX. A medical company like Avail can’t immediately update designs due to regulations, and I noted that the eIFU can not only serve as an electronic version of the IFU but also help resolve the usability issues that users are encountering until UX designs are updated. 
@@ -47,7 +49,7 @@ Finally, I developed wireframes, which we iterated multiple times per user feedb
 </div> 
 <br> 
 
-# Designing with Technical Constraints 
+<h1> Designing with Technical Constraints </h1> 
 
 <div class="small_container">
 Noting that we couldn’t make any structural changes since the engineering team was unavailable, I made use of CSS rewriting to revamp designs. For example, the platform presents selections of topics in the following way: 
@@ -120,3 +122,15 @@ We found that it’s sometimes necessary to indicate the console type, since the
 	<br> 
 	In another example, I custom created summary sections. Some pages contain complex information, and it is necessary for users to be able to jump to sub-sections within the page via a summary section. While the platform didn’t allow creating such sections, I put together an element that looks and functions like one using the platform’s various features. Here’s the prototype I shared with the team:  
 </div> 
+<br> 
+<div class="text_center">
+	<img src="/images/avail7.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+The custom-created summary section enables users to easily navigate content  
+   </p> </div>
+<br> 
+
+<h1> Iterations </h1> 
