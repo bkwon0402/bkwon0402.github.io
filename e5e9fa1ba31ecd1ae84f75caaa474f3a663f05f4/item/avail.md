@@ -78,3 +78,13 @@ Airbnb’s help center presents multiple groups of topics
 <br> 
 
 
+<div class="small_container">
+To revamp the designs, I rewrote CSS to create designs that present selections in a way that’s familiar to users. Here’s the prototype I shared with the team: 
+</div> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/avail4.png">
+	<br> 
+</div>
+<br> 
