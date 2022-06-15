@@ -113,3 +113,10 @@ Additionally, I used CSS rewriting and the platform’s various features to crea
 	The custom-created <em>Gen 1.5 Only</em> label 
    </p> </div>
 <br> 
+
+<div class="small_container">
+We found that it’s sometimes necessary to indicate the console type, since there are multiple types, and the custom-created labels effectively communicate critical information. 
+	<br>
+	<br> 
+	In another example, I custom created summary sections. Some pages contain complex information, and it is necessary for users to be able to jump to sub-sections within the page via a summary section. While the platform didn’t allow creating such sections, I put together an element that looks and functions like one using the platform’s various features. Here’s the prototype I shared with the team:  
+</div> 
