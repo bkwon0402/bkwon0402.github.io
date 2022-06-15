@@ -177,3 +177,29 @@ Second, we gathered useful feedback on the tone. Folks found the “I want help 
    </p> </div>
 <br> 
 
+<div class="small_container">
+Third, we learned valuable insights on whether to use gridview vs. listview in presenting selections.  
+</div> 
+
+<br> 
+<div class="text_center">
+	<img src="/images/avail11.png">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: Listview prototype <strong>Right</strong>: Gridview prototype 
+   </p> </div>
+<br> 
+<div class="small_container">
+I initially leaned towards listview, possibly because I happened to just have reviewed a product that nicely uses listview. However, I soon learned that folks prefer gridview — they thought it looked nicer visually and liked not having to scroll down to review selections. UX research uncovers that listview works better when users are in search mode (and rely primarily on reading the text to make selections) and gridview works better when in browse mode (and rely on images to make selections). While our users are in search mode, I felt that user testers made a valid point — listview, in our case, forces users to scroll down to view selections and we went with gridview. 
+</div> 
+
+<br> 
+<h1>What I’ve learned </h1>
+
+<div class="small_container">
+First, I learned the usefulness of technical skills, which I wasn’t aware would be necessary on this project, going in. However, my familiarity with basic front-end programming turned out to be an asset in making the project a success. In a resource-strapped startup environment, unexpected situations like this can arise anytime, and I’m excited to further hone my technical skills. 
+	<br> 
+Second, the project confirmed the importance of having humility. As my initial preference for listview was quickly proved to be faulty, I often learn from users and the clients, who have spent more time studying the problem we're solving. So far, I've enjoyed being challenged and I'm looking forward to future opportunities to learn from others.
+</div> 
