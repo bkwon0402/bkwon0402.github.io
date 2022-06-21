@@ -2,13 +2,13 @@
 layout: portfolio_item
 headtouse: headcontent.html
 title: Social newsreader - ux/ui
-sub: 
+sub: asdfasdf
 ---
 
 <div class="small_container">
-Note: The project was done in 2016 and user needs have shifted i.e., millennials no longer rely on Facebook as their primary news sources. However, I'm still sharing the case study as it showcases my design thinking skills. 
+<em> Note: The project was done in 2016 and user needs have shifted i.e., millennials no longer rely on Facebook as their primary news sources. However, I'm still sharing the case study as it showcases my design thinking skills. </em> 
 </div> 
-
+<br> 
 
 # The Challenge
 
