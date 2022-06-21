@@ -108,7 +108,7 @@ Second, I and I and the PM  started building each other’s ideas, which pushed 
 	<br> 
 </div>
 <div class="feedlycaption"><p style="text-align: center;"> Initial prototype of how I visualized status information   </p> </div>
-
+<br> 
 
 <div class="small_container"> 
 	After prototyping, I eventually came up with mini progress bar icons that fit right in with the other icons used in the web product. 
@@ -166,7 +166,7 @@ Fourth, I carefully considered how user needs might shift depending on user choi
 <br> 
 
 <div class="text_center">
-	<img src="/images/sl9.png"  width="1000">
+	<img src="/images/sl9.png"  width="1100">
 	<br> 
 </div>
 <br> 
@@ -187,7 +187,7 @@ In designing the web product, on the other hand, I kept in mind that users are l
 	<strong>Left</strong>: <em>All Activities & Cases </em>on mobile <strong>Right</strong>:  <em>All Activities & Cases </em>on web 
    </p> </div>
 <br> 
-<br> 
+
 <div class="small_container"> 
 Fifth, I reviewed research on UX as I designed and shared UX research insights with the team in order to quickly get buy-in. For example, the form wireframes that the team originally created had usability issues. 
 </div> 
