@@ -66,7 +66,7 @@ Second, users couldn’t efficiently review their assigned work because the tab 
 <br>
 	Lastly, users couldn’t easily understand <em>Priority Level</em>, a piece of information that user research showed us to be critical to users. In the original design, <em>Priority Level</em> consisted of the vertical color strip on the left side of the card and text info (e.g. Priority: 1) on the card. 
 </div> 
-
+<br> 
 <div class="text_center">
 	<img src="/images/sl3.png" width="800" >
 	<br> 
@@ -91,7 +91,7 @@ The team was excited to receive my feedback. Here is the final high-fidelity moc
 In the final design, users are able to easily take key actions on cards (less important actions are hidden under the more icon on top right), individual users as well as the organization as a whole can easily review workflow thanks to the <em>My Activities & Cases</em> and <em>All Activities & Cases</em> tab menus, and <em>Priority Level </em>information stands out. 
 </div> 
 <br> 
-
+<br> 
 # The Process 
 <div class="small_container"> 
 Arriving at the final high-fidelity mockups took close collaboration with the team, which I achieved in the following ways: 
@@ -102,13 +102,13 @@ First, once I shared UX feedback on the web wireframes, I started prototyping mo
 <br>
 Second, I and I and the PM  started building each other’s ideas, which pushed us to create more creative solutions. For example, the PM liked the idea of putting the status information on top right of the card because easy discoverability will help users readily understand status. I liked this direction too, and started exploring visualizing information so that it becomes even easier for users to register status information at a glance.
 </div> 
-<br> 	
+
 <div class="text_center">
 	<img src="/images/sl5.png" width="800" >
 	<br> 
 </div>
 <div class="feedlycaption"><p style="text-align: center;"> Initial prototype of how I visualized status information   </p> </div>
-<br> 
+
 
 <div class="small_container"> 
 	After prototyping, I eventually came up with mini progress bar icons that fit right in with the other icons used in the web product. 
@@ -138,7 +138,7 @@ Third, I tested prototypes with users to validate and iterate design decisions a
 	<strong>Left</strong>: Column headers (e.g. Activity type/subtype) used on cards <strong>Right</strong>: Column headers are not used on cards 
    </p> </div>
 <br> 
-
+<br> 
 <div class="small_container"> 
 However, noting that our hunches could be proved wrong (in fact, I thought not using labels for status on top right might leave users confused), we tested prototypes with users. During this process, I took the initiative to test other things that we can test at this stage. For example, while we hadn’t worked on screens other than the homepage, I put together a clickable prototype that linked the homepage to rough prototypes of other key pages so that we could test whether users are able to accurately take intended actions on cards while on the homepage. It’s better to fail early and course- correct than wait until you have full designs ready, so I felt that it was the right call to test additional features at that point.  
 <br>
@@ -163,12 +163,13 @@ In other rounds of testing, we iterated based on feedback. For example, we found
 <div class="small_container"> 
 Fourth, I carefully considered how user needs might shift depending on user choice of device. For example, in designing the mobile product, I kept in mind that users often depend on the mobile product to keep track of their own assigned work while in the field. Hence, the designs immediately present today’s to-do list once users open the app — and the list is organized in the order of priority so it’s extremely easy to review workflow, and users can easily update information on cards. 
 </div> 
-
+<br> 
 
 <div class="text_center">
-	<img src="/images/sl9.png"  width="800">
+	<img src="/images/sl9.png"  width="1000">
 	<br> 
 </div>
+<br> 
 <div class="feedlycaption"><p style="text-align: center;">
 	Mobile homepage
    </p> </div>
@@ -177,7 +178,7 @@ Fourth, I carefully considered how user needs might shift depending on user choi
 <div class="small_container"> 
 In designing the web product, on the other hand, I kept in mind that users are likely to have  different needs. While an individual officer may well want to review their workflow on the web, it’s also likely that the organization as a whole, including dispatch officers who assign work, will use the web interface to review workflow at the organization level. Keeping organizational needs in mind, I designed the web product so that users have easier access to All Activities & Cases. In the mobile product, All Activities & Cases is in the hamburger menu and made less prominent, though still accessible. 
 </div> 
-
+<br> 
 <div class="text_center">
 	<img src="/images/sl10.png">
 	<br> 
@@ -186,7 +187,7 @@ In designing the web product, on the other hand, I kept in mind that users are l
 	<strong>Left</strong>: <em>All Activities & Cases </em>on mobile <strong>Right</strong>:  <em>All Activities & Cases </em>on web 
    </p> </div>
 <br> 
-
+<br> 
 <div class="small_container"> 
 Fifth, I reviewed research on UX as I designed and shared UX research insights with the team in order to quickly get buy-in. For example, the form wireframes that the team originally created had usability issues. 
 </div> 
