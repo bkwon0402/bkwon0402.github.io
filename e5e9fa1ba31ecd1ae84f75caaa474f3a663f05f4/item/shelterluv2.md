@@ -29,17 +29,14 @@ When I joined the project, the PM provided key information on the product as wel
 
 <div class="small_container">
 I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided. 
-</div> 
-
 <br> 
+</div> 
 
 <div class="text_center">
 	<img src="/images/sl1.png" width="800" >
 	 
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
-<br> 
-
 
 
 <div class="small_container">
