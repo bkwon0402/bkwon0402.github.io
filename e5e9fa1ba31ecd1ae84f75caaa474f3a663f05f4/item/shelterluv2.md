@@ -10,24 +10,25 @@ sub:
 <div class="small_container">
 
 I worked with the PM at Shelterluv to help design the Field Services product, a new product initiative that allows government-based animal shelters to track animal-related law enforcement work they do in the community.  
-
+<br>
+<br>
 </div>	 
 
-<br>
+
+# The Process 
 
 <div class="small_container">
 
 <h1> The Process </h1> 
 
 When I joined the project, the PM provided key information on the product as well as web wireframes for some of the key pages. After reviewing the information, I asked clarifying questions then started thinking through the UX in the wireframes.  
-
-</div> 
 <br> 
+<br> 
+</div> 
+
+# User-Centered Design 
 
 <div class="small_container">
-
-<h1> User-Centered Design </h1> 
-
 I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided. 
 </div> 
 
