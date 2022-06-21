@@ -35,7 +35,7 @@ I quickly noted that the wireframes don’t meet critical user needs and that it
 
 <div class="text_center">
 	<img src="/images/sl1.png" width="800" >
-	<br> 
+	 
 </div>
 <div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
 <br> 
