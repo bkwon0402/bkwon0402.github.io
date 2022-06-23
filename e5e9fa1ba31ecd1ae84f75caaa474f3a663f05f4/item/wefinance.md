@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Wefinance - branding 
+title: Wefinance - Brand Design 
 sub: 
 ---
 
