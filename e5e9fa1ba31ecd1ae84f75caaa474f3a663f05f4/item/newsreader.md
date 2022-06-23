@@ -6,7 +6,8 @@ sub:
 ---
 
 <div class="small_container">
-<em> Note: The project was done in 2016 and user needs have shifted i.e., millennials no longer rely on Facebook as their primary news sources. However, I'm still sharing the case study as it showcases my design thinking skills. </em> 
+<em> Note: The project was done in 2016 and user needs have shifted (Millennials no longer rely on Facebook as their primary news source). I’m still sharing the case study as it showcases my design thinking skills. 
+</em> 
 </div> 
 <br> 
 
