@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: ShelterLuv - Field Services 
+title: Shelterluv - Field Services 
 sub: 
 ---
 	
