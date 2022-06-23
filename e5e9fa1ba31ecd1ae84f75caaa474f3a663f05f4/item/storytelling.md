@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: YTF - storytelling 
+title: YTF - Storytelling 
 sub:
 ---
 # The Challenge
