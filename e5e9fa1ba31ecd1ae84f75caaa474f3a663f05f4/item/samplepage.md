@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Clearear - website
+title: Clearear - Website
 sub: 
 ---
 
