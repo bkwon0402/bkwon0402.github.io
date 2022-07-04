@@ -1223,7 +1223,7 @@ div.newsletterredesign {
 
 .flex-grow-1 {
   flex-grow: 1!important;
-  margin-left: 30px;
+  margin-left: 80px;
 }
 
 .flex-grow-1.flex-text-right {
@@ -1258,5 +1258,11 @@ div.newsletterredesign {
 
   .d-flex-media .caption {
     margin-top: 20px;
+  }
+
+  @media (max-width: 992px) {
+    .flex-grow-1 {
+      margin-left: 40px;
+    }
   }
 }
