@@ -15,6 +15,13 @@ I worked with the PM at Shelterluv to help design the Field Services product, a 
 </div>	 
 
 
+<div class="image_text"> 
+	<img src="/images/sl2.png" width="300">   
+	<p>I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided.<p>
+</div> 
+
+
+
 # The Process 
 
 <div class="small_container">
