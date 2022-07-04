@@ -30,7 +30,17 @@ This makes sense because users often depend on the mobile product to keep track 
 </div>
 </div>
 
-
+<div class="d-flex d-flex-media">
+<div class="flex-shrink-0 flex-img">
+<img src="/images/compare.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="flex-grow-1 flex-text-right">
+<h2 class="title">
+i. Users couldn’t easily track their work
+</h2>
+Users couldn't easily update information on cards. Currently, they need to click on the more button located on the top right of the card to access the long list of actions they can take.
+</div>
+</div>
                     
 
 
