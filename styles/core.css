@@ -28,6 +28,17 @@ li {
     padding: 0;
 }
 
+
+.image_text {
+    width: 1000px; 
+    display: flex; 
+    align-items: center; 
+}
+
+.image_text {
+    margin-right: 50px;  
+}
+
 .clearfix:after {
     visibility: hidden;
     display: block;
