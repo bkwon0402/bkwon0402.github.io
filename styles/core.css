@@ -1278,4 +1278,17 @@ div.newsletterredesign {
   .d-flex-media .caption {
     margin-top: 20px;
   }
+
+  .d-flex-media.ratio-1-1 .flex-img,
+  .d-flex-media.ratio-1-1 .flex-text-right {
+    width: 100%;
+  }
+
+  .d-flex-media.ratio-1-15 .flex-img {
+    width: 100%;
+  }
+
+  .d-flex-media.ratio-1-15 .flex-text-right {
+    width: 100%;
+  }
 }
