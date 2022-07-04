@@ -1209,6 +1209,10 @@ div.newsletterredesign {
   color: #595959;
 }
 
+.d-flex-media .flex-img {
+  text-align: center;
+}
+
 .flex-center {
   align-items: center;
 }
