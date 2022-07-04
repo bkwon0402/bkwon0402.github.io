@@ -1256,6 +1256,12 @@ div.newsletterredesign {
   height: auto;
 }
 
+@media (min-width: 768px) {
+  .d-flex-media .img-fluid {
+    width: 100% !important;
+  }
+}
+
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
