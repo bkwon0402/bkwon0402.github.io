@@ -17,7 +17,7 @@ I worked with the PM at Shelterluv to help design the Field Services product, a 
 <br>
 </div>	 
 
-<div class="d-flex d-flex-media">
+<div class="d-flex d-flex-media flex-top-space">
 <div class="flex-shrink-0 flex-img">
 <img src="/images/phone-screen.png" width="500" class="img-fluid" alt="Mobile homepage">
 <div class="caption">
