@@ -1202,6 +1202,14 @@ div.newsletterredesign {
   width: 50%;
 }
 
+.d-flex-media.ratio-1-15 .flex-img {
+  width: 40%;
+}
+
+.d-flex-media.ratio-1-15 .flex-text-right {
+  width: 60%;
+}
+
 .d-flex-media .caption {
   margin-top: 40px;
   font-weight: bold;
