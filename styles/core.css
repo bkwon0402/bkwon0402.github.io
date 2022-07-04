@@ -1196,7 +1196,7 @@ div.newsletterredesign {
 }
 
 .d-flex-media .caption {
-  margin-top: 10px;
+  margin-top: 40px;
   font-weight: bold;
   text-align: center !important;
 }
@@ -1254,5 +1254,9 @@ div.newsletterredesign {
 
   .flex-grow-1 {
     margin-left: 0;
+  }
+
+  .d-flex-media .caption {
+    margin-top: 20px;
   }
 }
