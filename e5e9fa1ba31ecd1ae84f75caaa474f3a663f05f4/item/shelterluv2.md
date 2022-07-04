@@ -24,7 +24,7 @@ I worked with the PM at Shelterluv to help design the Field Services product, a 
 Mobile Homepage
 </div>
 </div>
-<div class="flex-grow-1 flex-text-right">
+<div class="flex-grow-1 flex-text-right" style="padding-left: 50px">
 Mobile designs immediately present today's to-do list once users open the app — and the list is organized in the order of priority so it's extremely easy to review workflow.
 <br/>
 <br/>
@@ -32,11 +32,11 @@ This makes sense because users often depend on the mobile product to keep track 
 </div>
 </div>
 
-<div class="d-flex d-flex-media" style="max-width: 900px">
+<div class="d-flex d-flex-media ratio-1-1" style="max-width: 900px">
 <div class="flex-shrink-0 flex-img">
 <img src="/images/compare.png" width="500" class="img-fluid" alt="">
 </div>
-<div class="flex-grow-1 flex-text-right">
+<div class="flex-grow-1 flex-text-right" style="padding-left: 50px">
 <h2 class="title">
 i. Users couldn’t easily track their work
 </h2>

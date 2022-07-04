@@ -1197,6 +1197,11 @@ div.newsletterredesign {
   margin-bottom: 100px;
 }
 
+.d-flex-media.ratio-1-1 .flex-img,
+.d-flex-media.ratio-1-1 .flex-text-right {
+  width: 50%;
+}
+
 .d-flex-media .caption {
   margin-top: 40px;
   font-weight: bold;
@@ -1229,7 +1234,6 @@ div.newsletterredesign {
 
 .flex-grow-1 {
   flex-grow: 1!important;
-  margin-left: 80px;
 }
 
 .flex-grow-1.flex-text-right {
@@ -1256,6 +1260,7 @@ div.newsletterredesign {
 
   .d-flex-media .flex-text-right {
     padding-top: 0;
+    padding-left: 0 !important;
   }
 
   .flex-grow-1 {
@@ -1264,11 +1269,5 @@ div.newsletterredesign {
 
   .d-flex-media .caption {
     margin-top: 20px;
-  }
-
-  @media (max-width: 992px) {
-    .flex-grow-1 {
-      margin-left: 40px;
-    }
   }
 }
