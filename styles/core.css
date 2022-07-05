@@ -1291,6 +1291,7 @@ div.newsletterredesign {
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
+    margin-bottom: 50px;
    }
 
   .d-flex-media .flex-img {
@@ -1325,6 +1326,7 @@ div.newsletterredesign {
   }
   .row-img {
     flex-direction: column;
+    margin-bottom: 40px;
   }
 
 
