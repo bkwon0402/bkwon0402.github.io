@@ -1283,7 +1283,9 @@ div.newsletterredesign {
 
 .row-img .caption {
   margin-top: 20px;
+  margin-bottom: 40px;
   font-weight: bold;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
@@ -1321,6 +1323,10 @@ div.newsletterredesign {
   .d-flex-media.ratio-1-15 .flex-text-right {
     width: 100%;
   }
+  .row-img {
+    flex-direction: column;
+  }
+
 
   .img-sp-90 {
     width: 90% !important;
