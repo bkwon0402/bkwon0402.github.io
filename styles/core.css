@@ -1256,6 +1256,26 @@ div.newsletterredesign {
   height: auto;
 }
 
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -12px;
+  margin-left: -12px;
+}
+
+.row .col {
+  flex: 1 0 0;
+}
+
+.row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
