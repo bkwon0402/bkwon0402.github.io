@@ -1291,4 +1291,40 @@ div.newsletterredesign {
   .d-flex-media.ratio-1-15 .flex-text-right {
     width: 100%;
   }
+
+  .img-sp-90 {
+    width: 90% !important;
+  }
+
+  .img-sp-80 {
+    width: 80% !important;
+  }
+
+  .img-sp-70 {
+    width: 70% !important;
+  }
+
+  .img-sp-60 {
+    width: 60% !important;
+  }
+
+  .img-sp-50 {
+    width: 50% !important;
+  }
+
+  .img-sp-40 {
+    width: 40% !important;
+  }
+
+  .img-sp-30 {
+    width: 30% !important;
+  }
+
+  .img-sp-20 {
+    width: 20% !important;
+  }
+
+  .img-sp-10 {
+    width: 10% !important;
+  }
 }
