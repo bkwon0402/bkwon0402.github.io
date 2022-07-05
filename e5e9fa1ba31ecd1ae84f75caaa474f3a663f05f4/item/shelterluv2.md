@@ -44,7 +44,7 @@ Users couldn't easily update information on cards. Currently, they need to click
 </div>
 </div>
                     
-<div class="row">
+<div class="row row-img">
 <div class="col">
 <img src="/images/compare.png" width="500" class="img-fluid" alt="">
 <p class="caption">Column headers used on cards</p>

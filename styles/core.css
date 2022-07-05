@@ -1276,6 +1276,16 @@ div.newsletterredesign {
   padding-left: 12px;
 }
 
+.row-img {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.row-img .caption {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
