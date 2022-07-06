@@ -1291,6 +1291,7 @@ div.newsletterredesign {
 .section-img-hero {
   padding-top: 40px;
   padding-bottom: 40px;
+  color: #000;
 }
 
 .section-img-hero .img-lg {
@@ -1310,6 +1311,7 @@ div.newsletterredesign {
 
 .section-img-hero .col {
   line-height: 2;
+  letter-spacing: 1.2px;
 }
 
 
