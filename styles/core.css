@@ -1288,6 +1288,35 @@ div.newsletterredesign {
   text-align: center !important;
 }
 
+.section-img-hero {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.section-img-hero .img-lg {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 40px;
+}
+
+.section-img-hero .lead {
+  margin-bottom: 50px;
+}
+
+.section-img-hero .text-strong {
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.section-img-hero .col {
+  line-height: 2;
+}
+
+
+.text-strong {
+  font-weight: bold;
+}
+
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
