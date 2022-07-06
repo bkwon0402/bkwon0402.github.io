@@ -1212,7 +1212,7 @@ div.newsletterredesign {
   width: 60%;
 }
 
-.d-flex-media p.caption {
+.d-flex-media .caption {
   font-family: 'Roboto Mono', monospace;
   font-size: 18px;
   margin-top: 40px;
@@ -1284,10 +1284,10 @@ div.newsletterredesign {
   text-align: center;
 }
 
-.row-img p.caption {
+.row-img .caption {
   margin-top: 20px;
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 18px !important;
   text-align: center !important;
   font-family: 'Roboto Mono', monospace;
 }
