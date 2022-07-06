@@ -1297,7 +1297,7 @@ div.newsletterredesign {
   color: #000;
 }
 
-.section-img-hero {
+.section-img-hero .inner {
   margin-right: auto;
   margin-left: auto;
   max-width: 950px;
