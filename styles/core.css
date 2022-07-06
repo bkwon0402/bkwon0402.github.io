@@ -1289,6 +1289,7 @@ div.newsletterredesign {
   margin-bottom: 40px;
   font-size: 18px !important;
   text-align: center !important;
+  color: #595959 !important;
   font-family: 'Roboto Mono', monospace;
 }
 
@@ -1373,6 +1374,26 @@ div.newsletterredesign {
     margin-bottom: 40px;
   }
 
+
+  .section-img-hero .img-lg {
+    margin-bottom: 30px;
+  }
+
+  .section-img-hero .lead {
+    margin-bottom: 40px;
+  }
+
+  .section-img-hero .text-strong {
+    margin-bottom: 15px;
+  }
+
+  .section-img-hero .row {
+    flex-direction: column;
+  }
+
+  .section-img-hero .col {
+    margin-bottom: 35px;
+  }
 
   .img-sp-90 {
     width: 90% !important;
