@@ -9,7 +9,7 @@ sub:
 
 	
 	
-	<section class="section-img-hero">
+<section class="section-img-hero">
   <img src="/images/img-dummy.png" class="img-lg img-fluid" alt="">
   <div class="inner">
   <p class="lead">
