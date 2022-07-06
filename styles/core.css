@@ -1287,7 +1287,9 @@ div.newsletterredesign {
   margin-top: 20px;
   margin-bottom: 40px;
   font-weight: bold;
+  font-size: 18px;
   text-align: center !important;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .section-img-hero {
@@ -1300,7 +1302,9 @@ div.newsletterredesign {
 .section-img-hero .inner {
   margin-right: auto;
   margin-left: auto;
-  max-width: 950px;
+  padding-right: 20px;
+  padding-left: 20px;
+  max-width: 910px;
 }
 
 .section-img-hero .img-lg {
