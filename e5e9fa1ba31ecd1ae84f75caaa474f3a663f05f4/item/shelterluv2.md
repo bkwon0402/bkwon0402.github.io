@@ -26,7 +26,7 @@ sub:
   <div class="text-strong">
   My Role
   </div>
-  Front end development.<br/>
+  Front end development.
   UX/UI, User interview
   </div>
   <div class="col">
