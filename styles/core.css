@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
 article,
 blockquote,
 body,
@@ -1291,7 +1293,14 @@ div.newsletterredesign {
 .section-img-hero {
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: 'Roboto Mono', monospace;
   color: #000;
+}
+
+.section-img-hero {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px;
 }
 
 .section-img-hero .img-lg {
