@@ -866,6 +866,20 @@ div.wefinanceemail {
     color: #8C8C8C;
 }
 
+@media (max-width: 768px) {
+  .say {
+    flex-direction: column;
+  }
+
+  .say .selfie2 {
+    margin-right: auto;
+  }
+
+  .aboutme {
+    text-align: left;
+  }
+}
+
 .say .selfie2 {
   margin-right: 45px;
 }
@@ -1161,6 +1175,7 @@ div.newsletterredesign {
     .social {
         float: none;
         text-align: center;
+      margin-right: 0;
     }
     .disclaimer {
         text-align: center;
