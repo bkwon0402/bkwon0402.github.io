@@ -858,11 +858,18 @@ div.wefinanceemail {
     margin-left: 50px;
 }
 .say {
+  display: flex;
+  align-items: flex-start;
     font-size: 20px;
     text-align: center;
     margin-top: 200px;
     color: #8C8C8C;
 }
+
+.say .selfie2 {
+  margin-right: 45px;
+}
+
 .hi {
     font-size: 25px;
     text-align: center;
@@ -934,8 +941,7 @@ div.newsletterredesign {
 }
 .disclaimer {
     font-family: "Lato";
-    font-size: 15px;
-    float: right;
+    font-size: 18px;
     margin-top: 20px;
 }
 .clear {
