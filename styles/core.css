@@ -866,6 +866,10 @@ div.wefinanceemail {
     color: #8C8C8C;
 }
 
+.social-contact {
+  margin-top: 40px;
+}
+
 @media (max-width: 768px) {
   .say {
     flex-direction: column;
@@ -877,6 +881,10 @@ div.wefinanceemail {
 
   .aboutme {
     text-align: left;
+  }
+
+  .social-contact {
+    margin-top: 25px;
   }
 }
 
