@@ -1367,7 +1367,8 @@ div.newsletterredesign {
 
 
 .text-strong {
-  font-weight: bold;
+  font-weight: regular;
+  font-size: 11px;
 }
 
 @media (max-width: 767px) {
