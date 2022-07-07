@@ -3,7 +3,13 @@ layout: portfolio_item
 headtouse: headcontent.html
 title: Shelterluv - Field Services 
 sub: 
-hero:
+hero: test
+---
+	
+	
+
+	
+	
 <section class="section-img-hero">
   <img src="/images/img-dummy.png" class="img-lg img-fluid" alt="">
   <div class="inner">
@@ -34,13 +40,6 @@ hero:
   </div>
   </div>
   </section>
----
-	
-	
-
-	
-	
-
 	
 # The Challenge
 
