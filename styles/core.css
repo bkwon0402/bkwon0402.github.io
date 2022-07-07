@@ -1296,7 +1296,6 @@ div.newsletterredesign {
 .section-img-hero {
   padding-top: 40px;
   padding-bottom: 60px;
-  font-family: 'Roboto Mono', monospace;
   font-size: 18px;
 }
 
@@ -1325,6 +1324,7 @@ div.newsletterredesign {
   margin-bottom: 20px;
   line-height: 1.4;
   color: #000;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .section-img-hero .col {
