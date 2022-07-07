@@ -930,13 +930,14 @@ div.newsletterredesign {
     margin-bottom: 4%;
     margin-top: 10%;
 }
-.behancetext {
+.social {
     font-family: "Lato";
     font-size: 19px;
     text-align: justify;
     max-width: 100%;
     margin-top: 20px;
     float: left;
+  margin-right: 40px;
     text-decoration: underline;
 }
 .disclaimer {
@@ -1157,7 +1158,7 @@ div.newsletterredesign {
         width: auto;
         text-align: center;
     }
-    .behancetext {
+    .social {
         float: none;
         text-align: center;
     }
