@@ -295,12 +295,13 @@ hr.style-six {
 }
 
 #portfolio_content h1 {
-    font-size: 23px;
+    font-size: 35px;
     text-align: center;
     padding-bottom: 20px;
     font-family: "Calluna";
     font-weight: normal;
     color: #595959;
+    letter-spacing: 1px; 
 }
 
 #portfolio_content p {
