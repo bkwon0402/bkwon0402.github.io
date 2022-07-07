@@ -876,7 +876,7 @@ div.wefinanceemail {
   }
 
   .say .selfie2 {
-    margin-right: auto;
+    margin-right: auto !important;
   }
 
   .aboutme {
