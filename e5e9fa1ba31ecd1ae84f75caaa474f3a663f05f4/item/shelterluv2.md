@@ -41,7 +41,7 @@ hero_image: <section class="section-img-hero">
 	
 
 	
-# The Challenge
+# Advocating for user-centered design 
 
 <div class="small_container">
 
