@@ -1399,6 +1399,24 @@ div.newsletterredesign {
 }
 
 @media (max-width: 767px) {
+  .section-portfolio .d-flex {
+    flex-direction: column;
+  }
+  
+  .section-portfolio .flex-grow-1 {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 30px;
+  }
+
+  .section-portfolio .flex-shrink-0 {
+    width: 100%;
+  }
+
+  .section-portfolio .flex-img img {
+    width: 100%;
+  }
+
   .d-flex-media {
      flex-direction: column;
     margin-bottom: 50px;
