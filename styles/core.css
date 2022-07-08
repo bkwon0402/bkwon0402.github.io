@@ -1385,6 +1385,19 @@ div.newsletterredesign {
   line-height: 1.6;
 }
 
+.section-portfolio .flex-grow-1 {
+  width: 40%;
+  padding-right: 40px;
+}
+
+.section-portfolio .flex-shrink-0 {
+  width: 60%;
+}
+
+.section-portfolio .flex-img img {
+  width: 100%;
+}
+
 @media (max-width: 767px) {
   .d-flex-media {
      flex-direction: column;
