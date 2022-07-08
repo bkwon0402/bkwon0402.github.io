@@ -1386,12 +1386,7 @@ div.newsletterredesign {
 }
 
 .section-portfolio .flex-grow-1 {
-  width: 40%;
   padding-right: 40px;
-}
-
-.section-portfolio .flex-shrink-0 {
-  width: 60%;
 }
 
 .section-portfolio .flex-img img {
@@ -1402,15 +1397,15 @@ div.newsletterredesign {
   .section-portfolio .d-flex {
     flex-direction: column;
   }
-  
+
   .section-portfolio .flex-grow-1 {
-    width: 100%;
+    width: 100% !important;
     padding-right: 0;
     margin-bottom: 30px;
   }
 
   .section-portfolio .flex-shrink-0 {
-    width: 100%;
+    width: 100% !important;
   }
 
   .section-portfolio .flex-img img {
