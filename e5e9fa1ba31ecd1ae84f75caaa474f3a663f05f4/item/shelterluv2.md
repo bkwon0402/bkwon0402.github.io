@@ -38,6 +38,9 @@ hero_image: <section class="section-img-hero">
 	
 <style type="text/css" rel="stylesheet">
 .section-img-hero .img-lg { height: 800px; }
+.section-img-hero .col {
+    line-height: 2.1;
+}	
 </style>
 	
 	
