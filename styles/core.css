@@ -301,7 +301,7 @@ hr.style-six {
     font-family: "Calluna";
     font-weight: normal;
     color: #595959;
-    letter-spacing: 2.1px !important;  
+    letter-spacing: 2.1px !important;
 }
 
 #portfolio_content p {
@@ -1370,6 +1370,19 @@ div.newsletterredesign {
 .text-strong {
   font-weight: regular;
   font-size: 14px;
+}
+
+.section-portfolio .title {
+  font-family: "Calluna";
+  font-size: 28px;
+  letter-spacing: 2.2px;
+  margin-bottom: 40px;
+}
+
+.section-portfolio {
+  font-size: 19px;
+  color: #8C8C8C;
+  line-height: 1.6;
 }
 
 @media (max-width: 767px) {
