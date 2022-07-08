@@ -5,34 +5,34 @@ title: Shelterluv - Field Services
 sub: 
 hero_image: <section class="section-img-hero">
 <img src="/images/img-dummy.png" style="height: 800px" class="img-lg img-fluid" alt="">
-        <div class="inner">
-        <p class="lead">
-        I worked with the PM at Shelterluv to help design the Pield Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community.
-        </p>
-        <div class="row">
-        <div class="col">
-        <div class="text-strong">
-        Timeline
-        </div>
-        March - June 2021
-        </div>
-        <div class="col">
-        <div class="text-strong">
-        My Role
-        </div>
-        Front end development.
-        UX/UI, User interview
-        </div>
-        <div class="col">
-        <div class="text-strong">
-        Team
-        </div>
-        Senior PM, Associate<br/>
-        Director of Product
-        </div>
-        </div>
-        </div>
-        </section>
+<div class="inner">
+<p class="lead">
+I worked with the PM at Shelterluv to help design the Pield Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community.
+</p>
+<div class="row">
+<div class="col">
+<div class="text-strong">
+Timeline
+</div>
+March - June 2021
+</div>
+<div class="col">
+<div class="text-strong">
+My Role
+</div>
+Front end development.
+UX/UI, User interview
+</div>
+<div class="col">
+<div class="text-strong">
+Team
+</div>
+Senior PM, Associate<br/>
+Director of Product
+</div>
+</div>
+</div>
+</section>
 ---
 	
 	
