@@ -301,7 +301,7 @@ hr.style-six {
     font-family: "Calluna";
     font-weight: normal;
     color: #595959;
-    letter-spacing: 2px; 
+    letter-spacing: 2.1px !important;  
 }
 
 #portfolio_content p {
