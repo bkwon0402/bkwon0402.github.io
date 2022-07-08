@@ -1400,7 +1400,6 @@ div.newsletterredesign {
 @media (max-width: 767px) {
   .section-portfolio .d-flex {
     flex-direction: column;
-    margin-bottom: 25px;
   }
 
   .section-portfolio .flex-grow-1 {
@@ -1414,7 +1413,7 @@ div.newsletterredesign {
   }
 
   .section-portfolio .title {
-    margin-bottom: 25px;
+    margin-bottom: 10px;
   }
 
   .d-flex-media {
