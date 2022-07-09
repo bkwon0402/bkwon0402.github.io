@@ -1416,6 +1416,15 @@ div.newsletterredesign {
   box-shadow: 0px 0px 12px #eee;
 }
 
+.section-portfolio .thumbnail {
+  display: block;
+}
+
+.section-portfolio .thumbnail img {
+  width: 100%;
+  object-fit: cover;
+}
+
 @media (max-width: 767px) {
   .section-portfolio .d-flex {
     flex-direction: column;
