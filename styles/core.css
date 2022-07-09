@@ -1393,7 +1393,7 @@ div.newsletterredesign {
 }
 
 .portfolio-item {
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 
 .section-portfolio a:hover img {
@@ -1506,6 +1506,10 @@ div.newsletterredesign {
 
   .section-img-hero .col {
     margin-bottom: 45px;
+  }
+
+  .portfolio-item {
+    margin-bottom: 80px;
   }
 
   .img-sp-90 {
