@@ -94,6 +94,7 @@ Users couldn't easily update information on cards. Currently, they need to click
 </div>
 
 
+<div class="row-3-img">
 <div class="row row-img">
 <div class="col">
 <img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
@@ -107,6 +108,7 @@ Users couldn't easily update information on cards. Currently, they need to click
 </div>
 
 <p class="caption-for-all">Column headers used on cards</p>
+</div> 
 
 # The Process 
 
