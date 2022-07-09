@@ -1425,6 +1425,15 @@ div.newsletterredesign {
   object-fit: cover;
 }
 
+.caption-for-all {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 18px !important;
+  text-align: center !important;
+  color: #595959 !important;
+  font-family: 'Roboto Mono', monospace;
+}
+
 @media (max-width: 767px) {
   .section-portfolio .d-flex {
     flex-direction: column;

@@ -93,6 +93,21 @@ Users couldn't easily update information on cards. Currently, they need to click
 </div>
 </div>
 
+
+<div class="row row-img">
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+</div>
+
+<p class="caption-for-all">Column headers used on cards</p>
+
 # The Process 
 
 <div class="small_container">
