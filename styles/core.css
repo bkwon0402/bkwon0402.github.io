@@ -1437,6 +1437,10 @@ div.newsletterredesign {
   margin-bottom: 45px;
 }
 
+.row-3-img {
+  margin-bottom: 60px;
+}
+
 @media (max-width: 767px) {
   .section-portfolio .d-flex {
     flex-direction: column;
