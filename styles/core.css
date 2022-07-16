@@ -105,6 +105,14 @@ h1 {}
     margin: 15px auto;
 }
 
+.second-heading {
+  font-family: "Calluna";
+  font-size: 25px;
+  letter-spacing: 2.2px;
+  color: #595959;
+}
+
+
 .text_center {
     text-align: center;
 }
