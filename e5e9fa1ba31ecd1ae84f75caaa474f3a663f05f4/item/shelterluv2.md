@@ -4,7 +4,7 @@ headtouse: headcontent.html
 title: Shelterluv - Field Services 
 sub: 
 hero_image: <section class="section-img-hero">
-        <img src="/images/img-dummy.png" class="img-lg img-fluid" alt="">
+        <img src="/images/macbook.png" class="img-lg img-fluid" alt="">
         <div class="inner">
         <p class="lead">
         I worked with the PM at Shelterluv to help design the Pield Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community.
