@@ -47,7 +47,7 @@ hero_image: <section class="section-img-hero">
 # Design Process 
 
 
-<h2 class="title">
+<h2 class=".d-flex-media title">
 Mobile-First Design
 </h2> 
 <div class="small_container">	
