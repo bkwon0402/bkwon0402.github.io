@@ -53,9 +53,8 @@ Mobile-First Design
 </div> 
 Once I shared UX feedback on the web wireframes, I started prototyping mobile designs. It was important that the product be mobile-friendly since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made sense.
 </div> 
- <section class="section-img-hero">
 <img src="/images/mobile-first.png" class="img-lg img-fluid" alt="">
-</section> 
+
 
 
 <div class="small_container">
