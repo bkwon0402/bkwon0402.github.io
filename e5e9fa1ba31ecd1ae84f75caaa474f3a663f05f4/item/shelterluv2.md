@@ -44,7 +44,17 @@ hero_image: <section class="section-img-hero">
 	
 
 	
-# Advocating for user-centered design 
+# Design Process 
+
+<div class="small_container">	
+<h2 class="title">
+Mobile-First Design
+</h2> 
+Once I shared UX feedback on the web wireframes, I started prototyping mobile designs. It was important that the product be mobile-friendly since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made sense.
+</div> 
+
+
+
 
 <div class="small_container">
 
@@ -108,7 +118,7 @@ Users couldn't easily update information on cards. Currently, they need to click
 <p class="caption-for-all">Column headers used on cards</p>
 </div> 
 
-# The Process 
+# The  
 
 <div class="small_container">
 
@@ -182,7 +192,7 @@ In the final design, users are able to easily take key actions on cards (less im
 </div> 
 <br> 
 <br> 
-# The Process 
+# Design Process 
 <div class="small_container"> 
 Arriving at the final high-fidelity mockups took close collaboration with the team, which I achieved in the following ways: 
 <br> 
