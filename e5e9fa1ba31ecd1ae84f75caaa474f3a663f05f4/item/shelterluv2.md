@@ -63,15 +63,6 @@ Once I shared UX feedback on the web wireframes, I started prototyping mobile de
 </div> 
 
 
-
-
-<div class="small_container">
-
-I worked with the PM at Shelterluv to help design the Field Services product, a new product initiative that allows government-based animal shelters to track animal-related law enforcement work they do in the community.  
-<br>
-<br>
-</div>	 
-
 <div class="d-flex d-flex-media flex-top-space ratio-1-15" style="max-width: 1140px">
 <div class="flex-shrink-0 flex-img">
 <img src="/images/phone-screen.png" width="500" class="img-fluid" alt="Mobile homepage">
@@ -80,7 +71,7 @@ Mobile Homepage
 </div>
 </div>
 <div class="flex-grow-1 flex-text-right" style="padding-left: 50px">
-Mobile designs immediately present today's to-do list once users open the app — and the list is organized in the order of priority so it's extremely easy to review workflow.
+In designing the mobile product, I kept in mind that users often depend on the mobile product to keep track of their own assigned work while in the field. Hence, the designs immediately present today’s to-do list once users open the app — and the list is organized in the order of priority so it’s extremely easy to review workflow, and users can easily update information on cards.
 <br/>
 <br/>
 This makes sense because users often depend on the mobile product to keep track of assigned work while in the field.
