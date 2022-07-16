@@ -47,9 +47,9 @@ hero_image: <section class="section-img-hero">
 # Design Process 
 
 
-<h2 class="heading">
+<div class="second-heading">
 Mobile-First Design
-</h2> 
+</div> 
 <div class="small_container">	
 Once I shared UX feedback on the web wireframes, I started prototyping mobile designs. It was important that the product be mobile-friendly since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made sense.
 </div> 
