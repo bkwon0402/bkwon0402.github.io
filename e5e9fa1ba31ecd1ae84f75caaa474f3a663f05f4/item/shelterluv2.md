@@ -59,7 +59,7 @@ Once I shared UX feedback on the web wireframes, I started prototyping mobile de
 
 
 <div class="small_container">		
-<div class="second-heading">
+<div class="second-heading"> 2. Considering shifting user needs
 </div> 
 
 
