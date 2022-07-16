@@ -1,6 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
+title: Shelterluv
 hero_image: <section class="section-img-hero">
         <img src="/images/MacBook.png" class="img-lg img-fluid" alt="">
         <div class="inner">
