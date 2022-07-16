@@ -97,8 +97,8 @@ a {
 h1 {}
 
 .small_container {
-    font-size: 20px;
-    line-height: 170%;
+    font-size: 21px;
+    line-height: 179%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
     max-width: 810px;
@@ -107,7 +107,7 @@ h1 {}
 
 .second-heading {
   font-family: "Calluna";
-  font-size: 25px;
+  font-size: 30px;
   letter-spacing: 2.2px;
   color: #595959;
 }
@@ -303,19 +303,19 @@ hr.style-six {
 }
 
 #portfolio_content h1 {
-    font-size: 35px;
+    font-size: 39px;
     text-align: center;
     padding-bottom: 20px;
     font-family: "Calluna";
     font-weight: normal;
     color: #595959;
-    letter-spacing: 2.1px !important;
+    letter-spacing: 3px !important;
 }
 
 #portfolio_content p {
-    font-size: 20px;
+    font-size: 21px;
     text-align: left;
-    line-height: 170%;
+    line-height: 179%;
     color: #8C8C8C;
     letter-spacing: 1.4px;
 }
