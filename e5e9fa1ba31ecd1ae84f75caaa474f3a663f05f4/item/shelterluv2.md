@@ -1,13 +1,11 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Shelterluv 
-sub: 
 hero_image: <section class="section-img-hero">
         <img src="/images/MacBook.png" class="img-lg img-fluid" alt="">
         <div class="inner">
         <p class="lead">
-        I worked with the PM at Shelterluv to help design the Pield Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community.
+        I worked with the PM at Shelterluv to help design the Field Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community.
         </p>
         <div class="row">
         <div class="col">
