@@ -1,7 +1,7 @@
 ---
 layout: portfolio_item
 headtouse: headcontent.html
-title: Shelterluv - Field Services 
+title: 
 sub: 
 hero_image: <section class="section-img-hero">
         <img src="/images/MacBook.png" class="img-lg img-fluid" alt="">
