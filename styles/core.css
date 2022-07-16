@@ -1348,7 +1348,7 @@ div.newsletterredesign {
 }
 
 .section-img-hero .lead {
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
   line-height: 170%;
@@ -1357,7 +1357,7 @@ div.newsletterredesign {
 .section-img-hero .text-strong {
   margin-bottom: 15px;
   line-height: 1.4;
-  color: #000;
+  color: #3F3E3E;
   font-family: 'Roboto Mono', monospace;
 }
 
