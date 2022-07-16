@@ -1546,6 +1546,11 @@ div.newsletterredesign {
     margin-bottom: 25px;
   }
 
+  .section-img-hero .inner {
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
   .img-sp-90 {
     width: 90% !important;
   }
