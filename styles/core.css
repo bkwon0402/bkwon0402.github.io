@@ -1255,7 +1255,7 @@ div.newsletterredesign {
 }
 
 .d-flex-media.ratio-1-15 .flex-img {
-  width: 34%; 
+  width: 35%; 
 }
 
 .d-flex-media.ratio-1-15 .flex-text-right {
@@ -1264,9 +1264,10 @@ div.newsletterredesign {
 
 .d-flex-media .caption {
   font-family: 'Roboto Mono', monospace;
-  font-size: 18px;
-  margin-top: 40px;
+  font-size: 15px;
+  margin-top: 25px;
   text-align: center !important;
+  color: #3F3E3E; 
 }
 
 .d-flex-media .title {
