@@ -126,7 +126,7 @@ h1 {}
 
 .img-100 {
     margin-top: 50px; 
-    margin-bottom: 50px; 
+    margin-bottom: 70px; 
 }
 
 
@@ -1252,6 +1252,7 @@ div.newsletterredesign {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 100px;
+  margin top: 80px; 
 }
 
 .d-flex-media.ratio-1-1 .flex-img,
