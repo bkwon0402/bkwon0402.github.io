@@ -120,12 +120,13 @@ h1 {}
   font-size: 30px;
   letter-spacing: 2.2px;
   color: #595959;
-  margin-top: 100px;
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .img-100 {
     margin-top: 50px; 
+    margin-bottom: 50px; 
 }
 
 
