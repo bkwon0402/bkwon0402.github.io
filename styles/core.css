@@ -141,6 +141,12 @@ h1 {}
     text-align: center;
 }
 
+.text_center img {
+    margin-bottom: 100px;    
+}
+
+
+
 .text_iplace_holder {
     font-family: Adobe Garamond Pro It;
     width: 0;
