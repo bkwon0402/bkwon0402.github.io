@@ -135,23 +135,23 @@ h1 {}
 
 
 .img-100 {
-    margin-top: 50px; 
-    margin-bottom: 70px; 
+    margin-top: 50px;
+    margin-bottom: 70px;
 }
 
 .new-block {
-    margin-bottom: 100px;     
+    margin-bottom: 100px;
 }
 
 .image-block {
-    margin-bottom: 20px;     
+    margin-bottom: 20px;
 }
 
 .caption {
-    font-family: 'Roboto Mono', monospace; 
-    font-size: 15px; 
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
     margin-top: 25px;
-    color: #3F3E3E; 
+    color: #3F3E3E;
 }
 
 .text_center {
@@ -1278,7 +1278,7 @@ div.newsletterredesign {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 100px;
-  margin-top: 80px; 
+  margin-top: 80px;
 }
 
 .d-flex-media.ratio-1-1 .flex-img,
@@ -1287,7 +1287,7 @@ div.newsletterredesign {
 }
 
 .d-flex-media.ratio-1-15 .flex-img {
-  width: 35%; 
+  width: 35%;
 }
 
 .d-flex-media.ratio-1-15 .flex-text-right {
@@ -1299,7 +1299,7 @@ div.newsletterredesign {
   font-size: 15px;
   margin-top: 25px;
   text-align: center !important;
-  color: #3F3E3E; 
+  color: #3F3E3E;
 }
 
 .d-flex-media .title {
@@ -1364,7 +1364,7 @@ div.newsletterredesign {
 
 .row-img {
   margin-bottom: 40px;
-  margin-top: 40px; 
+  margin-top: 40px;
   text-align: center;
 }
 
@@ -1493,6 +1493,10 @@ div.newsletterredesign {
 
 .row-3-img {
   margin-bottom: 60px;
+}
+
+.mb40 {
+  margin-bottom: 40px;
 }
 
 @media (max-width: 767px) {
