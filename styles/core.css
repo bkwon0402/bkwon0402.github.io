@@ -129,6 +129,9 @@ h1 {}
     margin-bottom: 70px; 
 }
 
+.new-block {
+    margin-bottom: 100px;     
+}
 
 .caption {
     font-family: 'Roboto Mono', monospace; 
