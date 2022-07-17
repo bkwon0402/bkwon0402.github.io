@@ -130,6 +130,13 @@ h1 {}
 }
 
 
+.caption {
+    font-family: 'Roboto Mono', monospace; 
+    font-size: 15px; 
+    margin-top: 25px;
+    color: #3F3E3E; 
+}
+
 .text_center {
     text-align: center;
 }
