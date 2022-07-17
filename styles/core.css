@@ -124,6 +124,16 @@ h1 {}
   margin-bottom: 40px;
 }
 
+
+.second-heading {
+  font-family: "Calluna";
+  font-size: 25px;
+  letter-spacing: 2.2px;
+  color: #595959;
+  margin-bottom: 30px;
+}
+
+
 .img-100 {
     margin-top: 50px; 
     margin-bottom: 70px; 
