@@ -151,6 +151,10 @@ h1 {}
     margin-bottom: 120px;
 }
 
+.top-block {
+    margin-top: 80px;   
+}
+
 .caption {
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
