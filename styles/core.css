@@ -1363,13 +1363,14 @@ div.newsletterredesign {
 }
 
 .row-img {
-  margin-bottom: 80px;
+  margin-bottom: 40px;
+  margin-top: 40px; 
   text-align: center;
 }
 
 .row-img .caption {
   margin-top: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   font-size: 15px !important;
   text-align: center !important;
   color: #3F3E3E !important;
