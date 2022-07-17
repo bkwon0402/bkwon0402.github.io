@@ -1496,7 +1496,7 @@ div.newsletterredesign {
 }
 
 .row-3-img .row-img {
-  margin-bottom: 20px;
+  margin-bottom: 20px !important;
 }
 
 .row-3-img {
