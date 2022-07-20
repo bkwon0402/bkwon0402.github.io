@@ -142,6 +142,10 @@ h1 {}
   margin-bottom: 30px;
 }
 
+.text-center {
+  text-align: center !important;
+}
+
 
 .img-100 {
     margin-top: 50px;
