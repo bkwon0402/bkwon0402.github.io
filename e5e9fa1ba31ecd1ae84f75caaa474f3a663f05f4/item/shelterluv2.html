@@ -334,8 +334,6 @@
                             </div>
                         </div>
                     </div>
-
-
                 </div>
             </div>
         </div>
@@ -450,64 +448,69 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
 
-                    <script type="text/javascript" src="/js/jquery.min.js"></script>
-                    <script type="text/javascript">
-                        $('#portfolio_content img').each(function (i, el) {
-                            var thisHref = $(el).attr('src');
-                            console.log(thisHref);
-                            $(el).wrap('<a href="' + thisHref + '" data-lightbox="lb_' + i + '"></a>');
-                        });
-                    </script>
-                    <script type="text/javascript" src="/js/lightbox.min.js"></script>
-                    <script type="text/javascript">
-                        $(document).ready(function () {
+</div>
 
-
-                            // navbar toggler
-                            $('.menu_toggler').on('click', function (e) {
-                                e.preventDefault();
-                                if (!$('body').hasClass('menu-open')) {
-                                    $('body').addClass('menu-open');
-                                    $('span.line.mid').css('opacity', 0);
-
-                                    $('.nav > ul > li').each(function (i, el) {
-                                        setTimeout(function (i) {
-                                            $(el).addClass('revealed');
-                                        }, i * 100 + 100);
-                                    });
-
-                                } else {
-                                    $('body').removeClass('menu-open');
-                                    setTimeout(function () {
-                                        $('span.line.mid').css('opacity', 1);
-                                    }, 300);
-
-                                    setTimeout(function () {
-                                        $('.nav ul > li.has-menu').removeClass('expanded');
-                                        $('.nav ul > li.has-menu .sub_ul').hide();
-
-                                        $('.nav > ul > li').removeClass('revealed');
-                                    }, 400);
-                                }
-                            });
-
-                            if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-                                $(window).on('pageshow', function (e) {
-                                    if (e.originalEvent.persisted) {
-                                        window.location.reload();
-                                    }
-                                });
-                            }
-
-                            lightbox.option({
-                                'disableScrolling': true,
-                                'resizeDuration': 200
-                            })
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript">
+        $('#portfolio_content img').each(function (i, el) {
+            var thisHref = $(el).attr('src');
+            console.log(thisHref);
+            $(el).wrap('<a href="' + thisHref + '" data-lightbox="lb_' + i + '"></a>');
+        });
+    </script>
+    <script type="text/javascript" src="/js/lightbox.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
 
 
-                        });
-                    </script>
+            // navbar toggler
+            $('.menu_toggler').on('click', function (e) {
+                e.preventDefault();
+                if (!$('body').hasClass('menu-open')) {
+                    $('body').addClass('menu-open');
+                    $('span.line.mid').css('opacity', 0);
+
+                    $('.nav > ul > li').each(function (i, el) {
+                        setTimeout(function (i) {
+                            $(el).addClass('revealed');
+                        }, i * 100 + 100);
+                    });
+
+                } else {
+                    $('body').removeClass('menu-open');
+                    setTimeout(function () {
+                        $('span.line.mid').css('opacity', 1);
+                    }, 300);
+
+                    setTimeout(function () {
+                        $('.nav ul > li.has-menu').removeClass('expanded');
+                        $('.nav ul > li.has-menu .sub_ul').hide();
+
+                        $('.nav > ul > li').removeClass('revealed');
+                    }, 400);
+                }
+            });
+
+            if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+                $(window).on('pageshow', function (e) {
+                    if (e.originalEvent.persisted) {
+                        window.location.reload();
+                    }
+                });
+            }
+
+            lightbox.option({
+                'disableScrolling': true,
+                'resizeDuration': 200
+            })
+
+
+        });
+    </script>
 </body>
 
 </html>
