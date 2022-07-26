@@ -374,6 +374,7 @@ hr.style-six {
     font-weight: normal;
     color: #595959;
     letter-spacing: 3px !important;
+    line-height: 120%; 
 }
 
 #portfolio_content p {
