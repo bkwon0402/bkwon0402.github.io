@@ -147,6 +147,10 @@ h1 {}
 }
 
 
+.text-center img {
+    margin-top: 70px;     
+}
+
 .img-100 {
     margin-top: 50px;
     margin-bottom: 70px;
@@ -1390,7 +1394,7 @@ div.newsletterredesign {
 
 .row-img {
   margin-bottom: 40px;
-  margin-top: 40px;
+  margin-top: 70px;
   text-align: center;
 }
 
@@ -1506,11 +1510,12 @@ div.newsletterredesign {
 }
 
 .caption-for-all {
-  margin-bottom: 40px;
+  margin-bottom: 70px;
   font-size: 15px !important;
   text-align: center !important;
   color: #3F3E3E !important;
   font-family: 'Roboto Mono', monospace;
+  margin-top: 20px; 
 }
 
 .row-3-img .row-img {
