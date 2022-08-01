@@ -131,7 +131,7 @@ h1 {}
   color: #595959;
   margin-top: 40px;
   margin-bottom: 40px;
-  line-height: 110%; 
+  line-height: 145%; 
 }
 
 
@@ -149,7 +149,7 @@ h1 {}
 
 
 .text-center img {
-    margin-top: 70px;     
+    margin-top: 70px !important;     
 }
 
 .img-100 {
@@ -1394,7 +1394,7 @@ div.newsletterredesign {
 }
 
 .row-img {
-  margin-bottom: 40px;
+  margin-bottom: 70px;
   margin-top: 70px;
   text-align: center;
 }
@@ -1516,11 +1516,11 @@ div.newsletterredesign {
   text-align: center !important;
   color: #3F3E3E !important;
   font-family: 'Roboto Mono', monospace;
-  margin-top: 20px; 
+  margin-top: 30px; 
 }
 
 .row-3-img .row-img {
-  margin-bottom: 20px !important;
+  margin-bottom: 30px !important;
 }
 
 .row-3-img {
