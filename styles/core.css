@@ -174,8 +174,17 @@ h1 {}
 }
 
 .image-top-margin {
-    margin-top: 40px;    
+    margin-top: 70px;    
 }
+
+
+.image-top-bottom-margin {
+      margin-top: 70px;    
+    margin-bottom: 70px; 
+}
+    
+    
+    
 
 .caption {
     font-family: 'Roboto Mono', monospace;
