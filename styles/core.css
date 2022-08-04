@@ -201,6 +201,15 @@ second-heading-top-margin {
     color: #3F3E3E;
 }
 
+
+.caption-left {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    margin-bottom: 30px;
+    color: #3F3E3E;
+    
+}
+
 .text_center {
     text-align: center;
 }
