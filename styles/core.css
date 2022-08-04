@@ -157,6 +157,13 @@ h1 {}
     margin-bottom: 70px;
 }
 
+.img-100-zero-margin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
 .new-block {
     margin-bottom: 70px;
 }
