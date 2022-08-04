@@ -120,7 +120,7 @@ h1 {}
   line-height: 179%;
   color: #8C8C8C;
   letter-spacing: 1.4px;
-  max-width: 768px;
+  max-width: 810px;
   margin: 15px auto;
 }
 
@@ -131,7 +131,7 @@ h1 {}
   color: #595959;
   margin-top: 40px;
   margin-bottom: 40px;
-  line-height: 145%; 
+  line-height: 145%;
 }
 
 
@@ -149,7 +149,7 @@ h1 {}
 
 
 .text-center a img {
-    margin-top: 70px !important;     
+    margin-top: 70px !important;
 }
 
 .img-100 {
@@ -181,25 +181,25 @@ h1 {}
 }
 
 .image-top-margin {
-    margin-top: 70px;    
+    margin-top: 70px;
 }
 
 
 .image-top-bottom-margin {
-      margin-top: 70px;    
-    margin-bottom: 70px; 
+      margin-top: 70px;
+    margin-bottom: 70px;
 }
-    
-    
+
+
 .second-heading-margin {
-        margin-bottom: 70px;  
-    margin-top: 40px; 
+        margin-bottom: 70px;
+    margin-top: 40px;
 }
 
 .second-heading-top-margin {
-        margin-top: 70px; 
+        margin-top: 70px;
 }
-    
+
 .caption {
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
@@ -213,7 +213,7 @@ h1 {}
     font-size: 15px;
     margin-bottom: 30px;
     color: #3F3E3E;
-    
+
 }
 
 .text_center {
@@ -415,7 +415,7 @@ hr.style-six {
     font-weight: normal;
     color: #595959;
     letter-spacing: 3px !important;
-    line-height: 120%; 
+    line-height: 120%;
 }
 
 #portfolio_content p {
@@ -1548,7 +1548,7 @@ div.newsletterredesign {
   text-align: center !important;
   color: #3F3E3E !important;
   font-family: 'Roboto Mono', monospace;
-  margin-top: 30px; 
+  margin-top: 30px;
 }
 
 .row-3-img .row-img {
