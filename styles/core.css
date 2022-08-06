@@ -1537,7 +1537,7 @@ div.newsletterredesign {
 }
 
 .section-portfolio a:hover img {
-  animation: imageAnimation 1.5s linear 0s forwards normal;
+  animation: imageAnimation 1s linear 0s forwards normal;
 }
 
 .section-portfolio .d-flex {
