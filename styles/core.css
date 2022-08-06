@@ -1711,7 +1711,7 @@ div.newsletterredesign {
   }
 }
 
-.portfolio-item .thumbnail a:hover img {
+.portfolio-item .thumbnail:hover img {
   animation-name: imageAnimation;
   animation-duration: 4s;
 }
