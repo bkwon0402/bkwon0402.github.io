@@ -1533,13 +1533,16 @@ div.newsletterredesign {
 }
 
 .section-portfolio a img {
-  animation-name: imageAnimation;
-  animation-duration: 4s;
+  transform: translateY(0);
+  transition: .3s all ease;
 }
 
 .section-portfolio a:hover img {
+  transform: translateY(-20px);
+  transition: .3s all ease;
   animation-name: imageAnimation;
-  animation-duration: 4s;
+  animation-duration: 1s;
+  animation-delay: .3s;
 }
 
 .section-portfolio .d-flex {
