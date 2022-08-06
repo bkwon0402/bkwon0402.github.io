@@ -265,9 +265,9 @@ h1 {}
 }
 
 .hero_p {
-    font-size: 19px;
+    font-size: 21px;
     color: #8C8C8C;
-    line-height: 1.6;
+    line-height: 179%;
 }
 
 .line_sep {
@@ -1497,9 +1497,9 @@ div.newsletterredesign {
 }
 
 .section-portfolio .lead {
-  font-size: 19px;
+  font-size: 21px;
   color: #8C8C8C;
-  line-height: 1.6;
+  line-height: 179%;
   margin-bottom: 28px;
 }
 
