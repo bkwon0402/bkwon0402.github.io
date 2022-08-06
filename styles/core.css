@@ -1528,7 +1528,11 @@ div.newsletterredesign {
   }
 }
 
-.section-portfolio a:hover img {
+.section-portfolio a {
+  overflow: hidden;
+}
+
+.section-portfolio a img {
   animation-name: imageAnimation;
   animation-duration: 4s;
 }
