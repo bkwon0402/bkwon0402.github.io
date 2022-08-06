@@ -1513,8 +1513,25 @@ div.newsletterredesign {
   margin-bottom: 100px;
 }
 
+@keyframes imageAnimation {
+  0% {
+    transform: translateY(0);
+
+  }
+
+  50% {
+    transform: translateY(20px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
 .section-portfolio a:hover img {
   box-shadow: 0px 0px 12px #eee;
+  animation-name: imageAnimation;
+  animation-duration: 4s;
 }
 
 .section-portfolio .d-flex {
@@ -1696,22 +1713,4 @@ div.newsletterredesign {
   }
 }
 
-@keyframes imageAnimation {
-  0% {
-    transform: translateY(0);
 
-  }
-
-  50% {
-    transform: translateY(20px);
-  }
-
-  100% {
-    transform: translateY(0);
-  }
-}
-
-.portfolio-item .thumbnail:hover img {
-  animation-name: imageAnimation;
-  animation-duration: 4s;
-}
