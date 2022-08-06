@@ -1520,7 +1520,7 @@ div.newsletterredesign {
   }
 
   50% {
-    transform: translateY(-20px);
+    transform: translateY(20px);
   }
 
   100% {
@@ -1533,14 +1533,11 @@ div.newsletterredesign {
 }
 
 .section-portfolio a img {
-  nimation-name: imageAnimation;
-  animation-duration: 1s;
-  animation-timing-function: linear;
-  animation-play-state: paused;
+
 }
 
 .section-portfolio a:hover img {
-  animation-play-state: running;
+  animation: imageAnimation 1s linear 0s forwards reverse;
 }
 
 .section-portfolio .d-flex {
