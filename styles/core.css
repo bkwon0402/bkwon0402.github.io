@@ -1695,3 +1695,23 @@ div.newsletterredesign {
     width: 10% !important;
   }
 }
+
+@keyframes imageAnimation {
+  0% {
+    transform: translateY(0);
+
+  }
+
+  50% {
+    transform: translateY(20px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.portfolio-item .thumbnail a:hover img {
+  animation-name: imageAnimation;
+  animation-duration: 4s;
+}
