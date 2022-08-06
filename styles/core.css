@@ -1539,10 +1539,8 @@ div.newsletterredesign {
 
 .section-portfolio a:hover img {
   transform: translateY(-20px);
-  transition: .3s all ease;
   animation-name: imageAnimation;
   animation-duration: 1s;
-  animation-delay: .3s;
 }
 
 .section-portfolio .d-flex {
