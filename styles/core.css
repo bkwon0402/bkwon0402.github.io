@@ -1721,6 +1721,10 @@ div.newsletterredesign {
   }
 }
 
+.d-block-md {
+  display: none;
+}
+
 @media (max-width: 767px) {
   .d-none-md {
     display: none !important;
