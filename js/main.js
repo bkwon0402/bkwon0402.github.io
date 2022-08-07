@@ -25,6 +25,6 @@ $('.d-flex-media .flex-grow-1 .title').each(function(index, value) {
     }
 
     if (isMobile()) {
-        $(this).find(".title-sp").html(all.join());
+        $(this).children(".title-sp").html(all.join());
     }
 });
