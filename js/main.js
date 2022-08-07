@@ -21,7 +21,7 @@ $('.d-flex-media').each(function(index, value) {
     }).get();
 
     if (isMobile()) {
-        $(this).hide();
+        $(this).children(".flex-grow-1 .title").hide();
     }
 
     if (isMobile()) {
