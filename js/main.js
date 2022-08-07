@@ -15,16 +15,16 @@ function updateIsMobile(breakpoint) {
     return document.body.clientWidth < breakpoint;
 }
 
-$('.d-flex-media .flex-grow-1 .title').each(function (index, value) {
-    if (isMobile()) {
-        $(this).hide();
-    }
-
+$('.d-flex-media .flex-grow-1 .title').each(function(index, value) {
     var all = $(this).map(function() {
         return this.innerHTML;
     }).get();
 
     if (isMobile()) {
-        $(".title-sp").html(all.join());
+        $(this).hide();
+    }
+
+    if (isMobile()) {
+        $(this).find(".title-sp").html(all.join());
     }
 });
