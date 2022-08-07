@@ -1721,18 +1721,18 @@ div.newsletterredesign {
   }
 }
 
-.img-sp {
+.d-block-md {
   display: none;
 }
 
 @media (max-width: 767px) {
-  .img-pc {
+  .d-none-md {
     display: none !important;
   }
 }
 
 @media (min-width: 768px) {
-  .img-sp {
+  .d-block-md {
     display: block !important;
   }
 }
