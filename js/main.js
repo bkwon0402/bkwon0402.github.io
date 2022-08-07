@@ -11,7 +11,11 @@ function isMobile() {
     return isMobile;
 }
 
-$('.d-flex-media .title').each(function (index, value) {
+$('.d-flex-media .flex-grow-1 .title').each(function (index, value) {
+    if (isMobile()) {
+        $(this).hide();
+    }
+
     var all = $(this).map(function() {
         return this.innerHTML;
     }).get();
