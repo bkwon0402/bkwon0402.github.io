@@ -15,8 +15,8 @@ function updateIsMobile(breakpoint) {
     return document.body.clientWidth < breakpoint;
 }
 
-$('.d-flex-media .flex-grow-1 .title').each(function(index, value) {
-    var all = $(this).map(function() {
+$('.d-flex-media').each(function(index, value) {
+    var all = $(this).children(".flex-grow-1 .title").map(function() {
         return this.innerHTML;
     }).get();
 
@@ -25,6 +25,6 @@ $('.d-flex-media .flex-grow-1 .title').each(function(index, value) {
     }
 
     if (isMobile()) {
-        $(".d-flex-media").children(".title-sp").html(all.join());
+        $(this).children(".title-sp").html(all.join());
     }
 });
