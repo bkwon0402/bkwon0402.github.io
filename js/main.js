@@ -11,6 +11,10 @@ function isMobile() {
     return isMobile;
 }
 
+function updateIsMobile(breakpoint) {
+    return document.body.clientWidth < breakpoint;
+}
+
 $('.d-flex-media .flex-grow-1 .title').each(function (index, value) {
     if (isMobile()) {
         $(this).hide();
