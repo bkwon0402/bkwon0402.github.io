@@ -36,14 +36,3 @@ $('.d-flex-media').each(function(index, value) {
         $(this).find(".title-sp").html(all.join());
     }
 });
-
-
-window.onload=passwordCheck;
-function passwordCheck()
-{
-    var password = prompt("Please enter the password.");
-    if (password !== "hello")
-    {
-        passwordCheck();
-    }
-}
