@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/favicon3.ico/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/favicon3.ico/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/favicon3.ico/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/favicon3.ico/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/favicon3.ico/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/favicon3.ico/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/favicon3.ico/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/favicon3.ico/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon3.ico/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/favicon3.ico/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon3.ico/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon3.ico/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon3.ico/favicon-16x16.png">
+		<link rel="manifest" href="/favicon3.ico/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+   		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+		<meta name="theme-color" content="#ffffff">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="noindex">
+	<title>About</title>
+	<meta name="author" content="keerthik omanakuttan" />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
+	<!-- Main CSS -->
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="/styles/bs.min.css" type="text/css"/>
+	<link rel="stylesheet" href="/styles/core.css" type="text/css"/ >
+	<style type="text/css">
+		#homeLogo {
+			display: block;
+		}
+
+		.header {
+
+		}
+	</style>
+</head>
+<body>
+   <!--HTML for the navigation bar, primarily-->
+<div class="container">
+  <div class="content">
+    <div class="header">
+      <div id="logoContainer">
+       <a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">
+          <div id="homeLogo">b</div>
+        </a>
+      </div>
+       <a href="#" class="menu_toggler">
+        <span class="line top"></span>
+        <span class="line mid"></span>
+        <span class="line bot"></span>
+    </a>
+
+      <div class="nav">
+        <ul>
+          <li class="nav-work"><a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">Work</a></li>
+
+     <li class="nav-about active"><a href="/about.html">About</a></li>
+      <!--<li class="nav-contact"><a href="/contact.html">Contact</a></li>-->
+
+
+        </ul>
+      </div>
+    </div>
+
+<div class="clear">
+    <div class="say">
+        <div class="selfie2"><img src="/images/selfie.png"></div>
+        <div class="aboutme">
+            Once I was a psychology researcher, marketer, and storyteller. Nowadays I use the skills I learned—skills to understand and engage people—as a designer to create efficient digital experiences. I graduated from Stanford University with a BA in Economics and Psychology. Outside of work, I'm into music and dance (I'm loving watching ice-skating nowadays) and during my semi-nomadic life as a freelance designer, I’ve lived on islands off of Korea and Japan.
+
+
+            <p class="disclaimer">*disclaimer: I rarely take selfies.</p>
+
+            <div class="social-contact">
+                <div class="social">
+                    <a href="https://www.behance.net/bkwon" target="_blank">Behance</a>
+                </div>
+
+                <div class="social">
+                    <a href="https://www.linkedin.com/in/boahkwon/" target="_blank">Linkedln</a>
+                </div>
+
+                <div class="social">
+                    <a href="mailto:bkwon0402@gmail.com">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+</div>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+          // navbar toggler
+    $('.menu_toggler').on('click', function(e) {
+        e.preventDefault();
+        if (!$('body').hasClass('menu-open')) {
+            $('body').addClass('menu-open');
+            $('span.line.mid').css('opacity', 0);
+
+            $('.nav > ul > li').each(function(i, el) {
+                setTimeout(function(i) {
+                    $(el).addClass('revealed');
+                }, i * 100 + 100);
+            });
+
+        } else {
+            $('body').removeClass('menu-open');
+            setTimeout(function() {
+                $('span.line.mid').css('opacity', 1);
+            }, 300);
+
+            setTimeout(function() {
+                $('.nav ul > li.has-menu').removeClass('expanded');
+                $('.nav ul > li.has-menu .sub_ul').hide();
+
+                $('.nav > ul > li').removeClass('revealed');
+            }, 400);
+        }
+    });
+    });
+    </script>
+

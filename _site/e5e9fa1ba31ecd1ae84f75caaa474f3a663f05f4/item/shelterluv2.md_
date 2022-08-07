@@ -1,0 +1,451 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon3.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon3.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon3.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon3.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon3.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon3.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon3.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon3.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon3.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon3.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon3.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon3.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon3.ico/favicon-16x16.png">
+<link rel="manifest" href="/favicon3.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /> <head>
+    	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Shelterluv </title>
+	<meta name="author" content="keerthik omanakuttan" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="/styles/bs.min.css" type="text/css"/>
+	<link rel="stylesheet" href="/styles/lightbox.min.css" type="text/css"/>
+	<link rel="stylesheet" href="/styles/core.css" type="text/css"/>
+
+
+    <style type="text/css">
+    #homeLogo {
+        display: block;
+    }
+    /*.header {
+			position: fixed;
+		}*/
+    </style>
+</head>
+
+<body>
+    <!--HTML for the navigation bar, primarily-->
+<div class="header">
+    <div id="logoContainer">
+        <a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">
+            <div id="homeLogo">b</div>
+        </a>
+    </div>
+    <a href="#" class="menu_toggler">
+        <span class="line top"></span>
+        <span class="line mid"></span>
+        <span class="line bot"></span>
+    </a>
+    <div class="nav">
+        <ul>
+            <li class="nav-work active"><a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">Work</a></li>
+            <li class="nav-about"><a href="/about.html">About</a></li>
+            <!--<li class="nav-contact"><a href="/contact.html">Contact</a></li>-->
+        </ul>
+    </div>
+</div>
+
+    <div id="portfolio_hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    Shelterluv
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="section-img-hero"> <img src="/images/MacBook.png" class="img-lg img-fluid" alt=""> <div class="inner"> <p class="lead"> I worked with the PM at Shelterluv to help design the Field Services product. a new product initiative that allows government-based animal shelters to track animal-related law eníorcement work they do in the community. </p> <div class="row"> <div class="col"> <div class="text-strong"> Timeline </div> March - June 2021 </div> <div class="col"> <div class="text-strong"> My Role </div> Front end development. UX/UI, User interview </div> <div class="col"> <div class="text-strong"> Team </div> Senior PM, Associate<br/> Director of Product </div> </div> </div> </section>
+
+    <div id="portfolio_content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <hr class="style-six"> <style type="text/css" rel="stylesheet">
+.section-img-hero .img-lg { height: 700px; }
+.section-img-hero .col {
+    line-height: 1.8;
+}	
+</style>
+	
+	
+
+	
+# Design Process 
+
+
+<div class="small_container">		
+<div class="second-heading">
+1. Mobile-First Design
+</div> 
+Once I shared UX feedback on the web wireframes, I started prototyping mobile designs. It was important that the product be mobile-friendly since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made sense.
+</div> 
+<img src="/images/mobile-first.png" class="img-lg img-fluid" alt="">
+
+
+
+<div class="small_container">		
+<div class="second-heading"> 2. Considering shifting user needs
+</div> 
+
+
+<div class="d-flex d-flex-media flex-top-space ratio-1-15" style="max-width: 1140px">
+<div class="flex-shrink-0 flex-img">
+<img src="/images/phone-screen.png" width="500" class="img-fluid" alt="Mobile homepage">
+<div class="caption">
+Mobile Homepage
+</div>
+</div>
+<div class="flex-grow-1 flex-text-right" style="padding-left: 50px">
+In designing the mobile product, I kept in mind that users often depend on the mobile product to keep track of their own assigned work while in the field. Hence, the designs immediately present today’s to-do list once users open the app — and the list is organized in the order of priority so it’s extremely easy to review workflow, and users can easily update information on cards.
+<br/>
+<br/>
+This makes sense because users often depend on the mobile product to keep track of assigned work while in the field.
+</div>
+</div>
+
+<div class="d-flex d-flex-media ratio-1-1" style="max-width: 900px">
+<div class="flex-shrink-0 flex-img">
+<img src="/images/compare.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="flex-grow-1 flex-text-right" style="padding-left: 50px">
+<h2 class="title">
+i. Users couldn’t easily track their work
+</h2>
+Users couldn't easily update information on cards. Currently, they need to click on the more button located on the top right of the card to access the long list of actions they can take.
+</div>
+</div>
+                    
+<div class="row row-img">
+<div class="col">
+<img src="/images/compare.png" width="500" class="img-fluid" alt="">
+<p class="caption">Column headers used on cards</p>
+</div>
+<div class="col">
+<img src="/images/compare.png" width="500" class="img-fluid" alt="">
+<p class="caption">Column headers not used on cards</p>
+</div>
+</div>
+
+
+<div class="row-3-img">
+<div class="row row-img">
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+<div class="col">
+<img src="/images/img-dummy-md.png" width="500" class="img-fluid" alt="">
+</div>
+</div>
+
+<p class="caption-for-all">Column headers used on cards</p>
+</div> 
+
+# The  
+
+<div class="small_container">
+
+
+When I joined the project, the PM provided key information on the product as well as web wireframes for some of the key pages. After reviewing the information, I asked clarifying questions then started thinking through the UX in the wireframes.  
+<br> 
+<br> 
+</div> 
+
+# User-Centered Design 
+
+<div class="small_container">
+I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided. 
+<br> 
+</div> 
+
+<div class="text_center">
+	<img src="/images/sl1.png" width="800" >
+	 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
+
+
+<div class="small_container">
+First, the product falls short of meeting the expectations of enabling users (i.e officers resolving animal-related incidents in the community) to efficiently track their work because users can’t easily update information on cards. Currently, users need to click on the more button located on the top right of the card to access the list of actions they can take. 
+</div> 
+
+
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl2.png" width="300" >
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">The <em> more </em> button on top right  </p> </div>
+<br> 
+
+
+<div class="small_container">
+Second, users couldn’t efficiently review their assigned work because the tab menu separates Activities and Cases. From an officer’s point of view, it’s not so important whether an incident is classified as an Activity or a Case (this distinction exists for legal purposes). What matters to them is that they can quickly review their work, so merging the Activities and Cases tabs makes sense.  
+<br> 
+<br>	
+	Third, the <em> Assigned to </em> filter on top right complicates workflow for an individual officer since they need to go through the extra step of clicking their name to start reviewing assigned work. Further, the organization as a whole needs to be able to easily review workflow for all officers, so I felt it was necessary that we revamp the designs to cater to the needs of both individual users’ and the organization.  
+<br> 
+<br>
+	Lastly, users couldn’t easily understand <em>Priority Level</em>, a piece of information that user research showed us to be critical to users. In the original design, <em>Priority Level</em> consisted of the vertical color strip on the left side of the card and text info (e.g. Priority: 1) on the card. 
+</div> 
+<br> 
+<div class="text_center">
+	<img src="/images/sl3.png" width="800" >
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">Current <em>Priority Level</em> designs </p> </div>
+<br> 
+
+<div class="small_container">
+However, it makes more sense to merge the color strip and the text info; otherwise, users might not remember which level each color indicates (and there are 10 different priority levels) or they might miss the text info. 
+<br> 
+
+
+The team was excited to receive my feedback. Here is the final high-fidelity mockup of the same page.   
+</div> 
+<br> 
+<div class="text_center">
+	<img src="/images/sl4.png" >
+	<br> 
+</div>
+
+<div class="small_container">
+In the final design, users are able to easily take key actions on cards (less important actions are hidden under the more icon on top right), individual users as well as the organization as a whole can easily review workflow thanks to the <em>My Activities & Cases</em> and <em>All Activities & Cases</em> tab menus, and <em>Priority Level </em>information stands out. 
+</div> 
+<br> 
+<br> 
+# Design Process 
+<div class="small_container"> 
+Arriving at the final high-fidelity mockups took close collaboration with the team, which I achieved in the following ways: 
+<br> 
+<br>
+First, once I shared UX feedback on the web wireframes, I started prototyping mobile designs.   It was extremely important that the product be mobile-friendly, since users will often be using the product on mobile while doing fieldwork, so crafting solutions for mobile then adapting the designs to the web made complete sense.  
+<br> 
+<br>
+Second, I and I and the PM  started building each other’s ideas, which pushed us to create more creative solutions. For example, the PM liked the idea of putting the status information on top right of the card because easy discoverability will help users readily understand status. I liked this direction too, and started exploring visualizing information so that it becomes even easier for users to register status information at a glance.
+</div> 
+
+<div class="text_center">
+	<img src="/images/sl5.png" width="800" >
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;"> Initial prototype of how I visualized status information   </p> </div>
+<br> 
+
+<div class="small_container"> 
+	After prototyping, I eventually came up with mini progress bar icons that fit right in with the other icons used in the web product. 
+</div> 
+<br> 	
+<div class="text_center">
+	<img src="/images/sl6.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;"> Final designs of how I visualized status information <strong>Left</strong>: mobile <strong>Right</strong>: web 
+   </p> </div>
+<br> 
+
+<div class="small_container"> 
+	These icons were not only received well by the users but also straightforward to implement from a technical standpoint. Furthermore, they help create a coherent user experience because they go well with the other icons used in the web cards.    
+<br>
+<br> 
+Third, I tested prototypes with users to validate and iterate design decisions and clear any doubts we had. For example, we liked the idea of keeping things simple by not using column headers on cards. 
+</div> 
+<br>
+
+<div class="text_center">
+	<img src="/images/sl7.png" width="800">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: Column headers (e.g. Activity type/subtype) used on cards <strong>Right</strong>: Column headers are not used on cards 
+   </p> </div>
+<br> 
+<br> 
+<div class="small_container"> 
+However, noting that our hunches could be proved wrong (in fact, I thought not using labels for status on top right might leave users confused), we tested prototypes with users. During this process, I took the initiative to test other things that we can test at this stage. For example, while we hadn’t worked on screens other than the homepage, I put together a clickable prototype that linked the homepage to rough prototypes of other key pages so that we could test whether users are able to accurately take intended actions on cards while on the homepage. It’s better to fail early and course- correct than wait until you have full designs ready, so I felt that it was the right call to test additional features at that point.  
+<br>
+<br> 
+We were excited to find, based on these user tests, that folks had no problem taking actions on cards and that the information on cards all made sense to them even without the labels. 
+<br>
+<br> 
+In other rounds of testing, we iterated based on feedback. For example, we found that filters on the web had a usability issue and we moved the checkboxes to the left of selections so that it’s clearer to users what selections they’re making. 
+</div> 
+<br> 
+
+
+<div class="text_center">
+	<img src="/images/sl8.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: Original filter design  <strong>Right</strong>: Improved filter design
+   </p> </div>
+<br> 
+
+<div class="small_container"> 
+Fourth, I carefully considered how user needs might shift depending on user choice of device. For example, in designing the mobile product, I kept in mind that users often depend on the mobile product to keep track of their own assigned work while in the field. Hence, the designs immediately present today’s to-do list once users open the app — and the list is organized in the order of priority so it’s extremely easy to review workflow, and users can easily update information on cards. 
+</div> 
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl9.png"  width="1100">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	Mobile homepage
+   </p> </div>
+<br> 
+
+<div class="small_container"> 
+In designing the web product, on the other hand, I kept in mind that users are likely to have  different needs. While an individual officer may well want to review their workflow on the web, it’s also likely that the organization as a whole, including dispatch officers who assign work, will use the web interface to review workflow at the organization level. Keeping organizational needs in mind, I designed the web product so that users have easier access to All Activities & Cases. In the mobile product, All Activities & Cases is in the hamburger menu and made less prominent, though still accessible. 
+</div> 
+<br> 
+<div class="text_center">
+	<img src="/images/sl10.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+	<strong>Left</strong>: <em>All Activities & Cases </em>on mobile <strong>Right</strong>:  <em>All Activities & Cases </em>on web 
+   </p> </div>
+<br> 
+
+<div class="small_container"> 
+Fifth, I reviewed research on UX as I designed and shared UX research insights with the team in order to quickly get buy-in. For example, the form wireframes that the team originally created had usability issues. 
+</div> 
+
+<div class="text_center">
+	<img src="/images/sl11.png" width="800">
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">
+	Form wireframe the team provided 
+   </p> </div>
+<br> 
+
+<div class="small_container"> 
+To help guide the design process, I reviewed UX research on the topic and shared key insights with the team.
+</div> 
+
+<div class="text_center">
+	<img src="/images/sl12.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+	Some of the UX research insights I shared with the team 
+   </p> </div>
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl13.png">
+	<br> 
+</div>
+<div class="feedlycaption"><p style="text-align: center;">
+	Final form designs
+   </p> </div>
+<br> 
+<br> 
+# What I would do differently 
+<div class="small_container"> 
+I’d reduce whitespace on cards on mobile, particularly in the middle section where the address and assigned officer information are found. This way, users could review more cards/info as they scroll down. I’d also reconsider how we did icon designs on mobile cards. While we liked the idea of keeping things simple and not using icons on mobile cards, we kept the person icon for the assigned officer info since we thought that might help people more easily digest information as a whole. However, I’d explore other ways to represent information so that information flows a bit better. 
+</div> 
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="footer">
+    <div class="footer-message">
+        © Bo Ah Kwon * 2022 
+    </div>
+</div>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+$('#portfolio_content img').each(function(i, el) {
+    var thisHref = $(el).attr('src');
+    console.log(thisHref);
+    $(el).wrap('<a href="' + thisHref + '" data-lightbox="lb_' + i + '"></a>');
+});
+</script>
+<script type="text/javascript" src="/js/lightbox.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+   
+
+
+
+    // navbar toggler
+    $('.menu_toggler').on('click', function(e) {
+        e.preventDefault();
+        if (!$('body').hasClass('menu-open')) {
+            $('body').addClass('menu-open');
+            $('span.line.mid').css('opacity', 0);
+
+            $('.nav > ul > li').each(function(i, el) {
+                setTimeout(function(i) {
+                    $(el).addClass('revealed');
+                }, i * 100 + 100);
+            });
+
+        } else {
+            $('body').removeClass('menu-open');
+            setTimeout(function() {
+                $('span.line.mid').css('opacity', 1);
+            }, 300);
+
+            setTimeout(function() {
+                $('.nav ul > li.has-menu').removeClass('expanded');
+                $('.nav ul > li.has-menu .sub_ul').hide();
+
+                $('.nav > ul > li').removeClass('revealed');
+            }, 400);
+        }
+    });
+
+    if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    $(window).on('pageshow', function(e) {
+        if (e.originalEvent.persisted) {
+            window.location.reload();
+        }
+    });
+}
+
+lightbox.option({
+      'disableScrolling': true,
+      'resizeDuration': 200
+    })
+
+
+});
+</script>
+</body>
+
+</html>

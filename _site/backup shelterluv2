@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon3.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon3.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon3.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon3.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon3.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon3.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon3.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon3.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon3.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon3.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon3.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon3.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon3.ico/favicon-16x16.png">
+<link rel="manifest" href="/favicon3.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /> <head>
+    	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>ShelterLuv - ux/ui </title>
+	<meta name="author" content="keerthik omanakuttan" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
+	<!-- Main CSS -->
+	<link rel="stylesheet" href="/styles/bs.min.css" type="text/css"/>
+	<link rel="stylesheet" href="/styles/lightbox.min.css" type="text/css"/>
+	<link rel="stylesheet" href="/styles/core.css" type="text/css"/>
+
+
+    <style type="text/css">
+    #homeLogo {
+        display: block;
+    }
+    /*.header {
+			position: fixed;
+		}*/
+    </style>
+</head>
+
+<body>
+    <!--HTML for the navigation bar, primarily-->
+<div class="header">
+    <div id="logoContainer">
+        <a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">
+            <div id="homeLogo">b</div>
+        </a>
+    </div>
+    <a href="#" class="menu_toggler">
+        <span class="line top"></span>
+        <span class="line mid"></span>
+        <span class="line bot"></span>
+    </a>
+    <div class="nav">
+        <ul>
+            <li class="nav-work active"><a href="/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/index.html">Work</a></li>
+            <li class="nav-about"><a href="/about.html">About</a></li>
+            <!--<li class="nav-contact"><a href="/contact.html">Contact</a></li>-->
+        </ul>
+    </div>
+</div>
+
+    <div id="portfolio_hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    ShelterLuv - ux/ui
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div id="portfolio_content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <hr class="style-six"> # The Challenge
+
+<div class="small_container">
+
+I worked with the PM at Shelterluv to help design the Field Services product, a new product initiative that allows government-based animal shelters to track animal-related law enforcement work they do in the community.  
+
+</div>	 
+
+<br>
+
+<div class="small_container">
+
+<h1> The Process </h1> 
+
+When I joined the project, the PM provided key information on the product as well as web wireframes for some of the key pages. After reviewing the information, I asked clarifying questions then started thinking through the UX in the wireframes.  
+
+</div> 
+<br> 
+
+<div class="small_container">
+
+<h1> User-Centered Design </h1> 
+
+I quickly noted that the wireframes don’t meet critical user needs and that it’s important that we improve the UX if the product were to be successful. Here are some of the UX critiques and recommendations I provided. 
+</div> 
+
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl1.png" width="800" >
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">Homepage wireframe that I was provided with</p> </div>
+<br> 
+
+
+
+<div class="small_container">
+First, the product falls short of meeting the expectations of enabling users (i.e officers resolving animal-related incidents in the community) to efficiently track their work because users can’t easily update information on cards. Currently, users need to click on the more button located on the top right of the card to access the list of actions they can take. 
+</div> 
+
+
+<br> 
+
+<div class="text_center">
+	<img src="/images/sl2.png" width="500" >
+	<br> 
+</div>
+<br> 
+<div class="feedlycaption"><p style="text-align: center;">The <em> more </em> button on top right  </p> </div>
+<br> 
+
+
+<div class="small_container">
+Second, asdfasdf  Third, asdfsdfasdfadsf
+</div> 
+
+
+# Takeaway 
+ 
+<div class="small_container">
+
+	A designer’s job is not just to make things pretty, but to make things work better. The idea that designers can borrow insights from psychology to design better products and services was eye-opening. The research assistantship helped me build a strong foundation in social psychology and behavioral economics, which helps me understand what makes users tick at a deeper level. 
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="footer">
+    <div class="footer-message">
+        © Bo Ah Kwon * 2022 
+    </div>
+</div>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+$('#portfolio_content img').each(function(i, el) {
+    var thisHref = $(el).attr('src');
+    console.log(thisHref);
+    $(el).wrap('<a href="' + thisHref + '" data-lightbox="lb_' + i + '"></a>');
+});
+</script>
+<script type="text/javascript" src="/js/lightbox.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+   
+
+
+
+    // navbar toggler
+    $('.menu_toggler').on('click', function(e) {
+        e.preventDefault();
+        if (!$('body').hasClass('menu-open')) {
+            $('body').addClass('menu-open');
+            $('span.line.mid').css('opacity', 0);
+
+            $('.nav > ul > li').each(function(i, el) {
+                setTimeout(function(i) {
+                    $(el).addClass('revealed');
+                }, i * 100 + 100);
+            });
+
+        } else {
+            $('body').removeClass('menu-open');
+            setTimeout(function() {
+                $('span.line.mid').css('opacity', 1);
+            }, 300);
+
+            setTimeout(function() {
+                $('.nav ul > li.has-menu').removeClass('expanded');
+                $('.nav ul > li.has-menu .sub_ul').hide();
+
+                $('.nav > ul > li').removeClass('revealed');
+            }, 400);
+        }
+    });
+
+    if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    $(window).on('pageshow', function(e) {
+        if (e.originalEvent.persisted) {
+            window.location.reload();
+        }
+    });
+}
+
+lightbox.option({
+      'disableScrolling': true,
+      'resizeDuration': 200
+    })
+
+
+});
+</script>
+</body>
+
+</html>
