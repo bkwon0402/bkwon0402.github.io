@@ -1006,7 +1006,7 @@ div.wefinanceemail {
 
 .say .selfie2 {
   margin-right: 60px;
-    margin-bottom: 50px; 
+    margin-bottom: 50px;
 }
 
 .hi {
@@ -1721,4 +1721,14 @@ div.newsletterredesign {
   }
 }
 
+@media (max-width: 767px) {
+  .d-none-md {
+    display: none !important;
+  }
+}
 
+@media (min-width: 768px) {
+  .d-block-md {
+    display: block !important;
+  }
+}
