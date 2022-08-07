@@ -16,15 +16,29 @@ function updateIsMobile(breakpoint) {
 }
 
 $('.d-flex-media').each(function(index, value) {
-    var all = $(this).children(".flex-grow-1 .title").map(function() {
+    var all = $(this).find(".flex-grow-1 .title").map(function() {
         return this.innerHTML;
     }).get();
 
     if (isMobile()) {
-        $(this).children(".flex-grow-1 .title").hide();
+        $(this).find(".flex-grow-1 .title").hide();
     }
 
     if (isMobile()) {
-        $(this).children(".title-sp").html(all.join());
+        $(this).find(".title-sp").html(all.join());
     }
 });
+
+
+function passwordCheck(){
+    var password = prompt("Please enter the password.");
+    if (password==="ilikepie"){
+        window.location="realpage.html";
+    } else if (password!='' && password!=null) {
+        while(password !=="ilikepie"){
+            password = prompt("Please enter the password.");
+        }
+        window.location="realpage.html";
+    }
+}
+window.onload=passwordCheck;
