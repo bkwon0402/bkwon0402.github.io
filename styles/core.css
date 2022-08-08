@@ -200,6 +200,11 @@ h1 {}
         margin-top: 70px;
 }
 
+.custom-top-margin {
+    margin-top: 20px; 
+}
+
+
 .caption {
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
