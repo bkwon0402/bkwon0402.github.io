@@ -258,7 +258,7 @@ h1 {}
 }
 
 #hero {
-    font-size: 39px;
+    font-size: 45px;
     font-style: normal;
     letter-spacing: 2.6px;
     font-family: "Calluna";
@@ -279,7 +279,7 @@ h1 {}
     height: 1px;
     width: 40px;
     background-color: #00;
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 
 .lightboxOverlay {
@@ -1506,7 +1506,7 @@ div.newsletterredesign {
   font-size: 21px;
   color: #8C8C8C;
   line-height: 179%;
-  margin-bottom: 28px;
+  margin-bottom: 20px;
 }
 
 .section-portfolio {
